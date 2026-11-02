@@ -99,7 +99,17 @@ def parse_films(body):
         raise ValueError("No validated eight-column film rows; nothing saved")
     ranks = [x["rank"] for x in films]
     if len(set(ranks)) != len(ranks) or ranks[0] != 1:
-        raise ValueError("Unexpected film ranking structure")
+        from collections import Counter
+        counts = Counter(ranks)
+        duplicates = [(rank, count) for rank, count in counts.items() if count > 1]
+        print("Diagnostic: candidate films:", len(films), flush=True)
+        print("Diagnostic: first 20 ranks:", ranks[:20], flush=True)
+        print("Diagnostic: last 20 ranks:", ranks[-20:], flush=True)
+        print("Diagnostic: duplicate ranks (first 15):", duplicates[:15], flush=True)
+        print("Diagnostic: first 3 candidate films:", [
+            (x["rank"], x["movieNm"], x["openDt"]) for x in films[:3]
+        ], flush=True)
+        raise ValueError("Unexpected film ranking structure; diagnostics printed; nothing saved")
     return films
 
 
