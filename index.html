@@ -45,8 +45,8 @@ function renderRealtime(key){
 }
 (async()=>{try{
  const res=await fetch('./data/history.json',{cache:'no-store'});if(!res.ok)throw new Error('HTTP '+res.status);
- data=await res.json();const map=new Map();for(const rows of Object.values(data.days||{}))for(const r of rows)map.set(r.movieCd,r.movieNm);
- movies=[...map.entries()].sort((a,b)=>a[1].localeCompare(b[1],'ko'));
+ data=await res.json();const map=new Map();for(const rows of Object.values(data.days||{}))for(const r of rows)map.set(r.movieCd,{name:r.movieNm,openDt:r.openDt||''});
+ movies=[...map.entries()].sort((a,b)=>a[1].name.localeCompare(b[1].name,'ko'));
  try{
   const rtRes=await fetch('./data/realtime.json',{cache:'no-store'});
   if(rtRes.ok)realtime=await rtRes.json();
@@ -62,7 +62,7 @@ function renderRealtime(key){
  const sel=document.getElementById('movie');
  if(!movies.length&&!extra.size){sel.innerHTML='<option>아직 수집된 영화가 없습니다</option>';document.getElementById('status').textContent='GitHub Actions에서 최초 수집을 실행하면 데이터가 표시됩니다.';return;}
  const options=[
-  ...movies.map(([cd,nm])=>({value:cd,name:nm,group:'일별 박스오피스 기록'})),
+  ...movies.map(([cd,m])=>({value:cd,name:m.name,openDt:m.openDt,group:'일별 박스오피스 기록'})),
   ...[...extra].map(([key,f])=>({value:'rt:'+key,name:f.movieNm,group:'실시간 예매율 추가 영화',openDt:f.openDt}))
  ].sort((a,b)=>a.name.localeCompare(b.name,'ko'));
  const search=document.getElementById('movieSearch');
