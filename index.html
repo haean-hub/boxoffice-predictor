@@ -1,4 +1,43 @@
 <!doctype html>
-<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>BoxOffice Predictor</title><style>
-:root{color-scheme:dark;font-family:system-ui,-apple-system,'Malgun Gothic',sans-serif}*{box-sizing:border-box}body{margin:0;background:#0b1220;color:#eef2ff}.wrap{max-width:960px;margin:auto;padding:32px 22px}header{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #27344b;padding-bottom:22px}.brand{font-size:20px;font-weight:800}.tag{font-size:12px;color:#93c5fd;border:1px solid #31517b;border-radius:30px;padding:7px 11px}main{padding:72px 0}h1{font-size:clamp(32px,6vw,58px);line-height:1.2;margin:0 0 22px}p{color:#b6c4da;line-height:1.8}.accent{color:#60a5fa}.card{margin-top:36px;background:#142036;border:1px solid #2b3b55;border-radius:18px;padding:24px}.status{display:inline-flex;align-items:center;gap:8px;color:#fcd34d;font-weight:700}.dot{height:9px;width:9px;background:#fcd34d;border-radius:50%}.features{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px;margin-top:20px}.feature{padding:19px;background:#101a2d;border:1px solid #25334a;border-radius:12px}.feature strong{display:block;margin-bottom:8px}.feature span{font-size:13px;color:#9fb0c9;line-height:1.6}footer{border-top:1px solid #27344b;padding-top:22px;font-size:12px;color:#879ab7}a{color:#93c5fd}
-</style></head><body><div class="wrap"><header><div class="brand">🎬 BoxOffice Predictor</div><div class="tag">공개 웹사이트 · 초기 버전</div></header><main><h1>영화 흥행 데이터를<br><span class="accent">더 명확하게.</span></h1><p>영화별 관객 추이와 최종 관객 수 전망을 한곳에서 확인하는<br>박스오피스 분석 대시보드를 준비하고 있습니다.</p><section class="card"><div class="status"><span class="dot"></span>현재 상태: 웹사이트 공개 테스트</div><p>이 페이지는 <strong>웹사이트 게시 여부를 확인하기 위한 첫 버전</strong>입니다. 아직 실시간 데이터 조회 및 관객 예측 기능은 연결되지 않았습니다. 실제 수치를 표시하지 않으며, KOBIS API 키를 포함하지 않습니다.</p><div class="features"><div class="feature"><strong>🔎 영화 검색</strong><span>향후 영화별 검색과 선택 기능을 연결할 예정입니다.</span></div><div class="feature"><strong>📈 관객 추이</strong><span>일별 관객 수와 누적 관객 수를 시각화할 예정입니다.</span></div><div class="feature"><strong>🎯 최종 관객 예측</strong><span>과거 실적과 추세를 바탕으로 예측 모델을 검증할 예정입니다.</span></div></div></section></main><footer>BoxOffice Predictor · 개발 중 · 공개 데이터 출처: <a href="https://www.kobis.or.kr" rel="noopener noreferrer">KOBIS</a> (연동 예정)</footer></div></body></html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BoxOffice Predictor · 영화 흥행 데이터</title>
+<style>
+:root{color-scheme:dark;font-family:system-ui,-apple-system,'Malgun Gothic',sans-serif}*{box-sizing:border-box}body{margin:0;background:#0b1220;color:#eef2ff}.wrap{max-width:1000px;margin:auto;padding:26px 20px}header{display:flex;justify-content:space-between;gap:16px;align-items:center;border-bottom:1px solid #293750;padding-bottom:20px}.brand{font-size:21px;font-weight:800}.pill{font-size:12px;border:1px solid #3b5380;color:#9cc5ff;padding:7px 12px;border-radius:25px}h1{font-size:clamp(28px,5vw,46px);margin:42px 0 12px}p,.muted{color:#9caecb}.panel{background:#162039;border:1px solid #30405f;border-radius:18px;padding:24px;margin:22px 0}select,input{background:#0b1428;color:white;border:1px solid #45577a;border-radius:9px;padding:12px;font-size:16px;width:100%;max-width:540px}label{display:block;margin-bottom:10px;font-weight:700}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:20px}.stat{background:#0e172c;border:1px solid #2d3b58;padding:18px;border-radius:12px}.stat b{display:block;font-size:clamp(18px,3vw,28px);margin-top:8px}.stat span{font-size:13px;color:#b3c3de}svg{width:100%;height:auto;display:block}.graph{margin-top:20px}.graph text{fill:#9db0d1;font-size:12px}.empty{padding:30px 0;color:#c0d0ec}table{width:100%;border-collapse:collapse;font-size:14px}th,td{text-align:left;padding:11px 8px;border-bottom:1px solid #2c3955}th{color:#b5c8e8}footer{color:#899bb7;font-size:12px;padding:35px 0;line-height:1.8}@media(max-width:650px){.stats{grid-template-columns:1fr}header{align-items:flex-start;flex-direction:column}.panel{padding:17px}}
+</style>
+</head>
+<body><div class="wrap"><header><div class="brand">🎬 BoxOffice Predictor</div><div class="pill">공개 데이터 대시보드 · 2차 버전</div></header>
+<main><h1>영화 흥행 현황을<br><span style="color:#75a9ff">한눈에 확인하세요.</span></h1>
+<p>KOBIS 일별 박스오피스 상위 10위권 기록을 자동으로 수집합니다. 예측 기능은 개발 중입니다.</p>
+<section class="panel"><label for="movie">영화 선택</label><select id="movie" disabled><option>데이터를 불러오는 중입니다…</option></select><div id="status" class="muted" style="margin-top:12px" aria-live="polite"></div>
+<div class="stats"><div class="stat"><span>최근 집계일</span><b id="date">—</b></div><div class="stat"><span>최근 일일 관객</span><b id="daily">—</b></div><div class="stat"><span>최근 누적 관객</span><b id="total">—</b></div></div>
+<div class="graph"><h2>일일 관객 추이</h2><div id="chart" class="empty">데이터를 기다리고 있습니다.</div></div></section>
+<section class="panel"><h2>최근 기록</h2><div id="table" class="empty">데이터를 기다리고 있습니다.</div></section></main>
+<footer>데이터 출처: 영화진흥위원회 KOBIS 일별 박스오피스 공개 API. 매일 수집 예정이며, 일정 및 데이터 반영에는 지연이 발생할 수 있습니다. 상위 10위권 밖의 날짜는 기록이 없을 수 있습니다. 누적 관객은 KOBIS 발표값입니다. 이 페이지는 최종 관객 수 예측을 아직 제공하지 않습니다.</footer></div>
+<script>
+const fmt=n=>Number(n).toLocaleString('ko-KR')+'명';
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let data, movies;
+function render(cd){
+ const series=Object.entries(data.days).flatMap(([day,rows])=>rows.filter(r=>r.movieCd===cd).map(r=>({...r,day}))).sort((a,b)=>a.day.localeCompare(b.day));
+ const latest=series.at(-1);if(!latest)return;
+ document.getElementById('date').textContent=latest.day.replace(/(\d{4})(\d{2})(\d{2})/,'$1-$2-$3');
+ document.getElementById('daily').textContent=fmt(latest.audiCnt);
+ document.getElementById('total').textContent=fmt(latest.audiAcc);
+ document.getElementById('status').textContent='수집된 '+series.length+'일의 상위 10위권 기록 · 최신 수집: '+(data.lastCollectedKST||'아직 없음');
+ const points=series.slice(-30), W=800,H=260,pad=48,max=Math.max(1,...points.map(r=>r.audiCnt));
+ const x=i=>pad+(W-pad*2)*(points.length===1?.5:i/(points.length-1));const y=n=>H-pad-(H-pad*1.6)*n/max;
+ const path=points.map((r,i)=>(i?'L':'M')+x(i).toFixed(1)+' '+y(r.audiCnt).toFixed(1)).join(' ');
+ document.getElementById('chart').innerHTML=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="최근 ${points.length}개 기록의 일일 관객 추이"><line x1="${pad}" y1="${H-pad}" x2="${W-pad}" y2="${H-pad}" stroke="#4a5c7e"/><path d="${path}" fill="none" stroke="#78aaff" stroke-width="3" stroke-linejoin="round"/>${points.map((r,i)=>`<circle cx="${x(i)}" cy="${y(r.audiCnt)}" r="4" fill="#8cbdff"><title>${esc(r.day)}: ${fmt(r.audiCnt)}</title></circle>`).join('')}<text x="${pad}" y="${H-12}">${points[0]?.day||''}</text><text x="${W-pad}" y="${H-12}" text-anchor="end">${points.at(-1)?.day||''}</text><text x="${pad}" y="20">최대 ${fmt(max)}</text></svg>`;
+ document.getElementById('table').innerHTML='<table><thead><tr><th>날짜</th><th>순위</th><th>일일 관객</th><th>누적 관객</th><th>상영 회차</th></tr></thead><tbody>'+series.slice(-14).reverse().map(r=>`<tr><td>${esc(r.day)}</td><td>${r.rank}위</td><td>${fmt(r.audiCnt)}</td><td>${fmt(r.audiAcc)}</td><td>${r.showCnt.toLocaleString('ko-KR')}</td></tr>`).join('')+'</tbody></table>';
+}
+(async()=>{try{
+ const res=await fetch('./data/history.json',{cache:'no-store'});if(!res.ok)throw new Error('HTTP '+res.status);
+ data=await res.json();const map=new Map();for(const rows of Object.values(data.days||{}))for(const r of rows)map.set(r.movieCd,r.movieNm);
+ movies=[...map.entries()].sort((a,b)=>a[1].localeCompare(b[1],'ko'));const sel=document.getElementById('movie');
+ if(!movies.length){sel.innerHTML='<option>아직 수집된 영화가 없습니다</option>';document.getElementById('status').textContent='GitHub Actions에서 최초 수집을 실행하면 데이터가 표시됩니다.';return;}
+ sel.innerHTML=movies.map(([cd,nm])=>`<option value="${esc(cd)}">${esc(nm)}</option>`).join('');sel.disabled=false;
+ sel.addEventListener('change',()=>render(sel.value));render(sel.value);
+}catch(e){document.getElementById('status').textContent='데이터 파일을 읽지 못했습니다: '+e.message;document.getElementById('movie').innerHTML='<option>연결 확인 필요</option>';}})();
+</script></body></html>
