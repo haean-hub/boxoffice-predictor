@@ -98,18 +98,11 @@ def parse_films(body):
     if len(films) < 1 or not films[0]["movieNm"]:
         raise ValueError("No validated eight-column film rows; nothing saved")
     ranks = [x["rank"] for x in films]
-    if len(set(ranks)) != len(ranks) or ranks[0] != 1:
-        from collections import Counter
-        counts = Counter(ranks)
-        duplicates = [(rank, count) for rank, count in counts.items() if count > 1]
-        print("Diagnostic: candidate films:", len(films), flush=True)
-        print("Diagnostic: first 20 ranks:", ranks[:20], flush=True)
-        print("Diagnostic: last 20 ranks:", ranks[-20:], flush=True)
-        print("Diagnostic: duplicate ranks (first 15):", duplicates[:15], flush=True)
-        print("Diagnostic: first 3 candidate films:", [
-            (x["rank"], x["movieNm"], x["openDt"]) for x in films[:3]
-        ], flush=True)
-        raise ValueError("Unexpected film ranking structure; diagnostics printed; nothing saved")
+    # KOBIS uses competition ranking: tied films legitimately share a rank.
+    if ranks[0] != 1 or any(a > b for a, b in zip(ranks, ranks[1:])):
+        raise ValueError("Unexpected non-monotonic film ranking; nothing saved")
+    if len({(x["movieNm"], x["openDt"]) for x in films}) != len(films):
+        raise ValueError("Duplicate film and release-date rows; nothing saved")
     return films
 
 
