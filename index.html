@@ -71,7 +71,7 @@ function renderRealtime(key){
   const term=query.trim().toLocaleLowerCase('ko');
   const matched=options.filter(o=>o.name.toLocaleLowerCase('ko').includes(term));
   const prev=sel.value;
-  sel.innerHTML=matched.length?matched.map(o=>`<option value="${esc(o.value)}">${esc(o.name)}${o.openDt?' ('+esc(o.openDt)+')':''} · ${esc(o.group)}</option>`).join(''):'<option value="">검색 결과 없음</option>';
+  sel.innerHTML=matched.length?matched.map(o=>`<option value="${esc(o.value)}">${esc(o.name)}${o.openDt?' ('+esc(o.openDt)+')':''}</option>`).join(''):'<option value="">검색 결과 없음</option>';
   sel.disabled=!matched.length;
   if(matched.length){
    sel.value=matched.some(o=>o.value===prev)?prev:matched[0].value;
