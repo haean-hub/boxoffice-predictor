@@ -18,8 +18,9 @@
 <script>
 const fmt=n=>Number(n).toLocaleString('ko-KR')+'명';
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-let data, movies;
+let data, movies, realtime;
 function render(cd){
+ if(cd.startsWith("rt:"))return renderRealtime(cd.slice(3));
  const series=Object.entries(data.days).flatMap(([day,rows])=>rows.filter(r=>r.movieCd===cd).map(r=>({...r,day}))).sort((a,b)=>a.day.localeCompare(b.day));
  const latest=series.at(-1);if(!latest)return;
  document.getElementById('date').textContent=latest.day.replace(/(\d{4})(\d{2})(\d{2})/,'$1-$2-$3');
@@ -32,12 +33,40 @@ function render(cd){
  document.getElementById('chart').innerHTML=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="최근 ${points.length}개 기록의 일일 관객 추이"><line x1="${pad}" y1="${H-pad}" x2="${W-pad}" y2="${H-pad}" stroke="#4a5c7e"/><path d="${path}" fill="none" stroke="#78aaff" stroke-width="3" stroke-linejoin="round"/>${points.map((r,i)=>`<circle cx="${x(i)}" cy="${y(r.audiCnt)}" r="4" fill="#8cbdff"><title>${esc(r.day)}: ${fmt(r.audiCnt)}</title></circle>`).join('')}<text x="${pad}" y="${H-12}">${points[0]?.day||''}</text><text x="${W-pad}" y="${H-12}" text-anchor="end">${points.at(-1)?.day||''}</text><text x="${pad}" y="20">최대 ${fmt(max)}</text></svg>`;
  document.getElementById('table').innerHTML='<table><thead><tr><th>날짜</th><th>순위</th><th>일일 관객</th><th>누적 관객</th><th>상영 회차</th></tr></thead><tbody>'+series.slice(-14).reverse().map(r=>`<tr><td>${esc(r.day)}</td><td>${r.rank}위</td><td>${fmt(r.audiCnt)}</td><td>${fmt(r.audiAcc)}</td><td>${r.showCnt.toLocaleString('ko-KR')}</td></tr>`).join('')+'</tbody></table>';
 }
+function renderRealtime(key){
+ const snapshots=(realtime?.snapshots||[]).map(s=>({at:s.collectedAtKST,film:s.films.find(f=>JSON.stringify([f.movieNm,f.openDt])===key)})).filter(s=>s.film).sort((a,b)=>a.at.localeCompare(b.at));
+ const latest=snapshots.at(-1);if(!latest)return;
+ document.getElementById('date').textContent=latest.at.slice(0,16).replace('T',' ');
+ document.getElementById('daily').textContent='집계 전';
+ document.getElementById('total').textContent=fmt(latest.film.cumulativeAudience);
+ document.getElementById('status').textContent='실시간 예매율 데이터 · 최신 수집: '+latest.at+' · 예매관객수: '+fmt(latest.film.bookingAudience);
+ document.getElementById('chart').innerHTML='<div class="empty">일별 TOP 10 기록이 없는 영화입니다. 실시간 누적관객 추이는 수집 기록이 쌓이면 제공됩니다.</div>';
+ document.getElementById('table').innerHTML='<table><thead><tr><th>수집 시각(KST)</th><th>예매관객수</th><th>누적 관객</th></tr></thead><tbody>'+snapshots.slice(-14).reverse().map(s=>'<tr><td>'+esc(s.at.replace('T',' ').slice(0,16))+'</td><td>'+fmt(s.film.bookingAudience)+'</td><td>'+fmt(s.film.cumulativeAudience)+'</td></tr>').join('')+'</tbody></table>';
+}
 (async()=>{try{
  const res=await fetch('./data/history.json',{cache:'no-store'});if(!res.ok)throw new Error('HTTP '+res.status);
  data=await res.json();const map=new Map();for(const rows of Object.values(data.days||{}))for(const r of rows)map.set(r.movieCd,r.movieNm);
- movies=[...map.entries()].sort((a,b)=>a[1].localeCompare(b[1],'ko'));const sel=document.getElementById('movie');
- if(!movies.length){sel.innerHTML='<option>아직 수집된 영화가 없습니다</option>';document.getElementById('status').textContent='GitHub Actions에서 최초 수집을 실행하면 데이터가 표시됩니다.';return;}
- sel.innerHTML=movies.map(([cd,nm])=>`<option value="${esc(cd)}">${esc(nm)}</option>`).join('');sel.disabled=false;
- sel.addEventListener('change',()=>render(sel.value));render(sel.value);
+ movies=[...map.entries()].sort((a,b)=>a[1].localeCompare(b[1],'ko'));
+ try{
+  const rtRes=await fetch('./data/realtime.json',{cache:'no-store'});
+  if(rtRes.ok)realtime=await rtRes.json();
+ }catch(err){console.warn('실시간 영화 목록을 불러오지 못했습니다.',err);}
+ const latestSnapshot=(realtime?.snapshots||[]).at(-1);
+ const rtFilms=(latestSnapshot?.films||[]).filter(f=>f.movieNm&&f.openDt);
+ const existing=new Set(Object.values(data.days||{}).flat().map(f=>JSON.stringify([f.movieNm,f.openDt])));
+ const extra=new Map();
+ for(const f of rtFilms){
+  const key=JSON.stringify([f.movieNm,f.openDt]);
+  if(!existing.has(key))extra.set(key,f);
+ }
+ const sel=document.getElementById('movie');
+ if(!movies.length&&!extra.size){sel.innerHTML='<option>아직 수집된 영화가 없습니다</option>';document.getElementById('status').textContent='GitHub Actions에서 최초 수집을 실행하면 데이터가 표시됩니다.';return;}
+ sel.innerHTML='<option value="" disabled>— 일별 박스오피스 기록 —</option>'+
+ movies.map(([cd,nm])=>`<option value="${esc(cd)}">${esc(nm)}</option>`).join('')+
+ (extra.size?'<option value="" disabled>— 실시간 예매율 추가 영화 —</option>'+[...extra].sort((a,b)=>a[1].movieNm.localeCompare(b[1].movieNm,'ko')).map(([key,f])=>`<option value="${esc('rt:'+key)}">${esc(f.movieNm)} (${esc(f.openDt)})</option>`).join(''):'');
+ sel.disabled=false;
+ sel.addEventListener('change',()=>render(sel.value));
+ const first=sel.querySelector('option:not([disabled])');if(first){sel.value=first.value;render(sel.value);}
+
 }catch(e){document.getElementById('status').textContent='데이터 파일을 읽지 못했습니다: '+e.message;document.getElementById('movie').innerHTML='<option>연결 확인 필요</option>';}})();
 </script></body></html>
