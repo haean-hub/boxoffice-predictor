@@ -69,7 +69,7 @@ def fetch(opener, data=None):
 
 def integer(value):
     value = value.replace(",", "").strip()
-    if not re.fullmatch(r"\\d+", value):
+    if not re.fullmatch(r"\d+", value):
         raise ValueError("Not an unsigned integer")
     return int(value)
 
@@ -81,11 +81,11 @@ def parse_films(body):
     for row in parser.rows:
         # KOBIS: rank, film, release date, booking rate, booking revenue,
         # cumulative revenue, advance audience, cumulative audience.
-        if len(row) != 8 or not re.fullmatch(r"\\d+", row[0]):
+        if len(row) != 8 or not re.fullmatch(r"\d+", row[0]):
             continue
-        if not re.fullmatch(r"\\d{4}-\\d{2}-\\d{2}", row[2]):
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", row[2]):
             continue
-        if not re.fullmatch(r"\\d+(?:\\.\\d+)?%", row[3]):
+        if not re.fullmatch(r"\d+(?:\.\d+)?%", row[3]):
             raise ValueError("Unexpected booking rate format")
         films.append({
             "rank": integer(row[0]),
@@ -133,7 +133,7 @@ def main():
         if dt.datetime.fromisoformat(s["collectedAtKST"]) >= cutoff
     ]
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps(content, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
+    OUT.write_text(json.dumps(content, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print("Saved", len(films), "films at", now, "snapshots:", len(content["snapshots"]))
     print("First film:", films[0]["movieNm"], "booking:", films[0]["bookingAudience"],
           "cumulative:", films[0]["cumulativeAudience"])
