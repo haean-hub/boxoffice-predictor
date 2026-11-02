@@ -10,7 +10,7 @@
 <body><div class="wrap"><header><div class="brand">🎬 BoxOffice Predictor</div><div class="pill">공개 데이터 대시보드 · 2차 버전</div></header>
 <main><h1>영화 흥행 현황을<br><span style="color:#75a9ff">한눈에 확인하세요.</span></h1>
 <p>KOBIS 일별 박스오피스 상위 10위권 기록을 자동으로 수집합니다. 예측 기능은 개발 중입니다.</p>
-<section class="panel"><label for="movie">영화 선택</label><select id="movie" disabled><option>데이터를 불러오는 중입니다…</option></select><div id="status" class="muted" style="margin-top:12px" aria-live="polite"></div>
+<section class="panel"><label for="movieSearch">영화명 검색</label><input id="movieSearch" type="search" placeholder="영화명을 입력하세요 (수집된 영화 검색)" autocomplete="off"><div id="searchInfo" class="muted" style="margin:9px 0 15px;font-size:13px">수집된 영화 목록에서 검색합니다.</div><label for="movie">영화 선택</label><select id="movie" disabled><option>데이터를 불러오는 중입니다…</option></select><div id="status" class="muted" style="margin-top:12px" aria-live="polite"></div>
 <div class="stats"><div class="stat"><span>최근 집계일</span><b id="date">—</b></div><div class="stat"><span>최근 일일 관객</span><b id="daily">—</b></div><div class="stat"><span>최근 누적 관객</span><b id="total">—</b></div></div>
 <div class="graph"><h2>일일 관객 추이</h2><div id="chart" class="empty">데이터를 기다리고 있습니다.</div></div></section>
 <section class="panel"><h2>최근 기록</h2><div id="table" class="empty">데이터를 기다리고 있습니다.</div></section></main>
@@ -61,12 +61,29 @@ function renderRealtime(key){
  }
  const sel=document.getElementById('movie');
  if(!movies.length&&!extra.size){sel.innerHTML='<option>아직 수집된 영화가 없습니다</option>';document.getElementById('status').textContent='GitHub Actions에서 최초 수집을 실행하면 데이터가 표시됩니다.';return;}
- sel.innerHTML='<option value="" disabled>— 일별 박스오피스 기록 —</option>'+
- movies.map(([cd,nm])=>`<option value="${esc(cd)}">${esc(nm)}</option>`).join('')+
- (extra.size?'<option value="" disabled>— 실시간 예매율 추가 영화 —</option>'+[...extra].sort((a,b)=>a[1].movieNm.localeCompare(b[1].movieNm,'ko')).map(([key,f])=>`<option value="${esc('rt:'+key)}">${esc(f.movieNm)} (${esc(f.openDt)})</option>`).join(''):'');
- sel.disabled=false;
+ const options=[
+  ...movies.map(([cd,nm])=>({value:cd,name:nm,group:'일별 박스오피스 기록'})),
+  ...[...extra].map(([key,f])=>({value:'rt:'+key,name:f.movieNm,group:'실시간 예매율 추가 영화',openDt:f.openDt}))
+ ].sort((a,b)=>a.name.localeCompare(b.name,'ko'));
+ const search=document.getElementById('movieSearch');
+ const info=document.getElementById('searchInfo');
+ function populate(query=''){
+  const term=query.trim().toLocaleLowerCase('ko');
+  const matched=options.filter(o=>o.name.toLocaleLowerCase('ko').includes(term));
+  const prev=sel.value;
+  sel.innerHTML=matched.length?matched.map(o=>`<option value="${esc(o.value)}">${esc(o.name)}${o.openDt?' ('+esc(o.openDt)+')':''} · ${esc(o.group)}</option>`).join(''):'<option value="">검색 결과 없음</option>';
+  sel.disabled=!matched.length;
+  if(matched.length){
+   sel.value=matched.some(o=>o.value===prev)?prev:matched[0].value;
+   render(sel.value);
+  }else{
+   document.getElementById('status').textContent='현재 수집된 데이터에 없는 영화입니다. 전체 KOBIS 영화 검색은 아직 연동되지 않았습니다.';
+  }
+  info.textContent=matched.length+'편 검색됨 / 수집된 영화 '+options.length+'편'+(!matched.length?' · 영화명이나 띄어쓰기를 확인해 주세요.':'');
+ }
+ search.addEventListener('input',()=>populate(search.value));
+ populate();
  sel.addEventListener('change',()=>render(sel.value));
- const first=sel.querySelector('option:not([disabled])');if(first){sel.value=first.value;render(sel.value);}
 
 }catch(e){document.getElementById('status').textContent='데이터 파일을 읽지 못했습니다: '+e.message;document.getElementById('movie').innerHTML='<option>연결 확인 필요</option>';}})();
 </script></body></html>
