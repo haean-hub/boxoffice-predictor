@@ -1,4 +1,3066 @@
 {
   "source": "KOBIS daily box office top 10",
-  "days": {}
+  "days": {
+    "20261003": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 204383,
+        "audiAcc": 463599,
+        "scrnCnt": 1055,
+        "showCnt": 3874
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 2,
+        "openDt": "2026-09-23",
+        "audiCnt": 155437,
+        "audiAcc": 2045741,
+        "scrnCnt": 1071,
+        "showCnt": 3358
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 111099,
+        "audiAcc": 1237010,
+        "scrnCnt": 1090,
+        "showCnt": 3206
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 46418,
+        "audiAcc": 11945141,
+        "scrnCnt": 658,
+        "showCnt": 1184
+      },
+      {
+        "movieCd": "20224573",
+        "movieNm": "부활남: 더 레드",
+        "rank": 5,
+        "openDt": "2026-09-30",
+        "audiCnt": 44994,
+        "audiAcc": 145113,
+        "scrnCnt": 832,
+        "showCnt": 2155
+      },
+      {
+        "movieCd": "20254904",
+        "movieNm": "가능한 사랑",
+        "rank": 6,
+        "openDt": "2026-09-23",
+        "audiCnt": 20277,
+        "audiAcc": 203926,
+        "scrnCnt": 194,
+        "showCnt": 399
+      },
+      {
+        "movieCd": "20264775",
+        "movieNm": "디거",
+        "rank": 7,
+        "openDt": "2026-10-03",
+        "audiCnt": 13548,
+        "audiAcc": 15445,
+        "scrnCnt": 518,
+        "showCnt": 956
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 8,
+        "openDt": "2026-09-16",
+        "audiCnt": 11884,
+        "audiAcc": 821091,
+        "scrnCnt": 391,
+        "showCnt": 518
+      },
+      {
+        "movieCd": "20265146",
+        "movieNm": "옵세션",
+        "rank": 9,
+        "openDt": "2026-09-02",
+        "audiCnt": 11705,
+        "audiAcc": 903844,
+        "scrnCnt": 281,
+        "showCnt": 350
+      },
+      {
+        "movieCd": "20266766",
+        "movieNm": "어벤져스: 엔드게임 앙코르",
+        "rank": 10,
+        "openDt": "2026-09-23",
+        "audiCnt": 11158,
+        "audiAcc": 138091,
+        "scrnCnt": 116,
+        "showCnt": 262
+      }
+    ],
+    "20261004": [
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 1,
+        "openDt": "2026-09-23",
+        "audiCnt": 188902,
+        "audiAcc": 2234643,
+        "scrnCnt": 1130,
+        "showCnt": 3449
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 2,
+        "openDt": "2026-09-30",
+        "audiCnt": 141143,
+        "audiAcc": 604742,
+        "scrnCnt": 1036,
+        "showCnt": 3806
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 128859,
+        "audiAcc": 1365869,
+        "scrnCnt": 1094,
+        "showCnt": 3235
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 52985,
+        "audiAcc": 11998126,
+        "scrnCnt": 678,
+        "showCnt": 1206
+      },
+      {
+        "movieCd": "20224573",
+        "movieNm": "부활남: 더 레드",
+        "rank": 5,
+        "openDt": "2026-09-30",
+        "audiCnt": 44813,
+        "audiAcc": 189926,
+        "scrnCnt": 810,
+        "showCnt": 2079
+      },
+      {
+        "movieCd": "20254904",
+        "movieNm": "가능한 사랑",
+        "rank": 6,
+        "openDt": "2026-09-23",
+        "audiCnt": 26551,
+        "audiAcc": 230477,
+        "scrnCnt": 202,
+        "showCnt": 405
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 7,
+        "openDt": "2026-09-16",
+        "audiCnt": 13744,
+        "audiAcc": 834835,
+        "scrnCnt": 400,
+        "showCnt": 529
+      },
+      {
+        "movieCd": "20264775",
+        "movieNm": "디거",
+        "rank": 8,
+        "openDt": "2026-10-03",
+        "audiCnt": 13125,
+        "audiAcc": 28570,
+        "scrnCnt": 502,
+        "showCnt": 858
+      },
+      {
+        "movieCd": "20265146",
+        "movieNm": "옵세션",
+        "rank": 9,
+        "openDt": "2026-09-02",
+        "audiCnt": 12867,
+        "audiAcc": 916711,
+        "scrnCnt": 299,
+        "showCnt": 379
+      },
+      {
+        "movieCd": "20266766",
+        "movieNm": "어벤져스: 엔드게임 앙코르",
+        "rank": 10,
+        "openDt": "2026-09-23",
+        "audiCnt": 10656,
+        "audiAcc": 148747,
+        "scrnCnt": 115,
+        "showCnt": 260
+      }
+    ],
+    "20261005": [
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 1,
+        "openDt": "2026-09-23",
+        "audiCnt": 179084,
+        "audiAcc": 2413727,
+        "scrnCnt": 1118,
+        "showCnt": 3443
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 2,
+        "openDt": "2026-09-30",
+        "audiCnt": 131271,
+        "audiAcc": 736013,
+        "scrnCnt": 1001,
+        "showCnt": 3622
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 96898,
+        "audiAcc": 1462767,
+        "scrnCnt": 1063,
+        "showCnt": 3164
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 46945,
+        "audiAcc": 12045071,
+        "scrnCnt": 646,
+        "showCnt": 1194
+      },
+      {
+        "movieCd": "20224573",
+        "movieNm": "부활남: 더 레드",
+        "rank": 5,
+        "openDt": "2026-09-30",
+        "audiCnt": 36123,
+        "audiAcc": 226049,
+        "scrnCnt": 765,
+        "showCnt": 1880
+      },
+      {
+        "movieCd": "20264775",
+        "movieNm": "디거",
+        "rank": 6,
+        "openDt": "2026-10-03",
+        "audiCnt": 11870,
+        "audiAcc": 40440,
+        "scrnCnt": 495,
+        "showCnt": 808
+      },
+      {
+        "movieCd": "20265146",
+        "movieNm": "옵세션",
+        "rank": 7,
+        "openDt": "2026-09-02",
+        "audiCnt": 10235,
+        "audiAcc": 926946,
+        "scrnCnt": 298,
+        "showCnt": 380
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 8,
+        "openDt": "2026-09-16",
+        "audiCnt": 9517,
+        "audiAcc": 844352,
+        "scrnCnt": 387,
+        "showCnt": 523
+      },
+      {
+        "movieCd": "20266766",
+        "movieNm": "어벤져스: 엔드게임 앙코르",
+        "rank": 9,
+        "openDt": "2026-09-23",
+        "audiCnt": 8869,
+        "audiAcc": 157616,
+        "scrnCnt": 113,
+        "showCnt": 248
+      },
+      {
+        "movieCd": "20266850",
+        "movieNm": "극장판 래브라도: 망고축제를 지켜라",
+        "rank": 10,
+        "openDt": "2026-10-03",
+        "audiCnt": 8001,
+        "audiAcc": 21086,
+        "scrnCnt": 135,
+        "showCnt": 208
+      }
+    ],
+    "20261006": [
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 1,
+        "openDt": "2026-09-23",
+        "audiCnt": 54160,
+        "audiAcc": 2467887,
+        "scrnCnt": 993,
+        "showCnt": 3083
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 2,
+        "openDt": "2026-09-30",
+        "audiCnt": 33089,
+        "audiAcc": 769102,
+        "scrnCnt": 820,
+        "showCnt": 2855
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 29566,
+        "audiAcc": 1492333,
+        "scrnCnt": 969,
+        "showCnt": 2845
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 12168,
+        "audiAcc": 12057239,
+        "scrnCnt": 541,
+        "showCnt": 945
+      },
+      {
+        "movieCd": "20224573",
+        "movieNm": "부활남: 더 레드",
+        "rank": 5,
+        "openDt": "2026-09-30",
+        "audiCnt": 9796,
+        "audiAcc": 235845,
+        "scrnCnt": 671,
+        "showCnt": 1743
+      },
+      {
+        "movieCd": "20264775",
+        "movieNm": "디거",
+        "rank": 6,
+        "openDt": "2026-10-03",
+        "audiCnt": 5151,
+        "audiAcc": 45591,
+        "scrnCnt": 436,
+        "showCnt": 709
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 7,
+        "openDt": "2026-09-16",
+        "audiCnt": 4718,
+        "audiAcc": 849070,
+        "scrnCnt": 359,
+        "showCnt": 487
+      },
+      {
+        "movieCd": "20265146",
+        "movieNm": "옵세션",
+        "rank": 8,
+        "openDt": "2026-09-02",
+        "audiCnt": 4471,
+        "audiAcc": 931417,
+        "scrnCnt": 262,
+        "showCnt": 335
+      },
+      {
+        "movieCd": "20263870",
+        "movieNm": "레지던트 이블: 0번째 밤",
+        "rank": 9,
+        "openDt": "2026-09-17",
+        "audiCnt": 1443,
+        "audiAcc": 214627,
+        "scrnCnt": 130,
+        "showCnt": 155
+      },
+      {
+        "movieCd": "20262770",
+        "movieNm": "스파이더맨: 브랜드 뉴 데이",
+        "rank": 10,
+        "openDt": "2026-07-29",
+        "audiCnt": 1435,
+        "audiAcc": 9046949,
+        "scrnCnt": 58,
+        "showCnt": 63
+      }
+    ],
+    "20261007": [
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 1,
+        "openDt": "2026-09-23",
+        "audiCnt": 53949,
+        "audiAcc": 2521836,
+        "scrnCnt": 1094,
+        "showCnt": 3145
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 2,
+        "openDt": "2026-09-30",
+        "audiCnt": 49225,
+        "audiAcc": 818327,
+        "scrnCnt": 841,
+        "showCnt": 2831
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 28907,
+        "audiAcc": 1521240,
+        "scrnCnt": 930,
+        "showCnt": 2585
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 11191,
+        "audiAcc": 12068430,
+        "scrnCnt": 502,
+        "showCnt": 854
+      },
+      {
+        "movieCd": "20266610",
+        "movieNm": "입에 대한 앙케트",
+        "rank": 5,
+        "openDt": "2026-10-07",
+        "audiCnt": 8416,
+        "audiAcc": 8416,
+        "scrnCnt": 536,
+        "showCnt": 1245
+      },
+      {
+        "movieCd": "20224573",
+        "movieNm": "부활남: 더 레드",
+        "rank": 6,
+        "openDt": "2026-09-30",
+        "audiCnt": 8151,
+        "audiAcc": 243996,
+        "scrnCnt": 638,
+        "showCnt": 1291
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 7,
+        "openDt": "2026-09-16",
+        "audiCnt": 4768,
+        "audiAcc": 853838,
+        "scrnCnt": 301,
+        "showCnt": 383
+      },
+      {
+        "movieCd": "20264775",
+        "movieNm": "디거",
+        "rank": 8,
+        "openDt": "2026-10-03",
+        "audiCnt": 4173,
+        "audiAcc": 49764,
+        "scrnCnt": 396,
+        "showCnt": 523
+      },
+      {
+        "movieCd": "20265486",
+        "movieNm": "퓨리어스",
+        "rank": 9,
+        "openDt": "2026-10-07",
+        "audiCnt": 3282,
+        "audiAcc": 3941,
+        "scrnCnt": 177,
+        "showCnt": 242
+      },
+      {
+        "movieCd": "20265146",
+        "movieNm": "옵세션",
+        "rank": 10,
+        "openDt": "2026-09-02",
+        "audiCnt": 2695,
+        "audiAcc": 934112,
+        "scrnCnt": 169,
+        "showCnt": 209
+      }
+    ],
+    "20261008": [
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 1,
+        "openDt": "2026-09-23",
+        "audiCnt": 64084,
+        "audiAcc": 2585920,
+        "scrnCnt": 1165,
+        "showCnt": 3218
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 2,
+        "openDt": "2026-09-30",
+        "audiCnt": 55238,
+        "audiAcc": 873565,
+        "scrnCnt": 821,
+        "showCnt": 2681
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 33311,
+        "audiAcc": 1554551,
+        "scrnCnt": 927,
+        "showCnt": 2542
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 4,
+        "openDt": "2026-10-08",
+        "audiCnt": 20556,
+        "audiAcc": 20960,
+        "scrnCnt": 583,
+        "showCnt": 1419
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 5,
+        "openDt": "2026-08-05",
+        "audiCnt": 15427,
+        "audiAcc": 12083857,
+        "scrnCnt": 503,
+        "showCnt": 841
+      },
+      {
+        "movieCd": "20224573",
+        "movieNm": "부활남: 더 레드",
+        "rank": 6,
+        "openDt": "2026-09-30",
+        "audiCnt": 9185,
+        "audiAcc": 253181,
+        "scrnCnt": 613,
+        "showCnt": 1229
+      },
+      {
+        "movieCd": "20266610",
+        "movieNm": "입에 대한 앙케트",
+        "rank": 7,
+        "openDt": "2026-10-07",
+        "audiCnt": 8786,
+        "audiAcc": 17202,
+        "scrnCnt": 543,
+        "showCnt": 1180
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 8,
+        "openDt": "2026-09-16",
+        "audiCnt": 6257,
+        "audiAcc": 860095,
+        "scrnCnt": 303,
+        "showCnt": 386
+      },
+      {
+        "movieCd": "20264775",
+        "movieNm": "디거",
+        "rank": 9,
+        "openDt": "2026-10-03",
+        "audiCnt": 3978,
+        "audiAcc": 53742,
+        "scrnCnt": 379,
+        "showCnt": 482
+      },
+      {
+        "movieCd": "20265146",
+        "movieNm": "옵세션",
+        "rank": 10,
+        "openDt": "2026-09-02",
+        "audiCnt": 3634,
+        "audiAcc": 937746,
+        "scrnCnt": 179,
+        "showCnt": 214
+      }
+    ],
+    "20261009": [
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 1,
+        "openDt": "2026-09-23",
+        "audiCnt": 161163,
+        "audiAcc": 2747083,
+        "scrnCnt": 1243,
+        "showCnt": 4131
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 2,
+        "openDt": "2026-09-30",
+        "audiCnt": 152138,
+        "audiAcc": 1025703,
+        "scrnCnt": 971,
+        "showCnt": 3406
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 68896,
+        "audiAcc": 1623447,
+        "scrnCnt": 949,
+        "showCnt": 2771
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 37327,
+        "audiAcc": 12121184,
+        "scrnCnt": 583,
+        "showCnt": 1029
+      },
+      {
+        "movieCd": "20224573",
+        "movieNm": "부활남: 더 레드",
+        "rank": 5,
+        "openDt": "2026-09-30",
+        "audiCnt": 20282,
+        "audiAcc": 273463,
+        "scrnCnt": 623,
+        "showCnt": 1170
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 6,
+        "openDt": "2026-10-08",
+        "audiCnt": 15011,
+        "audiAcc": 35971,
+        "scrnCnt": 338,
+        "showCnt": 1208
+      },
+      {
+        "movieCd": "20266610",
+        "movieNm": "입에 대한 앙케트",
+        "rank": 7,
+        "openDt": "2026-10-07",
+        "audiCnt": 13013,
+        "audiAcc": 30215,
+        "scrnCnt": 544,
+        "showCnt": 951
+      },
+      {
+        "movieCd": "20265146",
+        "movieNm": "옵세션",
+        "rank": 8,
+        "openDt": "2026-09-02",
+        "audiCnt": 6702,
+        "audiAcc": 944448,
+        "scrnCnt": 199,
+        "showCnt": 246
+      },
+      {
+        "movieCd": "20264775",
+        "movieNm": "디거",
+        "rank": 9,
+        "openDt": "2026-10-03",
+        "audiCnt": 6528,
+        "audiAcc": 60270,
+        "scrnCnt": 348,
+        "showCnt": 416
+      },
+      {
+        "movieCd": "20266766",
+        "movieNm": "어벤져스: 엔드게임 앙코르",
+        "rank": 10,
+        "openDt": "2026-09-23",
+        "audiCnt": 5482,
+        "audiAcc": 165778,
+        "scrnCnt": 66,
+        "showCnt": 154
+      }
+    ],
+    "20261010": [
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 1,
+        "openDt": "2026-09-23",
+        "audiCnt": 138542,
+        "audiAcc": 2885625,
+        "scrnCnt": 1312,
+        "showCnt": 4264
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 2,
+        "openDt": "2026-09-30",
+        "audiCnt": 135787,
+        "audiAcc": 1161490,
+        "scrnCnt": 1043,
+        "showCnt": 3586
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 67469,
+        "audiAcc": 1690916,
+        "scrnCnt": 941,
+        "showCnt": 2728
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 32614,
+        "audiAcc": 12153798,
+        "scrnCnt": 597,
+        "showCnt": 1032
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 5,
+        "openDt": "2026-10-08",
+        "audiCnt": 15675,
+        "audiAcc": 51646,
+        "scrnCnt": 328,
+        "showCnt": 1114
+      },
+      {
+        "movieCd": "20224573",
+        "movieNm": "부활남: 더 레드",
+        "rank": 6,
+        "openDt": "2026-09-30",
+        "audiCnt": 13887,
+        "audiAcc": 287350,
+        "scrnCnt": 618,
+        "showCnt": 1069
+      },
+      {
+        "movieCd": "20266610",
+        "movieNm": "입에 대한 앙케트",
+        "rank": 7,
+        "openDt": "2026-10-07",
+        "audiCnt": 10906,
+        "audiAcc": 41121,
+        "scrnCnt": 513,
+        "showCnt": 829
+      },
+      {
+        "movieCd": "20265146",
+        "movieNm": "옵세션",
+        "rank": 8,
+        "openDt": "2026-09-02",
+        "audiCnt": 6192,
+        "audiAcc": 950640,
+        "scrnCnt": 206,
+        "showCnt": 259
+      },
+      {
+        "movieCd": "20264775",
+        "movieNm": "디거",
+        "rank": 9,
+        "openDt": "2026-10-03",
+        "audiCnt": 5654,
+        "audiAcc": 65924,
+        "scrnCnt": 292,
+        "showCnt": 345
+      },
+      {
+        "movieCd": "20266766",
+        "movieNm": "어벤져스: 엔드게임 앙코르",
+        "rank": 10,
+        "openDt": "2026-09-23",
+        "audiCnt": 4121,
+        "audiAcc": 169899,
+        "scrnCnt": 65,
+        "showCnt": 157
+      }
+    ],
+    "20261011": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 119955,
+        "audiAcc": 1281445,
+        "scrnCnt": 1067,
+        "showCnt": 3562
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 2,
+        "openDt": "2026-09-23",
+        "audiCnt": 108053,
+        "audiAcc": 2993678,
+        "scrnCnt": 1248,
+        "showCnt": 4016
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 53758,
+        "audiAcc": 1744674,
+        "scrnCnt": 902,
+        "showCnt": 2564
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 25265,
+        "audiAcc": 12179063,
+        "scrnCnt": 572,
+        "showCnt": 976
+      },
+      {
+        "movieCd": "20224573",
+        "movieNm": "부활남: 더 레드",
+        "rank": 5,
+        "openDt": "2026-09-30",
+        "audiCnt": 15179,
+        "audiAcc": 302529,
+        "scrnCnt": 588,
+        "showCnt": 1007
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 6,
+        "openDt": "2026-10-08",
+        "audiCnt": 10737,
+        "audiAcc": 62383,
+        "scrnCnt": 324,
+        "showCnt": 1033
+      },
+      {
+        "movieCd": "20266610",
+        "movieNm": "입에 대한 앙케트",
+        "rank": 7,
+        "openDt": "2026-10-07",
+        "audiCnt": 9349,
+        "audiAcc": 50470,
+        "scrnCnt": 495,
+        "showCnt": 765
+      },
+      {
+        "movieCd": "20264775",
+        "movieNm": "디거",
+        "rank": 8,
+        "openDt": "2026-10-03",
+        "audiCnt": 4618,
+        "audiAcc": 70542,
+        "scrnCnt": 283,
+        "showCnt": 332
+      },
+      {
+        "movieCd": "20265146",
+        "movieNm": "옵세션",
+        "rank": 9,
+        "openDt": "2026-09-02",
+        "audiCnt": 4469,
+        "audiAcc": 955109,
+        "scrnCnt": 191,
+        "showCnt": 237
+      },
+      {
+        "movieCd": "20266850",
+        "movieNm": "극장판 래브라도: 망고축제를 지켜라",
+        "rank": 10,
+        "openDt": "2026-10-03",
+        "audiCnt": 4085,
+        "audiAcc": 34805,
+        "scrnCnt": 113,
+        "showCnt": 168
+      }
+    ],
+    "20261012": [
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 1,
+        "openDt": "2026-09-23",
+        "audiCnt": 30671,
+        "audiAcc": 3024349,
+        "scrnCnt": 1017,
+        "showCnt": 3171
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 2,
+        "openDt": "2026-09-30",
+        "audiCnt": 30090,
+        "audiAcc": 1311535,
+        "scrnCnt": 779,
+        "showCnt": 2545
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 18999,
+        "audiAcc": 1763673,
+        "scrnCnt": 782,
+        "showCnt": 2198
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 9474,
+        "audiAcc": 12188537,
+        "scrnCnt": 486,
+        "showCnt": 795
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 5,
+        "openDt": "2026-10-08",
+        "audiCnt": 4611,
+        "audiAcc": 66994,
+        "scrnCnt": 274,
+        "showCnt": 854
+      },
+      {
+        "movieCd": "20224573",
+        "movieNm": "부활남: 더 레드",
+        "rank": 6,
+        "openDt": "2026-09-30",
+        "audiCnt": 4425,
+        "audiAcc": 306954,
+        "scrnCnt": 517,
+        "showCnt": 905
+      },
+      {
+        "movieCd": "20266610",
+        "movieNm": "입에 대한 앙케트",
+        "rank": 7,
+        "openDt": "2026-10-07",
+        "audiCnt": 3168,
+        "audiAcc": 53638,
+        "scrnCnt": 421,
+        "showCnt": 629
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 8,
+        "openDt": "2026-09-16",
+        "audiCnt": 2920,
+        "audiAcc": 873955,
+        "scrnCnt": 235,
+        "showCnt": 293
+      },
+      {
+        "movieCd": "20264775",
+        "movieNm": "디거",
+        "rank": 9,
+        "openDt": "2026-10-03",
+        "audiCnt": 2422,
+        "audiAcc": 72964,
+        "scrnCnt": 271,
+        "showCnt": 347
+      },
+      {
+        "movieCd": "20265146",
+        "movieNm": "옵세션",
+        "rank": 10,
+        "openDt": "2026-09-02",
+        "audiCnt": 2031,
+        "audiAcc": 957140,
+        "scrnCnt": 170,
+        "showCnt": 210
+      }
+    ],
+    "20261013": [
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 1,
+        "openDt": "2026-09-23",
+        "audiCnt": 32844,
+        "audiAcc": 3057193,
+        "scrnCnt": 1044,
+        "showCnt": 3215
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 2,
+        "openDt": "2026-09-30",
+        "audiCnt": 28238,
+        "audiAcc": 1339773,
+        "scrnCnt": 811,
+        "showCnt": 2516
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 19572,
+        "audiAcc": 1783245,
+        "scrnCnt": 772,
+        "showCnt": 2193
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 9170,
+        "audiAcc": 12197707,
+        "scrnCnt": 487,
+        "showCnt": 781
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 5,
+        "openDt": "2026-09-16",
+        "audiCnt": 4330,
+        "audiAcc": 878285,
+        "scrnCnt": 258,
+        "showCnt": 327
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 6,
+        "openDt": "2026-10-08",
+        "audiCnt": 4228,
+        "audiAcc": 71222,
+        "scrnCnt": 273,
+        "showCnt": 809
+      },
+      {
+        "movieCd": "20224573",
+        "movieNm": "부활남: 더 레드",
+        "rank": 7,
+        "openDt": "2026-09-30",
+        "audiCnt": 4105,
+        "audiAcc": 311059,
+        "scrnCnt": 507,
+        "showCnt": 866
+      },
+      {
+        "movieCd": "20266610",
+        "movieNm": "입에 대한 앙케트",
+        "rank": 8,
+        "openDt": "2026-10-07",
+        "audiCnt": 3645,
+        "audiAcc": 57283,
+        "scrnCnt": 413,
+        "showCnt": 618
+      },
+      {
+        "movieCd": "20264775",
+        "movieNm": "디거",
+        "rank": 9,
+        "openDt": "2026-10-03",
+        "audiCnt": 2956,
+        "audiAcc": 75920,
+        "scrnCnt": 287,
+        "showCnt": 366
+      },
+      {
+        "movieCd": "20265146",
+        "movieNm": "옵세션",
+        "rank": 10,
+        "openDt": "2026-09-02",
+        "audiCnt": 1990,
+        "audiAcc": 959130,
+        "scrnCnt": 166,
+        "showCnt": 211
+      }
+    ],
+    "20261014": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 75237,
+        "audiAcc": 1415010,
+        "scrnCnt": 913,
+        "showCnt": 2627
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 2,
+        "openDt": "2026-09-23",
+        "audiCnt": 28279,
+        "audiAcc": 3085472,
+        "scrnCnt": 1002,
+        "showCnt": 2916
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 17045,
+        "audiAcc": 1800290,
+        "scrnCnt": 728,
+        "showCnt": 1710
+      },
+      {
+        "movieCd": "20266263",
+        "movieNm": "전자오락수호대",
+        "rank": 4,
+        "openDt": "2026-10-14",
+        "audiCnt": 11037,
+        "audiAcc": 14691,
+        "scrnCnt": 569,
+        "showCnt": 1100
+      },
+      {
+        "movieCd": "20263410",
+        "movieNm": "스트리트 파이터",
+        "rank": 5,
+        "openDt": "2026-10-14",
+        "audiCnt": 10529,
+        "audiAcc": 11043,
+        "scrnCnt": 590,
+        "showCnt": 1076
+      },
+      {
+        "movieCd": "20264444",
+        "movieNm": " 웨일폴: 고래에 먹힌 남자",
+        "rank": 6,
+        "openDt": "2026-10-14",
+        "audiCnt": 10487,
+        "audiAcc": 10776,
+        "scrnCnt": 629,
+        "showCnt": 1273
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 7,
+        "openDt": "2026-08-05",
+        "audiCnt": 8823,
+        "audiAcc": 12206530,
+        "scrnCnt": 434,
+        "showCnt": 661
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 8,
+        "openDt": "2026-10-08",
+        "audiCnt": 6041,
+        "audiAcc": 77263,
+        "scrnCnt": 261,
+        "showCnt": 598
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 9,
+        "openDt": "2026-09-16",
+        "audiCnt": 3372,
+        "audiAcc": 881657,
+        "scrnCnt": 121,
+        "showCnt": 145
+      },
+      {
+        "movieCd": "20224573",
+        "movieNm": "부활남: 더 레드",
+        "rank": 10,
+        "openDt": "2026-09-30",
+        "audiCnt": 3274,
+        "audiAcc": 314333,
+        "scrnCnt": 293,
+        "showCnt": 367
+      }
+    ],
+    "20261015": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 35422,
+        "audiAcc": 1450432,
+        "scrnCnt": 885,
+        "showCnt": 2628
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 2,
+        "openDt": "2026-09-23",
+        "audiCnt": 23508,
+        "audiAcc": 3108980,
+        "scrnCnt": 994,
+        "showCnt": 2834
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 16531,
+        "audiAcc": 1816821,
+        "scrnCnt": 716,
+        "showCnt": 1723
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 8609,
+        "audiAcc": 12215139,
+        "scrnCnt": 420,
+        "showCnt": 668
+      },
+      {
+        "movieCd": "20263410",
+        "movieNm": "스트리트 파이터",
+        "rank": 5,
+        "openDt": "2026-10-14",
+        "audiCnt": 7064,
+        "audiAcc": 18107,
+        "scrnCnt": 543,
+        "showCnt": 979
+      },
+      {
+        "movieCd": "20264444",
+        "movieNm": " 웨일폴: 고래에 먹힌 남자",
+        "rank": 6,
+        "openDt": "2026-10-14",
+        "audiCnt": 6949,
+        "audiAcc": 17725,
+        "scrnCnt": 603,
+        "showCnt": 1202
+      },
+      {
+        "movieCd": "20266263",
+        "movieNm": "전자오락수호대",
+        "rank": 7,
+        "openDt": "2026-10-14",
+        "audiCnt": 5529,
+        "audiAcc": 20220,
+        "scrnCnt": 503,
+        "showCnt": 922
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 8,
+        "openDt": "2026-09-16",
+        "audiCnt": 4504,
+        "audiAcc": 886161,
+        "scrnCnt": 145,
+        "showCnt": 168
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 9,
+        "openDt": "2026-10-08",
+        "audiCnt": 3468,
+        "audiAcc": 80731,
+        "scrnCnt": 247,
+        "showCnt": 537
+      },
+      {
+        "movieCd": "20266610",
+        "movieNm": "입에 대한 앙케트",
+        "rank": 10,
+        "openDt": "2026-10-07",
+        "audiCnt": 2687,
+        "audiAcc": 62121,
+        "scrnCnt": 227,
+        "showCnt": 274
+      }
+    ],
+    "20261016": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 57383,
+        "audiAcc": 1507815,
+        "scrnCnt": 953,
+        "showCnt": 3069
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 2,
+        "openDt": "2026-09-23",
+        "audiCnt": 30058,
+        "audiAcc": 3139038,
+        "scrnCnt": 1046,
+        "showCnt": 3089
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 21647,
+        "audiAcc": 1838468,
+        "scrnCnt": 731,
+        "showCnt": 1857
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 12227,
+        "audiAcc": 12227366,
+        "scrnCnt": 454,
+        "showCnt": 747
+      },
+      {
+        "movieCd": "20264444",
+        "movieNm": " 웨일폴: 고래에 먹힌 남자",
+        "rank": 5,
+        "openDt": "2026-10-14",
+        "audiCnt": 9910,
+        "audiAcc": 27635,
+        "scrnCnt": 605,
+        "showCnt": 1231
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 6,
+        "openDt": "2026-10-08",
+        "audiCnt": 5892,
+        "audiAcc": 86623,
+        "scrnCnt": 246,
+        "showCnt": 550
+      },
+      {
+        "movieCd": "20266263",
+        "movieNm": "전자오락수호대",
+        "rank": 7,
+        "openDt": "2026-10-14",
+        "audiCnt": 5039,
+        "audiAcc": 25259,
+        "scrnCnt": 498,
+        "showCnt": 873
+      },
+      {
+        "movieCd": "20263410",
+        "movieNm": "스트리트 파이터",
+        "rank": 8,
+        "openDt": "2026-10-14",
+        "audiCnt": 4634,
+        "audiAcc": 22741,
+        "scrnCnt": 518,
+        "showCnt": 891
+      },
+      {
+        "movieCd": "20266610",
+        "movieNm": "입에 대한 앙케트",
+        "rank": 9,
+        "openDt": "2026-10-07",
+        "audiCnt": 4147,
+        "audiAcc": 66268,
+        "scrnCnt": 245,
+        "showCnt": 302
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 10,
+        "openDt": "2026-09-16",
+        "audiCnt": 4134,
+        "audiAcc": 890295,
+        "scrnCnt": 136,
+        "showCnt": 149
+      }
+    ],
+    "20261017": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 174781,
+        "audiAcc": 1682596,
+        "scrnCnt": 1166,
+        "showCnt": 4347
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 2,
+        "openDt": "2026-09-23",
+        "audiCnt": 53532,
+        "audiAcc": 3192570,
+        "scrnCnt": 1104,
+        "showCnt": 3440
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 36412,
+        "audiAcc": 1874880,
+        "scrnCnt": 789,
+        "showCnt": 2019
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 20261,
+        "audiAcc": 12247627,
+        "scrnCnt": 481,
+        "showCnt": 776
+      },
+      {
+        "movieCd": "20264444",
+        "movieNm": " 웨일폴: 고래에 먹힌 남자",
+        "rank": 5,
+        "openDt": "2026-10-14",
+        "audiCnt": 14830,
+        "audiAcc": 42465,
+        "scrnCnt": 621,
+        "showCnt": 1184
+      },
+      {
+        "movieCd": "20266263",
+        "movieNm": "전자오락수호대",
+        "rank": 6,
+        "openDt": "2026-10-14",
+        "audiCnt": 10342,
+        "audiAcc": 35601,
+        "scrnCnt": 566,
+        "showCnt": 974
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 7,
+        "openDt": "2026-10-08",
+        "audiCnt": 10100,
+        "audiAcc": 96723,
+        "scrnCnt": 271,
+        "showCnt": 576
+      },
+      {
+        "movieCd": "20263410",
+        "movieNm": "스트리트 파이터",
+        "rank": 8,
+        "openDt": "2026-10-14",
+        "audiCnt": 6716,
+        "audiAcc": 29457,
+        "scrnCnt": 523,
+        "showCnt": 878
+      },
+      {
+        "movieCd": "20266610",
+        "movieNm": "입에 대한 앙케트",
+        "rank": 9,
+        "openDt": "2026-10-07",
+        "audiCnt": 5883,
+        "audiAcc": 72151,
+        "scrnCnt": 230,
+        "showCnt": 300
+      },
+      {
+        "movieCd": "20264775",
+        "movieNm": "디거",
+        "rank": 10,
+        "openDt": "2026-10-03",
+        "audiCnt": 3513,
+        "audiAcc": 85321,
+        "scrnCnt": 93,
+        "showCnt": 119
+      }
+    ],
+    "20261018": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 146233,
+        "audiAcc": 1828829,
+        "scrnCnt": 1181,
+        "showCnt": 4292
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 2,
+        "openDt": "2026-09-23",
+        "audiCnt": 56415,
+        "audiAcc": 3248985,
+        "scrnCnt": 1037,
+        "showCnt": 3200
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 36248,
+        "audiAcc": 1911128,
+        "scrnCnt": 788,
+        "showCnt": 1970
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 19945,
+        "audiAcc": 12267572,
+        "scrnCnt": 458,
+        "showCnt": 753
+      },
+      {
+        "movieCd": "20264444",
+        "movieNm": " 웨일폴: 고래에 먹힌 남자",
+        "rank": 5,
+        "openDt": "2026-10-14",
+        "audiCnt": 13891,
+        "audiAcc": 56356,
+        "scrnCnt": 616,
+        "showCnt": 1129
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 6,
+        "openDt": "2026-10-08",
+        "audiCnt": 8622,
+        "audiAcc": 105345,
+        "scrnCnt": 264,
+        "showCnt": 564
+      },
+      {
+        "movieCd": "20266263",
+        "movieNm": "전자오락수호대",
+        "rank": 7,
+        "openDt": "2026-10-14",
+        "audiCnt": 7046,
+        "audiAcc": 42647,
+        "scrnCnt": 543,
+        "showCnt": 884
+      },
+      {
+        "movieCd": "20263410",
+        "movieNm": "스트리트 파이터",
+        "rank": 8,
+        "openDt": "2026-10-14",
+        "audiCnt": 5462,
+        "audiAcc": 34919,
+        "scrnCnt": 491,
+        "showCnt": 781
+      },
+      {
+        "movieCd": "20266610",
+        "movieNm": "입에 대한 앙케트",
+        "rank": 9,
+        "openDt": "2026-10-07",
+        "audiCnt": 4959,
+        "audiAcc": 77110,
+        "scrnCnt": 221,
+        "showCnt": 278
+      },
+      {
+        "movieCd": "20224573",
+        "movieNm": "부활남: 더 레드",
+        "rank": 10,
+        "openDt": "2026-09-30",
+        "audiCnt": 3396,
+        "audiAcc": 326732,
+        "scrnCnt": 256,
+        "showCnt": 319
+      }
+    ],
+    "20261019": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 24228,
+        "audiAcc": 1853057,
+        "scrnCnt": 885,
+        "showCnt": 2911
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 2,
+        "openDt": "2026-09-23",
+        "audiCnt": 16275,
+        "audiAcc": 3265260,
+        "scrnCnt": 933,
+        "showCnt": 2600
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 13715,
+        "audiAcc": 1924843,
+        "scrnCnt": 695,
+        "showCnt": 1720
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 7892,
+        "audiAcc": 12275464,
+        "scrnCnt": 411,
+        "showCnt": 656
+      },
+      {
+        "movieCd": "20264444",
+        "movieNm": " 웨일폴: 고래에 먹힌 남자",
+        "rank": 5,
+        "openDt": "2026-10-14",
+        "audiCnt": 3969,
+        "audiAcc": 60325,
+        "scrnCnt": 520,
+        "showCnt": 923
+      },
+      {
+        "movieCd": "20267571",
+        "movieNm": "클레이페이스",
+        "rank": 6,
+        "openDt": "2026-10-21",
+        "audiCnt": 3528,
+        "audiAcc": 3528,
+        "scrnCnt": 19,
+        "showCnt": 19
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 7,
+        "openDt": "2026-10-08",
+        "audiCnt": 2579,
+        "audiAcc": 107924,
+        "scrnCnt": 200,
+        "showCnt": 446
+      },
+      {
+        "movieCd": "20266263",
+        "movieNm": "전자오락수호대",
+        "rank": 8,
+        "openDt": "2026-10-14",
+        "audiCnt": 1964,
+        "audiAcc": 44611,
+        "scrnCnt": 430,
+        "showCnt": 654
+      },
+      {
+        "movieCd": "20266610",
+        "movieNm": "입에 대한 앙케트",
+        "rank": 9,
+        "openDt": "2026-10-07",
+        "audiCnt": 1700,
+        "audiAcc": 78810,
+        "scrnCnt": 199,
+        "showCnt": 242
+      },
+      {
+        "movieCd": "20231795",
+        "movieNm": "수능, 출제의 비밀",
+        "rank": 10,
+        "openDt": "2026-10-28",
+        "audiCnt": 1555,
+        "audiAcc": 1555,
+        "scrnCnt": 6,
+        "showCnt": 7
+      }
+    ],
+    "20261020": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 22474,
+        "audiAcc": 1875531,
+        "scrnCnt": 879,
+        "showCnt": 2821
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 2,
+        "openDt": "2026-09-23",
+        "audiCnt": 16148,
+        "audiAcc": 3281408,
+        "scrnCnt": 919,
+        "showCnt": 2544
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 11818,
+        "audiAcc": 1936661,
+        "scrnCnt": 691,
+        "showCnt": 1667
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 4,
+        "openDt": "2026-08-05",
+        "audiCnt": 9150,
+        "audiAcc": 12284614,
+        "scrnCnt": 408,
+        "showCnt": 655
+      },
+      {
+        "movieCd": "20264444",
+        "movieNm": " 웨일폴: 고래에 먹힌 남자",
+        "rank": 5,
+        "openDt": "2026-10-14",
+        "audiCnt": 4471,
+        "audiAcc": 64796,
+        "scrnCnt": 523,
+        "showCnt": 914
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 6,
+        "openDt": "2026-09-16",
+        "audiCnt": 4047,
+        "audiAcc": 897784,
+        "scrnCnt": 127,
+        "showCnt": 149
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 7,
+        "openDt": "2026-10-08",
+        "audiCnt": 2849,
+        "audiAcc": 110773,
+        "scrnCnt": 225,
+        "showCnt": 457
+      },
+      {
+        "movieCd": "20266263",
+        "movieNm": "전자오락수호대",
+        "rank": 8,
+        "openDt": "2026-10-14",
+        "audiCnt": 2271,
+        "audiAcc": 46882,
+        "scrnCnt": 444,
+        "showCnt": 680
+      },
+      {
+        "movieCd": "20263410",
+        "movieNm": "스트리트 파이터",
+        "rank": 9,
+        "openDt": "2026-10-14",
+        "audiCnt": 2174,
+        "audiAcc": 38614,
+        "scrnCnt": 414,
+        "showCnt": 609
+      },
+      {
+        "movieCd": "20264775",
+        "movieNm": "디거",
+        "rank": 10,
+        "openDt": "2026-10-03",
+        "audiCnt": 1978,
+        "audiAcc": 91786,
+        "scrnCnt": 86,
+        "showCnt": 113
+      }
+    ],
+    "20261021": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 28985,
+        "audiAcc": 1904516,
+        "scrnCnt": 798,
+        "showCnt": 2616
+      },
+      {
+        "movieCd": "20250053",
+        "movieNm": "실낙원",
+        "rank": 2,
+        "openDt": "2026-10-21",
+        "audiCnt": 20620,
+        "audiAcc": 23982,
+        "scrnCnt": 808,
+        "showCnt": 2660
+      },
+      {
+        "movieCd": "20267571",
+        "movieNm": "클레이페이스",
+        "rank": 3,
+        "openDt": "2026-10-21",
+        "audiCnt": 14724,
+        "audiAcc": 18899,
+        "scrnCnt": 557,
+        "showCnt": 1159
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 4,
+        "openDt": "2026-09-23",
+        "audiCnt": 13535,
+        "audiAcc": 3294943,
+        "scrnCnt": 679,
+        "showCnt": 1637
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 5,
+        "openDt": "2026-09-23",
+        "audiCnt": 8251,
+        "audiAcc": 1944912,
+        "scrnCnt": 550,
+        "showCnt": 1006
+      },
+      {
+        "movieCd": "20266189",
+        "movieNm": "여전히 찬란하게",
+        "rank": 6,
+        "openDt": "2026-10-21",
+        "audiCnt": 7666,
+        "audiAcc": 12964,
+        "scrnCnt": 587,
+        "showCnt": 1150
+      },
+      {
+        "movieCd": "20246036",
+        "movieNm": "킬링타임",
+        "rank": 7,
+        "openDt": "2026-10-21",
+        "audiCnt": 3858,
+        "audiAcc": 5421,
+        "scrnCnt": 278,
+        "showCnt": 432
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 8,
+        "openDt": "2026-08-05",
+        "audiCnt": 3639,
+        "audiAcc": 12288253,
+        "scrnCnt": 274,
+        "showCnt": 344
+      },
+      {
+        "movieCd": "20266423",
+        "movieNm": "레위기",
+        "rank": 9,
+        "openDt": "2026-10-21",
+        "audiCnt": 2502,
+        "audiAcc": 3487,
+        "scrnCnt": 169,
+        "showCnt": 246
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 10,
+        "openDt": "2026-09-16",
+        "audiCnt": 2491,
+        "audiAcc": 900275,
+        "scrnCnt": 44,
+        "showCnt": 51
+      }
+    ],
+    "20261022": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 23256,
+        "audiAcc": 1927772,
+        "scrnCnt": 768,
+        "showCnt": 2474
+      },
+      {
+        "movieCd": "20250053",
+        "movieNm": "실낙원",
+        "rank": 2,
+        "openDt": "2026-10-21",
+        "audiCnt": 14192,
+        "audiAcc": 38174,
+        "scrnCnt": 783,
+        "showCnt": 2409
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 11153,
+        "audiAcc": 3306096,
+        "scrnCnt": 664,
+        "showCnt": 1536
+      },
+      {
+        "movieCd": "20267571",
+        "movieNm": "클레이페이스",
+        "rank": 4,
+        "openDt": "2026-10-21",
+        "audiCnt": 10122,
+        "audiAcc": 29021,
+        "scrnCnt": 552,
+        "showCnt": 1131
+      },
+      {
+        "movieCd": "20264015",
+        "movieNm": "베러티",
+        "rank": 5,
+        "openDt": "2026-10-22",
+        "audiCnt": 8618,
+        "audiAcc": 8774,
+        "scrnCnt": 445,
+        "showCnt": 734
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 6,
+        "openDt": "2026-09-23",
+        "audiCnt": 7586,
+        "audiAcc": 1952498,
+        "scrnCnt": 519,
+        "showCnt": 940
+      },
+      {
+        "movieCd": "20266189",
+        "movieNm": "여전히 찬란하게",
+        "rank": 7,
+        "openDt": "2026-10-21",
+        "audiCnt": 6509,
+        "audiAcc": 19473,
+        "scrnCnt": 565,
+        "showCnt": 1069
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 8,
+        "openDt": "2026-08-05",
+        "audiCnt": 2686,
+        "audiAcc": 12290939,
+        "scrnCnt": 251,
+        "showCnt": 317
+      },
+      {
+        "movieCd": "20246036",
+        "movieNm": "킬링타임",
+        "rank": 9,
+        "openDt": "2026-10-21",
+        "audiCnt": 2456,
+        "audiAcc": 7877,
+        "scrnCnt": 245,
+        "showCnt": 351
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 10,
+        "openDt": "2026-10-08",
+        "audiCnt": 2373,
+        "audiAcc": 115427,
+        "scrnCnt": 167,
+        "showCnt": 257
+      }
+    ],
+    "20261023": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 39729,
+        "audiAcc": 1967501,
+        "scrnCnt": 842,
+        "showCnt": 2808
+      },
+      {
+        "movieCd": "20250053",
+        "movieNm": "실낙원",
+        "rank": 2,
+        "openDt": "2026-10-21",
+        "audiCnt": 16474,
+        "audiAcc": 54648,
+        "scrnCnt": 803,
+        "showCnt": 2549
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 13435,
+        "audiAcc": 3319531,
+        "scrnCnt": 664,
+        "showCnt": 1572
+      },
+      {
+        "movieCd": "20267571",
+        "movieNm": "클레이페이스",
+        "rank": 4,
+        "openDt": "2026-10-21",
+        "audiCnt": 12058,
+        "audiAcc": 41079,
+        "scrnCnt": 604,
+        "showCnt": 1301
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 5,
+        "openDt": "2026-09-23",
+        "audiCnt": 10372,
+        "audiAcc": 1962870,
+        "scrnCnt": 546,
+        "showCnt": 1028
+      },
+      {
+        "movieCd": "20264015",
+        "movieNm": "베러티",
+        "rank": 6,
+        "openDt": "2026-10-22",
+        "audiCnt": 6245,
+        "audiAcc": 15019,
+        "scrnCnt": 458,
+        "showCnt": 763
+      },
+      {
+        "movieCd": "20266189",
+        "movieNm": "여전히 찬란하게",
+        "rank": 7,
+        "openDt": "2026-10-21",
+        "audiCnt": 5478,
+        "audiAcc": 24951,
+        "scrnCnt": 558,
+        "showCnt": 1031
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 8,
+        "openDt": "2026-08-05",
+        "audiCnt": 4591,
+        "audiAcc": 12295530,
+        "scrnCnt": 284,
+        "showCnt": 364
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 9,
+        "openDt": "2026-10-08",
+        "audiCnt": 3346,
+        "audiAcc": 118773,
+        "scrnCnt": 167,
+        "showCnt": 273
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 10,
+        "openDt": "2026-09-16",
+        "audiCnt": 2891,
+        "audiAcc": 905405,
+        "scrnCnt": 45,
+        "showCnt": 46
+      }
+    ],
+    "20261024": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 145096,
+        "audiAcc": 2112597,
+        "scrnCnt": 1115,
+        "showCnt": 4293
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 2,
+        "openDt": "2026-09-23",
+        "audiCnt": 28692,
+        "audiAcc": 3348223,
+        "scrnCnt": 720,
+        "showCnt": 1696
+      },
+      {
+        "movieCd": "20250053",
+        "movieNm": "실낙원",
+        "rank": 3,
+        "openDt": "2026-10-21",
+        "audiCnt": 27912,
+        "audiAcc": 82560,
+        "scrnCnt": 788,
+        "showCnt": 2671
+      },
+      {
+        "movieCd": "20267571",
+        "movieNm": "클레이페이스",
+        "rank": 4,
+        "openDt": "2026-10-21",
+        "audiCnt": 20235,
+        "audiAcc": 61314,
+        "scrnCnt": 655,
+        "showCnt": 1538
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 5,
+        "openDt": "2026-09-23",
+        "audiCnt": 19774,
+        "audiAcc": 1982644,
+        "scrnCnt": 618,
+        "showCnt": 1066
+      },
+      {
+        "movieCd": "20266189",
+        "movieNm": "여전히 찬란하게",
+        "rank": 6,
+        "openDt": "2026-10-21",
+        "audiCnt": 8997,
+        "audiAcc": 33948,
+        "scrnCnt": 562,
+        "showCnt": 1012
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 7,
+        "openDt": "2026-08-05",
+        "audiCnt": 8082,
+        "audiAcc": 12303612,
+        "scrnCnt": 341,
+        "showCnt": 440
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 8,
+        "openDt": "2026-10-08",
+        "audiCnt": 7283,
+        "audiAcc": 126056,
+        "scrnCnt": 190,
+        "showCnt": 298
+      },
+      {
+        "movieCd": "20264015",
+        "movieNm": "베러티",
+        "rank": 9,
+        "openDt": "2026-10-22",
+        "audiCnt": 5865,
+        "audiAcc": 20884,
+        "scrnCnt": 450,
+        "showCnt": 745
+      },
+      {
+        "movieCd": "20246036",
+        "movieNm": "킬링타임",
+        "rank": 10,
+        "openDt": "2026-10-21",
+        "audiCnt": 4532,
+        "audiAcc": 15034,
+        "scrnCnt": 271,
+        "showCnt": 379
+      }
+    ],
+    "20261025": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 135445,
+        "audiAcc": 2248042,
+        "scrnCnt": 1107,
+        "showCnt": 4164
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 2,
+        "openDt": "2026-09-23",
+        "audiCnt": 26112,
+        "audiAcc": 3374335,
+        "scrnCnt": 730,
+        "showCnt": 1614
+      },
+      {
+        "movieCd": "20250053",
+        "movieNm": "실낙원",
+        "rank": 3,
+        "openDt": "2026-10-21",
+        "audiCnt": 22309,
+        "audiAcc": 104869,
+        "scrnCnt": 767,
+        "showCnt": 2420
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 4,
+        "openDt": "2026-09-23",
+        "audiCnt": 16772,
+        "audiAcc": 1999416,
+        "scrnCnt": 601,
+        "showCnt": 1007
+      },
+      {
+        "movieCd": "20267571",
+        "movieNm": "클레이페이스",
+        "rank": 5,
+        "openDt": "2026-10-21",
+        "audiCnt": 15984,
+        "audiAcc": 77298,
+        "scrnCnt": 625,
+        "showCnt": 1411
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 6,
+        "openDt": "2026-08-05",
+        "audiCnt": 7510,
+        "audiAcc": 12311122,
+        "scrnCnt": 325,
+        "showCnt": 401
+      },
+      {
+        "movieCd": "20266189",
+        "movieNm": "여전히 찬란하게",
+        "rank": 7,
+        "openDt": "2026-10-21",
+        "audiCnt": 7089,
+        "audiAcc": 41037,
+        "scrnCnt": 539,
+        "showCnt": 941
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 8,
+        "openDt": "2026-10-08",
+        "audiCnt": 4995,
+        "audiAcc": 131051,
+        "scrnCnt": 190,
+        "showCnt": 299
+      },
+      {
+        "movieCd": "20264015",
+        "movieNm": "베러티",
+        "rank": 9,
+        "openDt": "2026-10-22",
+        "audiCnt": 4306,
+        "audiAcc": 25190,
+        "scrnCnt": 414,
+        "showCnt": 664
+      },
+      {
+        "movieCd": "20246036",
+        "movieNm": "킬링타임",
+        "rank": 10,
+        "openDt": "2026-10-21",
+        "audiCnt": 4087,
+        "audiAcc": 19121,
+        "scrnCnt": 274,
+        "showCnt": 375
+      }
+    ],
+    "20261026": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 20151,
+        "audiAcc": 2268193,
+        "scrnCnt": 767,
+        "showCnt": 2525
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 2,
+        "openDt": "2026-09-23",
+        "audiCnt": 7621,
+        "audiAcc": 3381956,
+        "scrnCnt": 592,
+        "showCnt": 1304
+      },
+      {
+        "movieCd": "20250053",
+        "movieNm": "실낙원",
+        "rank": 3,
+        "openDt": "2026-10-21",
+        "audiCnt": 7319,
+        "audiAcc": 112188,
+        "scrnCnt": 632,
+        "showCnt": 1740
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 4,
+        "openDt": "2026-09-23",
+        "audiCnt": 7011,
+        "audiAcc": 2006427,
+        "scrnCnt": 531,
+        "showCnt": 928
+      },
+      {
+        "movieCd": "20267571",
+        "movieNm": "클레이페이스",
+        "rank": 5,
+        "openDt": "2026-10-21",
+        "audiCnt": 6898,
+        "audiAcc": 84196,
+        "scrnCnt": 542,
+        "showCnt": 1215
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 6,
+        "openDt": "2026-08-05",
+        "audiCnt": 3399,
+        "audiAcc": 12314521,
+        "scrnCnt": 305,
+        "showCnt": 370
+      },
+      {
+        "movieCd": "20266189",
+        "movieNm": "여전히 찬란하게",
+        "rank": 7,
+        "openDt": "2026-10-21",
+        "audiCnt": 3167,
+        "audiAcc": 44204,
+        "scrnCnt": 449,
+        "showCnt": 735
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 8,
+        "openDt": "2026-10-08",
+        "audiCnt": 2249,
+        "audiAcc": 133300,
+        "scrnCnt": 144,
+        "showCnt": 233
+      },
+      {
+        "movieCd": "20264015",
+        "movieNm": "베러티",
+        "rank": 9,
+        "openDt": "2026-10-22",
+        "audiCnt": 2243,
+        "audiAcc": 27433,
+        "scrnCnt": 381,
+        "showCnt": 596
+      },
+      {
+        "movieCd": "20246036",
+        "movieNm": "킬링타임",
+        "rank": 10,
+        "openDt": "2026-10-21",
+        "audiCnt": 1305,
+        "audiAcc": 20426,
+        "scrnCnt": 211,
+        "showCnt": 284
+      }
+    ],
+    "20261027": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 18327,
+        "audiAcc": 2286520,
+        "scrnCnt": 792,
+        "showCnt": 2471
+      },
+      {
+        "movieCd": "20250053",
+        "movieNm": "실낙원",
+        "rank": 2,
+        "openDt": "2026-10-21",
+        "audiCnt": 9414,
+        "audiAcc": 121602,
+        "scrnCnt": 682,
+        "showCnt": 1860
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 3,
+        "openDt": "2026-09-23",
+        "audiCnt": 9281,
+        "audiAcc": 2015708,
+        "scrnCnt": 543,
+        "showCnt": 939
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 4,
+        "openDt": "2026-09-23",
+        "audiCnt": 7416,
+        "audiAcc": 3389372,
+        "scrnCnt": 611,
+        "showCnt": 1297
+      },
+      {
+        "movieCd": "20267571",
+        "movieNm": "클레이페이스",
+        "rank": 5,
+        "openDt": "2026-10-21",
+        "audiCnt": 6274,
+        "audiAcc": 90470,
+        "scrnCnt": 535,
+        "showCnt": 1180
+      },
+      {
+        "movieCd": "20266189",
+        "movieNm": "여전히 찬란하게",
+        "rank": 6,
+        "openDt": "2026-10-21",
+        "audiCnt": 4244,
+        "audiAcc": 48448,
+        "scrnCnt": 492,
+        "showCnt": 798
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 7,
+        "openDt": "2026-08-05",
+        "audiCnt": 2752,
+        "audiAcc": 12317273,
+        "scrnCnt": 296,
+        "showCnt": 368
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 8,
+        "openDt": "2026-10-08",
+        "audiCnt": 2302,
+        "audiAcc": 135602,
+        "scrnCnt": 152,
+        "showCnt": 249
+      },
+      {
+        "movieCd": "20264015",
+        "movieNm": "베러티",
+        "rank": 9,
+        "openDt": "2026-10-22",
+        "audiCnt": 2274,
+        "audiAcc": 29707,
+        "scrnCnt": 388,
+        "showCnt": 601
+      },
+      {
+        "movieCd": "20256308",
+        "movieNm": "인턴",
+        "rank": 10,
+        "openDt": "2026-09-16",
+        "audiCnt": 1754,
+        "audiAcc": 908392,
+        "scrnCnt": 28,
+        "showCnt": 31
+      }
+    ],
+    "20261028": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 56292,
+        "audiAcc": 2342812,
+        "scrnCnt": 811,
+        "showCnt": 2519
+      },
+      {
+        "movieCd": "20264498",
+        "movieNm": "하트 오브 비스트",
+        "rank": 2,
+        "openDt": "2026-10-28",
+        "audiCnt": 30867,
+        "audiAcc": 31674,
+        "scrnCnt": 715,
+        "showCnt": 1860
+      },
+      {
+        "movieCd": "20231795",
+        "movieNm": "수능, 출제의 비밀",
+        "rank": 3,
+        "openDt": "2026-10-28",
+        "audiCnt": 14332,
+        "audiAcc": 16919,
+        "scrnCnt": 743,
+        "showCnt": 2088
+      },
+      {
+        "movieCd": "20155762",
+        "movieNm": "진격의 거인: 홍련의 화살",
+        "rank": 4,
+        "openDt": "2015-01-28",
+        "audiCnt": 12012,
+        "audiAcc": 36713,
+        "scrnCnt": 230,
+        "showCnt": 632
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 5,
+        "openDt": "2026-09-23",
+        "audiCnt": 9728,
+        "audiAcc": 3399100,
+        "scrnCnt": 578,
+        "showCnt": 973
+      },
+      {
+        "movieCd": "20250053",
+        "movieNm": "실낙원",
+        "rank": 6,
+        "openDt": "2026-10-21",
+        "audiCnt": 7245,
+        "audiAcc": 128847,
+        "scrnCnt": 637,
+        "showCnt": 1146
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 7,
+        "openDt": "2026-09-23",
+        "audiCnt": 6980,
+        "audiAcc": 2022688,
+        "scrnCnt": 450,
+        "showCnt": 641
+      },
+      {
+        "movieCd": "20267571",
+        "movieNm": "클레이페이스",
+        "rank": 8,
+        "openDt": "2026-10-21",
+        "audiCnt": 5165,
+        "audiAcc": 95635,
+        "scrnCnt": 438,
+        "showCnt": 731
+      },
+      {
+        "movieCd": "20266764",
+        "movieNm": "그대, 별처럼",
+        "rank": 9,
+        "openDt": "2026-10-28",
+        "audiCnt": 5000,
+        "audiAcc": 7698,
+        "scrnCnt": 116,
+        "showCnt": 300
+      },
+      {
+        "movieCd": "20266189",
+        "movieNm": "여전히 찬란하게",
+        "rank": 10,
+        "openDt": "2026-10-21",
+        "audiCnt": 4098,
+        "audiAcc": 52546,
+        "scrnCnt": 296,
+        "showCnt": 369
+      }
+    ],
+    "20261029": [
+      {
+        "movieCd": "20264498",
+        "movieNm": "하트 오브 비스트",
+        "rank": 1,
+        "openDt": "2026-10-28",
+        "audiCnt": 21747,
+        "audiAcc": 53421,
+        "scrnCnt": 784,
+        "showCnt": 1937
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 2,
+        "openDt": "2026-09-30",
+        "audiCnt": 19388,
+        "audiAcc": 2362200,
+        "scrnCnt": 782,
+        "showCnt": 2285
+      },
+      {
+        "movieCd": "20231795",
+        "movieNm": "수능, 출제의 비밀",
+        "rank": 3,
+        "openDt": "2026-10-28",
+        "audiCnt": 10049,
+        "audiAcc": 26968,
+        "scrnCnt": 681,
+        "showCnt": 1823
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 4,
+        "openDt": "2026-09-23",
+        "audiCnt": 7592,
+        "audiAcc": 3406692,
+        "scrnCnt": 579,
+        "showCnt": 951
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 5,
+        "openDt": "2026-09-23",
+        "audiCnt": 6138,
+        "audiAcc": 2028826,
+        "scrnCnt": 456,
+        "showCnt": 662
+      },
+      {
+        "movieCd": "20250053",
+        "movieNm": "실낙원",
+        "rank": 6,
+        "openDt": "2026-10-21",
+        "audiCnt": 5525,
+        "audiAcc": 134372,
+        "scrnCnt": 562,
+        "showCnt": 983
+      },
+      {
+        "movieCd": "20155762",
+        "movieNm": "진격의 거인: 홍련의 화살",
+        "rank": 7,
+        "openDt": "2015-01-28",
+        "audiCnt": 5348,
+        "audiAcc": 42061,
+        "scrnCnt": 214,
+        "showCnt": 496
+      },
+      {
+        "movieCd": "20267571",
+        "movieNm": "클레이페이스",
+        "rank": 8,
+        "openDt": "2026-10-21",
+        "audiCnt": 3188,
+        "audiAcc": 98823,
+        "scrnCnt": 403,
+        "showCnt": 647
+      },
+      {
+        "movieCd": "20266189",
+        "movieNm": "여전히 찬란하게",
+        "rank": 9,
+        "openDt": "2026-10-21",
+        "audiCnt": 3176,
+        "audiAcc": 55722,
+        "scrnCnt": 292,
+        "showCnt": 358
+      },
+      {
+        "movieCd": "20259894",
+        "movieNm": "최종면접 ",
+        "rank": 10,
+        "openDt": "2026-11-04",
+        "audiCnt": 2753,
+        "audiAcc": 6353,
+        "scrnCnt": 15,
+        "showCnt": 15
+      }
+    ],
+    "20261030": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 31181,
+        "audiAcc": 2393381,
+        "scrnCnt": 846,
+        "showCnt": 2805
+      },
+      {
+        "movieCd": "20264498",
+        "movieNm": "하트 오브 비스트",
+        "rank": 2,
+        "openDt": "2026-10-28",
+        "audiCnt": 30259,
+        "audiAcc": 83680,
+        "scrnCnt": 874,
+        "showCnt": 2373
+      },
+      {
+        "movieCd": "20231795",
+        "movieNm": "수능, 출제의 비밀",
+        "rank": 3,
+        "openDt": "2026-10-28",
+        "audiCnt": 12543,
+        "audiAcc": 39511,
+        "scrnCnt": 677,
+        "showCnt": 1897
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 4,
+        "openDt": "2026-09-23",
+        "audiCnt": 9658,
+        "audiAcc": 3416350,
+        "scrnCnt": 616,
+        "showCnt": 1069
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 5,
+        "openDt": "2026-09-23",
+        "audiCnt": 7163,
+        "audiAcc": 2035989,
+        "scrnCnt": 475,
+        "showCnt": 738
+      },
+      {
+        "movieCd": "20155762",
+        "movieNm": "진격의 거인: 홍련의 화살",
+        "rank": 6,
+        "openDt": "2015-01-28",
+        "audiCnt": 6192,
+        "audiAcc": 48253,
+        "scrnCnt": 217,
+        "showCnt": 478
+      },
+      {
+        "movieCd": "20250053",
+        "movieNm": "실낙원",
+        "rank": 7,
+        "openDt": "2026-10-21",
+        "audiCnt": 5191,
+        "audiAcc": 139563,
+        "scrnCnt": 593,
+        "showCnt": 1005
+      },
+      {
+        "movieCd": "20267571",
+        "movieNm": "클레이페이스",
+        "rank": 8,
+        "openDt": "2026-10-21",
+        "audiCnt": 4391,
+        "audiAcc": 103214,
+        "scrnCnt": 419,
+        "showCnt": 711
+      },
+      {
+        "movieCd": "20266764",
+        "movieNm": "그대, 별처럼",
+        "rank": 9,
+        "openDt": "2026-10-28",
+        "audiCnt": 3332,
+        "audiAcc": 13719,
+        "scrnCnt": 124,
+        "showCnt": 312
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 10,
+        "openDt": "2026-08-05",
+        "audiCnt": 2845,
+        "audiAcc": 12324781,
+        "scrnCnt": 215,
+        "showCnt": 269
+      }
+    ],
+    "20261031": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 97460,
+        "audiAcc": 2490841,
+        "scrnCnt": 1167,
+        "showCnt": 4283
+      },
+      {
+        "movieCd": "20264498",
+        "movieNm": "하트 오브 비스트",
+        "rank": 2,
+        "openDt": "2026-10-28",
+        "audiCnt": 69073,
+        "audiAcc": 152753,
+        "scrnCnt": 1106,
+        "showCnt": 3233
+      },
+      {
+        "movieCd": "20231795",
+        "movieNm": "수능, 출제의 비밀",
+        "rank": 3,
+        "openDt": "2026-10-28",
+        "audiCnt": 17054,
+        "audiAcc": 56565,
+        "scrnCnt": 664,
+        "showCnt": 1758
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 4,
+        "openDt": "2026-09-23",
+        "audiCnt": 16420,
+        "audiAcc": 3432770,
+        "scrnCnt": 620,
+        "showCnt": 1087
+      },
+      {
+        "movieCd": "20155762",
+        "movieNm": "진격의 거인: 홍련의 화살",
+        "rank": 5,
+        "openDt": "2015-01-28",
+        "audiCnt": 12613,
+        "audiAcc": 60866,
+        "scrnCnt": 233,
+        "showCnt": 523
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 6,
+        "openDt": "2026-09-23",
+        "audiCnt": 10496,
+        "audiAcc": 2046485,
+        "scrnCnt": 498,
+        "showCnt": 773
+      },
+      {
+        "movieCd": "20267571",
+        "movieNm": "클레이페이스",
+        "rank": 7,
+        "openDt": "2026-10-21",
+        "audiCnt": 6862,
+        "audiAcc": 110076,
+        "scrnCnt": 444,
+        "showCnt": 668
+      },
+      {
+        "movieCd": "20250053",
+        "movieNm": "실낙원",
+        "rank": 8,
+        "openDt": "2026-10-21",
+        "audiCnt": 6655,
+        "audiAcc": 146218,
+        "scrnCnt": 591,
+        "showCnt": 923
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 9,
+        "openDt": "2026-08-05",
+        "audiCnt": 5387,
+        "audiAcc": 12330168,
+        "scrnCnt": 254,
+        "showCnt": 310
+      },
+      {
+        "movieCd": "20265062",
+        "movieNm": "룩백",
+        "rank": 10,
+        "openDt": "2026-10-08",
+        "audiCnt": 3540,
+        "audiAcc": 145975,
+        "scrnCnt": 150,
+        "showCnt": 243
+      }
+    ],
+    "20261101": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 93014,
+        "audiAcc": 2583855,
+        "scrnCnt": 1108,
+        "showCnt": 4029
+      },
+      {
+        "movieCd": "20264498",
+        "movieNm": "하트 오브 비스트",
+        "rank": 2,
+        "openDt": "2026-10-28",
+        "audiCnt": 63965,
+        "audiAcc": 216718,
+        "scrnCnt": 1099,
+        "showCnt": 3171
+      },
+      {
+        "movieCd": "20231795",
+        "movieNm": "수능, 출제의 비밀",
+        "rank": 3,
+        "openDt": "2026-10-28",
+        "audiCnt": 15203,
+        "audiAcc": 71768,
+        "scrnCnt": 666,
+        "showCnt": 1652
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 4,
+        "openDt": "2026-09-23",
+        "audiCnt": 15187,
+        "audiAcc": 3447957,
+        "scrnCnt": 613,
+        "showCnt": 1047
+      },
+      {
+        "movieCd": "20155762",
+        "movieNm": "진격의 거인: 홍련의 화살",
+        "rank": 5,
+        "openDt": "2015-01-28",
+        "audiCnt": 11458,
+        "audiAcc": 72324,
+        "scrnCnt": 223,
+        "showCnt": 448
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 6,
+        "openDt": "2026-09-23",
+        "audiCnt": 8991,
+        "audiAcc": 2055476,
+        "scrnCnt": 466,
+        "showCnt": 728
+      },
+      {
+        "movieCd": "20267571",
+        "movieNm": "클레이페이스",
+        "rank": 7,
+        "openDt": "2026-10-21",
+        "audiCnt": 5388,
+        "audiAcc": 115464,
+        "scrnCnt": 408,
+        "showCnt": 600
+      },
+      {
+        "movieCd": "20250053",
+        "movieNm": "실낙원",
+        "rank": 8,
+        "openDt": "2026-10-21",
+        "audiCnt": 5209,
+        "audiAcc": 151427,
+        "scrnCnt": 565,
+        "showCnt": 830
+      },
+      {
+        "movieCd": "20250654",
+        "movieNm": "오디세이",
+        "rank": 9,
+        "openDt": "2026-08-05",
+        "audiCnt": 5100,
+        "audiAcc": 12335268,
+        "scrnCnt": 250,
+        "showCnt": 322
+      },
+      {
+        "movieCd": "20259894",
+        "movieNm": "최종면접 ",
+        "rank": 10,
+        "openDt": "2026-11-04",
+        "audiCnt": 3744,
+        "audiAcc": 14574,
+        "scrnCnt": 14,
+        "showCnt": 21
+      }
+    ]
+  },
+  "lastCollectedKST": "2026-11-02T14:14:59+09:00"
 }
