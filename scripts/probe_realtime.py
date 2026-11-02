@@ -3,6 +3,8 @@
 Diagnostic only. No credentials or cookies are logged or persisted.
 """
 import datetime as dt
+import time
+import urllib.error
 import html
 from html.parser import HTMLParser
 import http.cookiejar
@@ -57,10 +59,18 @@ def request(opener, data=None):
     if data is not None:
         headers["Content-Type"] = "application/x-www-form-urlencoded"
     req = urllib.request.Request(URL, data=data, headers=headers)
-    with opener.open(req, timeout=30) as response:
-        body = response.read().decode("utf-8", errors="replace")
-        print("HTTP:", response.status, "bytes:", len(body.encode("utf-8")))
-        return body
+    for attempt in range(1, 4):
+        try:
+            print("Request:", "POST" if data is not None else "GET", "attempt:", attempt, flush=True)
+            with opener.open(req, timeout=20) as response:
+                body = response.read().decode("utf-8", errors="replace")
+                print("HTTP:", response.status, "bytes:", len(body.encode("utf-8")), flush=True)
+                return body
+        except (TimeoutError, urllib.error.URLError) as exc:
+            print("Connection failure:", type(exc).__name__, str(exc), flush=True)
+            if attempt == 3:
+                raise SystemExit("NETWORK_FAILURE: KOBIS unreachable after 3 attempts") from exc
+            time.sleep(attempt * 2)
 
 
 def main():
