@@ -2,6 +2,8 @@ name: Collect KOBIS Real-time Data
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '7 * * * *'  # Hourly at minute 07 UTC; KST is UTC+9
 
 permissions:
   contents: write
