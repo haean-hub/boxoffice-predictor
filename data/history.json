@@ -3088,7 +3088,7 @@
         "rank": 3,
         "openDt": "2026-09-23",
         "audiCnt": 5163,
-        "audiAcc": 3453117,
+        "audiAcc": 3453113,
         "scrnCnt": 523,
         "showCnt": 921
       },
@@ -3108,7 +3108,7 @@
         "rank": 5,
         "openDt": "2015-01-28",
         "audiCnt": 4075,
-        "audiAcc": 76397,
+        "audiAcc": 76395,
         "scrnCnt": 202,
         "showCnt": 440
       },
@@ -3199,8 +3199,8 @@
         "movieNm": "암살자(들)",
         "rank": 4,
         "openDt": "2026-09-23",
-        "audiCnt": 4437,
-        "audiAcc": 3457554,
+        "audiCnt": 4425,
+        "audiAcc": 3457538,
         "scrnCnt": 509,
         "showCnt": 867
       },
@@ -3210,7 +3210,7 @@
         "rank": 5,
         "openDt": "2015-01-28",
         "audiCnt": 3996,
-        "audiAcc": 80393,
+        "audiAcc": 80391,
         "scrnCnt": 195,
         "showCnt": 367
       },
@@ -3264,7 +3264,109 @@
         "scrnCnt": 228,
         "showCnt": 273
       }
+    ],
+    "20261104": [
+      {
+        "movieCd": "20259894",
+        "movieNm": "최종면접",
+        "rank": 1,
+        "openDt": "2026-11-04",
+        "audiCnt": 26700,
+        "audiAcc": 42574,
+        "scrnCnt": 972,
+        "showCnt": 3205
+      },
+      {
+        "movieCd": "20264498",
+        "movieNm": "하트 오브 비스트",
+        "rank": 2,
+        "openDt": "2026-10-28",
+        "audiCnt": 17230,
+        "audiAcc": 271042,
+        "scrnCnt": 806,
+        "showCnt": 2347
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 3,
+        "openDt": "2026-09-30",
+        "audiCnt": 13961,
+        "audiAcc": 2627526,
+        "scrnCnt": 754,
+        "showCnt": 2132
+      },
+      {
+        "movieCd": "20267412",
+        "movieNm": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
+        "rank": 4,
+        "openDt": "2026-11-04",
+        "audiCnt": 13393,
+        "audiAcc": 13393,
+        "scrnCnt": 143,
+        "showCnt": 412
+      },
+      {
+        "movieCd": "20231795",
+        "movieNm": "수능, 출제의 비밀",
+        "rank": 5,
+        "openDt": "2026-10-28",
+        "audiCnt": 5351,
+        "audiAcc": 87318,
+        "scrnCnt": 454,
+        "showCnt": 620
+      },
+      {
+        "movieCd": "20266765",
+        "movieNm": "와일드 호스 나인",
+        "rank": 6,
+        "openDt": "2026-11-04",
+        "audiCnt": 3893,
+        "audiAcc": 4456,
+        "scrnCnt": 304,
+        "showCnt": 526
+      },
+      {
+        "movieCd": "20243927",
+        "movieNm": "낮과 밤은 서로에게",
+        "rank": 7,
+        "openDt": "2026-11-04",
+        "audiCnt": 3445,
+        "audiAcc": 4368,
+        "scrnCnt": 262,
+        "showCnt": 382
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 8,
+        "openDt": "2026-09-23",
+        "audiCnt": 3251,
+        "audiAcc": 3460789,
+        "scrnCnt": 433,
+        "showCnt": 606
+      },
+      {
+        "movieCd": "20256161",
+        "movieNm": "타짜: 벨제붑의 노래",
+        "rank": 9,
+        "openDt": "2026-09-23",
+        "audiCnt": 2117,
+        "audiAcc": 2064093,
+        "scrnCnt": 316,
+        "showCnt": 417
+      },
+      {
+        "movieCd": "20266189",
+        "movieNm": "여전히 찬란하게",
+        "rank": 10,
+        "openDt": "2026-10-21",
+        "audiCnt": 1387,
+        "audiAcc": 65469,
+        "scrnCnt": 95,
+        "showCnt": 108
+      }
     ]
   },
-  "lastCollectedKST": "2026-11-04T16:29:28+09:00"
+  "lastCollectedKST": "2026-11-05T16:54:30+09:00"
 }
