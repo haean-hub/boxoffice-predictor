@@ -3570,7 +3570,109 @@
         "scrnCnt": 81,
         "showCnt": 92
       }
+    ],
+    "20261107": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 67621,
+        "audiAcc": 2725867,
+        "scrnCnt": 950,
+        "showCnt": 3200
+      },
+      {
+        "movieCd": "20259894",
+        "movieNm": "최종면접",
+        "rank": 2,
+        "openDt": "2026-11-04",
+        "audiCnt": 44616,
+        "audiAcc": 129687,
+        "scrnCnt": 945,
+        "showCnt": 3231
+      },
+      {
+        "movieCd": "20264498",
+        "movieNm": "하트 오브 비스트",
+        "rank": 3,
+        "openDt": "2026-10-28",
+        "audiCnt": 38110,
+        "audiAcc": 347366,
+        "scrnCnt": 851,
+        "showCnt": 2752
+      },
+      {
+        "movieCd": "20267697",
+        "movieNm": "명탐정 코난: 30호 살인 사건",
+        "rank": 4,
+        "openDt": "2026-11-05",
+        "audiCnt": 34410,
+        "audiAcc": 80778,
+        "scrnCnt": 391,
+        "showCnt": 1153
+      },
+      {
+        "movieCd": "20264481",
+        "movieNm": "모자 쓴 고양이",
+        "rank": 5,
+        "openDt": "2026-11-06",
+        "audiCnt": 12889,
+        "audiAcc": 17255,
+        "scrnCnt": 589,
+        "showCnt": 970
+      },
+      {
+        "movieCd": "20267412",
+        "movieNm": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
+        "rank": 6,
+        "openDt": "2026-11-04",
+        "audiCnt": 12189,
+        "audiAcc": 36363,
+        "scrnCnt": 187,
+        "showCnt": 549
+      },
+      {
+        "movieCd": "20155762",
+        "movieNm": "진격의 거인: 홍련의 화살",
+        "rank": 7,
+        "openDt": "2015-01-28",
+        "audiCnt": 7134,
+        "audiAcc": 90880,
+        "scrnCnt": 130,
+        "showCnt": 261
+      },
+      {
+        "movieCd": "20266765",
+        "movieNm": "와일드 호스 나인",
+        "rank": 8,
+        "openDt": "2026-11-04",
+        "audiCnt": 5319,
+        "audiAcc": 15810,
+        "scrnCnt": 312,
+        "showCnt": 462
+      },
+      {
+        "movieCd": "20255033",
+        "movieNm": "암살자(들)",
+        "rank": 9,
+        "openDt": "2026-09-23",
+        "audiCnt": 4772,
+        "audiAcc": 3471997,
+        "scrnCnt": 393,
+        "showCnt": 560
+      },
+      {
+        "movieCd": "20231795",
+        "movieNm": "수능, 출제의 비밀",
+        "rank": 10,
+        "openDt": "2026-10-28",
+        "audiCnt": 4429,
+        "audiAcc": 99887,
+        "scrnCnt": 395,
+        "showCnt": 492
+      }
     ]
   },
-  "lastCollectedKST": "2026-11-07T16:09:01+09:00"
+  "lastCollectedKST": "2026-11-08T16:18:30+09:00"
 }
