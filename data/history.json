@@ -4229,8 +4229,8 @@
         "movieNm": "하트 오브 비스트",
         "rank": 5,
         "openDt": "2026-10-28",
-        "audiCnt": 7959,
-        "audiAcc": 422905,
+        "audiCnt": 7958,
+        "audiAcc": 422904,
         "scrnCnt": 641,
         "showCnt": 1311
       },
@@ -4250,7 +4250,7 @@
         "rank": 7,
         "openDt": "2021-10-20",
         "audiCnt": 4627,
-        "audiAcc": 1678578,
+        "audiAcc": 1678577,
         "scrnCnt": 26,
         "showCnt": 110
       },
@@ -4301,8 +4301,8 @@
         "movieNm": "폴2: 데드포인트",
         "rank": 2,
         "openDt": "2026-11-11",
-        "audiCnt": 48433,
-        "audiAcc": 100100,
+        "audiCnt": 48432,
+        "audiAcc": 100099,
         "scrnCnt": 795,
         "showCnt": 2075
       },
@@ -4322,7 +4322,7 @@
         "rank": 4,
         "openDt": "2026-10-28",
         "audiCnt": 17603,
-        "audiAcc": 440508,
+        "audiAcc": 440507,
         "scrnCnt": 684,
         "showCnt": 1526
       },
@@ -4361,8 +4361,8 @@
         "movieNm": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
         "rank": 8,
         "openDt": "2026-11-04",
-        "audiCnt": 7657,
-        "audiAcc": 63784,
+        "audiCnt": 7655,
+        "audiAcc": 63782,
         "scrnCnt": 163,
         "showCnt": 389
       },
@@ -4382,11 +4382,113 @@
         "rank": 10,
         "openDt": "2021-10-20",
         "audiCnt": 7217,
-        "audiAcc": 1685795,
+        "audiAcc": 1685794,
         "scrnCnt": 26,
         "showCnt": 109
       }
+    ],
+    "20261115": [
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 1,
+        "openDt": "2026-09-30",
+        "audiCnt": 46032,
+        "audiAcc": 2949096,
+        "scrnCnt": 834,
+        "showCnt": 2710
+      },
+      {
+        "movieCd": "20264957",
+        "movieNm": "폴2: 데드포인트",
+        "rank": 2,
+        "openDt": "2026-11-11",
+        "audiCnt": 39938,
+        "audiAcc": 140037,
+        "scrnCnt": 797,
+        "showCnt": 2058
+      },
+      {
+        "movieCd": "20259894",
+        "movieNm": "최종면접",
+        "rank": 3,
+        "openDt": "2026-11-04",
+        "audiCnt": 23894,
+        "audiAcc": 283290,
+        "scrnCnt": 716,
+        "showCnt": 1792
+      },
+      {
+        "movieCd": "20267697",
+        "movieNm": "명탐정 코난: 30호 살인 사건",
+        "rank": 4,
+        "openDt": "2026-11-05",
+        "audiCnt": 13006,
+        "audiAcc": 173355,
+        "scrnCnt": 291,
+        "showCnt": 850
+      },
+      {
+        "movieCd": "20267846",
+        "movieNm": "극장판 마카앤로니: 기억탐험 대소동!",
+        "rank": 5,
+        "openDt": "2026-11-14",
+        "audiCnt": 12473,
+        "audiAcc": 25481,
+        "scrnCnt": 243,
+        "showCnt": 424
+      },
+      {
+        "movieCd": "20167904",
+        "movieNm": "라라랜드",
+        "rank": 6,
+        "openDt": "2016-12-07",
+        "audiCnt": 12361,
+        "audiAcc": 3861037,
+        "scrnCnt": 601,
+        "showCnt": 1088
+      },
+      {
+        "movieCd": "20264498",
+        "movieNm": "하트 오브 비스트",
+        "rank": 7,
+        "openDt": "2026-10-28",
+        "audiCnt": 12028,
+        "audiAcc": 452535,
+        "scrnCnt": 648,
+        "showCnt": 1359
+      },
+      {
+        "movieCd": "20210087",
+        "movieNm": "듄",
+        "rank": 8,
+        "openDt": "2021-10-20",
+        "audiCnt": 6030,
+        "audiAcc": 1691824,
+        "scrnCnt": 26,
+        "showCnt": 109
+      },
+      {
+        "movieCd": "20264481",
+        "movieNm": "모자 쓴 고양이",
+        "rank": 9,
+        "openDt": "2026-11-06",
+        "audiCnt": 6022,
+        "audiAcc": 52675,
+        "scrnCnt": 396,
+        "showCnt": 528
+      },
+      {
+        "movieCd": "20265420",
+        "movieNm": "스크루지: 크리스마스 캐럴",
+        "rank": 10,
+        "openDt": "2026-11-11",
+        "audiCnt": 4605,
+        "audiAcc": 19794,
+        "scrnCnt": 415,
+        "showCnt": 588
+      }
     ]
   },
-  "lastCollectedKST": "2026-11-15T16:51:17+09:00"
+  "lastCollectedKST": "2026-11-16T16:58:18+09:00"
 }
