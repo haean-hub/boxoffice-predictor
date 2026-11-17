@@ -4292,7 +4292,7 @@
         "rank": 1,
         "openDt": "2026-09-30",
         "audiCnt": 57190,
-        "audiAcc": 2903064,
+        "audiAcc": 2903056,
         "scrnCnt": 859,
         "showCnt": 2881
       },
@@ -4302,7 +4302,7 @@
         "rank": 2,
         "openDt": "2026-11-11",
         "audiCnt": 48432,
-        "audiAcc": 100099,
+        "audiAcc": 100098,
         "scrnCnt": 795,
         "showCnt": 2075
       },
@@ -4394,7 +4394,7 @@
         "rank": 1,
         "openDt": "2026-09-30",
         "audiCnt": 46032,
-        "audiAcc": 2949096,
+        "audiAcc": 2949088,
         "scrnCnt": 834,
         "showCnt": 2710
       },
@@ -4403,8 +4403,8 @@
         "movieNm": "폴2: 데드포인트",
         "rank": 2,
         "openDt": "2026-11-11",
-        "audiCnt": 39938,
-        "audiAcc": 140037,
+        "audiCnt": 39933,
+        "audiAcc": 140031,
         "scrnCnt": 797,
         "showCnt": 2058
       },
@@ -4473,8 +4473,8 @@
         "movieNm": "모자 쓴 고양이",
         "rank": 9,
         "openDt": "2026-11-06",
-        "audiCnt": 6022,
-        "audiAcc": 52675,
+        "audiCnt": 6020,
+        "audiAcc": 52673,
         "scrnCnt": 396,
         "showCnt": 528
       },
@@ -4488,7 +4488,109 @@
         "scrnCnt": 415,
         "showCnt": 588
       }
+    ],
+    "20261116": [
+      {
+        "movieCd": "20264957",
+        "movieNm": "폴2: 데드포인트",
+        "rank": 1,
+        "openDt": "2026-11-11",
+        "audiCnt": 11612,
+        "audiAcc": 151643,
+        "scrnCnt": 642,
+        "showCnt": 1723
+      },
+      {
+        "movieCd": "20259894",
+        "movieNm": "최종면접",
+        "rank": 2,
+        "openDt": "2026-11-04",
+        "audiCnt": 7592,
+        "audiAcc": 290882,
+        "scrnCnt": 605,
+        "showCnt": 1397
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 3,
+        "openDt": "2026-09-30",
+        "audiCnt": 6144,
+        "audiAcc": 2955232,
+        "scrnCnt": 548,
+        "showCnt": 1388
+      },
+      {
+        "movieCd": "20167904",
+        "movieNm": "라라랜드",
+        "rank": 4,
+        "openDt": "2016-12-07",
+        "audiCnt": 4323,
+        "audiAcc": 3865360,
+        "scrnCnt": 518,
+        "showCnt": 877
+      },
+      {
+        "movieCd": "20264498",
+        "movieNm": "하트 오브 비스트",
+        "rank": 5,
+        "openDt": "2026-10-28",
+        "audiCnt": 3576,
+        "audiAcc": 456111,
+        "scrnCnt": 529,
+        "showCnt": 951
+      },
+      {
+        "movieCd": "20267697",
+        "movieNm": "명탐정 코난: 30호 살인 사건",
+        "rank": 6,
+        "openDt": "2026-11-05",
+        "audiCnt": 3337,
+        "audiAcc": 176692,
+        "scrnCnt": 242,
+        "showCnt": 640
+      },
+      {
+        "movieCd": "20210087",
+        "movieNm": "듄",
+        "rank": 7,
+        "openDt": "2021-10-20",
+        "audiCnt": 2830,
+        "audiAcc": 1694654,
+        "scrnCnt": 26,
+        "showCnt": 102
+      },
+      {
+        "movieCd": "20266765",
+        "movieNm": "와일드 호스 나인",
+        "rank": 8,
+        "openDt": "2026-11-04",
+        "audiCnt": 1572,
+        "audiAcc": 41198,
+        "scrnCnt": 139,
+        "showCnt": 197
+      },
+      {
+        "movieCd": "20265420",
+        "movieNm": "스크루지: 크리스마스 캐럴",
+        "rank": 9,
+        "openDt": "2026-11-11",
+        "audiCnt": 1566,
+        "audiAcc": 21360,
+        "scrnCnt": 323,
+        "showCnt": 419
+      },
+      {
+        "movieCd": "20267412",
+        "movieNm": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
+        "rank": 10,
+        "openDt": "2026-11-04",
+        "audiCnt": 1374,
+        "audiAcc": 69416,
+        "scrnCnt": 130,
+        "showCnt": 291
+      }
     ]
   },
-  "lastCollectedKST": "2026-11-16T16:58:18+09:00"
+  "lastCollectedKST": "2026-11-17T18:12:32+09:00"
 }
