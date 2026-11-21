@@ -2,2712 +2,6 @@
   "source": "KOBIS public real-time booking",
   "snapshots": [
     {
-      "collectedAtKST": "2026-11-07T00:52:32+09:00",
-      "films": [
-        {
-          "rank": 1,
-          "movieNm": "극장판 치이카와: 인어 섬의 비밀",
-          "openDt": "2026-09-30",
-          "bookingRate": 18.4,
-          "bookingAudience": 55161,
-          "cumulativeAudience": 2658249
-        },
-        {
-          "rank": 2,
-          "movieNm": "최종면접",
-          "openDt": "2026-11-04",
-          "bookingRate": 10.8,
-          "bookingAudience": 32507,
-          "cumulativeAudience": 85043
-        },
-        {
-          "rank": 3,
-          "movieNm": "명탐정 코난: 30호 살인 사건",
-          "openDt": "2026-11-05",
-          "bookingRate": 9.8,
-          "bookingAudience": 29329,
-          "cumulativeAudience": 46363
-        },
-        {
-          "rank": 4,
-          "movieNm": "하트 오브 비스트",
-          "openDt": "2026-10-28",
-          "bookingRate": 6.8,
-          "bookingAudience": 20356,
-          "cumulativeAudience": 309246
-        },
-        {
-          "rank": 5,
-          "movieNm": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
-          "openDt": "2026-11-04",
-          "bookingRate": 5.1,
-          "bookingAudience": 15338,
-          "cumulativeAudience": 24174
-        },
-        {
-          "rank": 6,
-          "movieNm": "폭설",
-          "openDt": "2026-11-18",
-          "bookingRate": 4.3,
-          "bookingAudience": 12943,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 8,
-          "movieNm": "폴2: 데드포인트",
-          "openDt": "2026-11-11",
-          "bookingRate": 3.3,
-          "bookingAudience": 9906,
-          "cumulativeAudience": 541
-        },
-        {
-          "rank": 9,
-          "movieNm": "투어스 브이알 콘서트 : 러쉬로드",
-          "openDt": "2026-03-04",
-          "bookingRate": 3.2,
-          "bookingAudience": 9599,
-          "cumulativeAudience": 40023
-        },
-        {
-          "rank": 10,
-          "movieNm": "모자 쓴 고양이",
-          "openDt": "2026-11-06",
-          "bookingRate": 2.9,
-          "bookingAudience": 8765,
-          "cumulativeAudience": 4365
-        },
-        {
-          "rank": 13,
-          "movieNm": "와일드 호스 나인",
-          "openDt": "2026-11-04",
-          "bookingRate": 1.7,
-          "bookingAudience": 5186,
-          "cumulativeAudience": 10491
-        },
-        {
-          "rank": 14,
-          "movieNm": "수능, 출제의 비밀",
-          "openDt": "2026-10-28",
-          "bookingRate": 1.3,
-          "bookingAudience": 4028,
-          "cumulativeAudience": 95457
-        },
-        {
-          "rank": 15,
-          "movieNm": "오디세이",
-          "openDt": "2026-08-05",
-          "bookingRate": 1.2,
-          "bookingAudience": 3659,
-          "cumulativeAudience": 12343184
-        },
-        {
-          "rank": 16,
-          "movieNm": "극장판 체인소 맨: 레제편",
-          "openDt": "2025-09-24",
-          "bookingRate": 1.1,
-          "bookingAudience": 3324,
-          "cumulativeAudience": 3459241
-        },
-        {
-          "rank": 17,
-          "movieNm": "프레셔",
-          "openDt": "2026-11-11",
-          "bookingRate": 1.1,
-          "bookingAudience": 3262,
-          "cumulativeAudience": 3849
-        },
-        {
-          "rank": 18,
-          "movieNm": "암살자(들)",
-          "openDt": "2026-09-23",
-          "bookingRate": 1.1,
-          "bookingAudience": 3213,
-          "cumulativeAudience": 3467223
-        },
-        {
-          "rank": 19,
-          "movieNm": "룩백",
-          "openDt": "2026-10-08",
-          "bookingRate": 1.0,
-          "bookingAudience": 3123,
-          "cumulativeAudience": 155290
-        },
-        {
-          "rank": 20,
-          "movieNm": "그대, 별처럼",
-          "openDt": "2026-10-28",
-          "bookingRate": 1.0,
-          "bookingAudience": 2867,
-          "cumulativeAudience": 26158
-        },
-        {
-          "rank": 21,
-          "movieNm": "포드 V 페라리",
-          "openDt": "2019-12-04",
-          "bookingRate": 0.8,
-          "bookingAudience": 2514,
-          "cumulativeAudience": 1376107
-        },
-        {
-          "rank": 22,
-          "movieNm": "아더 마미",
-          "openDt": "2026-11-18",
-          "bookingRate": 0.8,
-          "bookingAudience": 2396,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 23,
-          "movieNm": "낮과 밤은 서로에게",
-          "openDt": "2026-11-04",
-          "bookingRate": 0.7,
-          "bookingAudience": 2135,
-          "cumulativeAudience": 8114
-        },
-        {
-          "rank": 25,
-          "movieNm": "숀 더 쉽: 공포의 털보 괴물",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.5,
-          "bookingAudience": 1619,
-          "cumulativeAudience": 8026
-        },
-        {
-          "rank": 26,
-          "movieNm": "욕쟁이 할머니",
-          "openDt": "2026-11-04",
-          "bookingRate": 0.5,
-          "bookingAudience": 1468,
-          "cumulativeAudience": 6408
-        },
-        {
-          "rank": 27,
-          "movieNm": "요루시카 라이브 [도작]",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.5,
-          "bookingAudience": 1402,
-          "cumulativeAudience": 11200
-        },
-        {
-          "rank": 29,
-          "movieNm": "실낙원",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.4,
-          "bookingAudience": 1291,
-          "cumulativeAudience": 157144
-        },
-        {
-          "rank": 30,
-          "movieNm": "전자오락수호대",
-          "openDt": "2026-10-14",
-          "bookingRate": 0.4,
-          "bookingAudience": 1150,
-          "cumulativeAudience": 72248
-        },
-        {
-          "rank": 31,
-          "movieNm": "레위기",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.3,
-          "bookingAudience": 1021,
-          "cumulativeAudience": 19718
-        },
-        {
-          "rank": 32,
-          "movieNm": "호루몽",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.3,
-          "bookingAudience": 871,
-          "cumulativeAudience": 1190
-        },
-        {
-          "rank": 33,
-          "movieNm": "처녀 자살 소동",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.3,
-          "bookingAudience": 840,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 34,
-          "movieNm": "흐르는 여정",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.3,
-          "bookingAudience": 819,
-          "cumulativeAudience": 6476
-        },
-        {
-          "rank": 35,
-          "movieNm": "호프",
-          "openDt": "2026-07-15",
-          "bookingRate": 0.3,
-          "bookingAudience": 814,
-          "cumulativeAudience": 4598089
-        },
-        {
-          "rank": 37,
-          "movieNm": "헝거게임: 캣칭 파이어",
-          "openDt": "2013-11-21",
-          "bookingRate": 0.2,
-          "bookingAudience": 743,
-          "cumulativeAudience": 1127373
-        },
-        {
-          "rank": 40,
-          "movieNm": "클레이페이스",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.2,
-          "bookingAudience": 700,
-          "cumulativeAudience": 122695
-        },
-        {
-          "rank": 41,
-          "movieNm": "변이",
-          "openDt": "2026-11-04",
-          "bookingRate": 0.2,
-          "bookingAudience": 696,
-          "cumulativeAudience": 3026
-        },
-        {
-          "rank": 42,
-          "movieNm": "타짜: 벨제붑의 노래",
-          "openDt": "2026-09-23",
-          "bookingRate": 0.2,
-          "bookingAudience": 680,
-          "cumulativeAudience": 2067764
-        },
-        {
-          "rank": 44,
-          "movieNm": "하이라이트: 라이츠 고 온, 어게인 인 시네마",
-          "openDt": "2024-10-16",
-          "bookingRate": 0.2,
-          "bookingAudience": 659,
-          "cumulativeAudience": 22312
-        },
-        {
-          "rank": 46,
-          "movieNm": "헝거게임: 모킹제이",
-          "openDt": "2014-11-20",
-          "bookingRate": 0.2,
-          "bookingAudience": 612,
-          "cumulativeAudience": 854407
-        },
-        {
-          "rank": 47,
-          "movieNm": "헝거게임: 더 파이널",
-          "openDt": "2015-11-18",
-          "bookingRate": 0.2,
-          "bookingAudience": 606,
-          "cumulativeAudience": 806737
-        },
-        {
-          "rank": 48,
-          "movieNm": "엔하이픈 브이알콘서트 : 데스티니",
-          "openDt": "2026-09-18",
-          "bookingRate": 0.2,
-          "bookingAudience": 593,
-          "cumulativeAudience": 24930
-        },
-        {
-          "rank": 50,
-          "movieNm": "극장판 마카앤로니: 기억탐험 대소동!",
-          "openDt": "2026-11-14",
-          "bookingRate": 0.2,
-          "bookingAudience": 562,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 51,
-          "movieNm": "여전히 찬란하게",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.2,
-          "bookingAudience": 547,
-          "cumulativeAudience": 67607
-        },
-        {
-          "rank": 52,
-          "movieNm": "헝거게임: 판엠의 불꽃",
-          "openDt": "2012-04-05",
-          "bookingRate": 0.2,
-          "bookingAudience": 545,
-          "cumulativeAudience": 608273
-        },
-        {
-          "rank": 53,
-          "movieNm": "마더 메리",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.2,
-          "bookingAudience": 535,
-          "cumulativeAudience": 298
-        },
-        {
-          "rank": 54,
-          "movieNm": "이성과 감성",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.2,
-          "bookingAudience": 499,
-          "cumulativeAudience": 11481
-        },
-        {
-          "rank": 55,
-          "movieNm": "극장판 카드캡터 체리 : 봉인된 카드",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.2,
-          "bookingAudience": 482,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 56,
-          "movieNm": "오아시스",
-          "openDt": "2002-08-14",
-          "bookingRate": 0.2,
-          "bookingAudience": 468,
-          "cumulativeAudience": 1297
-        },
-        {
-          "rank": 57,
-          "movieNm": "광안 : 세자의 여자",
-          "openDt": "2026-11-18",
-          "bookingRate": 0.1,
-          "bookingAudience": 424,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 58,
-          "movieNm": "디거",
-          "openDt": "2026-10-03",
-          "bookingRate": 0.1,
-          "bookingAudience": 419,
-          "cumulativeAudience": 105758
-        },
-        {
-          "rank": 59,
-          "movieNm": "침묵의 빛",
-          "openDt": "2026-10-14",
-          "bookingRate": 0.1,
-          "bookingAudience": 401,
-          "cumulativeAudience": 5810
-        },
-        {
-          "rank": 60,
-          "movieNm": "이방인",
-          "openDt": "2026-09-30",
-          "bookingRate": 0.1,
-          "bookingAudience": 380,
-          "cumulativeAudience": 25134
-        },
-        {
-          "rank": 61,
-          "movieNm": "헤이트풀8",
-          "openDt": "2016-01-07",
-          "bookingRate": 0.1,
-          "bookingAudience": 353,
-          "cumulativeAudience": 127436
-        },
-        {
-          "rank": 62,
-          "movieNm": "헝거게임 50번째 추첨의 날",
-          "openDt": "2026-11-18",
-          "bookingRate": 0.1,
-          "bookingAudience": 351,
-          "cumulativeAudience": 298
-        },
-        {
-          "rank": 65,
-          "movieNm": "마린 알솝",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.1,
-          "bookingAudience": 292,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 66,
-          "movieNm": "키메라",
-          "openDt": "2024-04-03",
-          "bookingRate": 0.1,
-          "bookingAudience": 287,
-          "cumulativeAudience": 14954
-        },
-        {
-          "rank": 66,
-          "movieNm": "부활 그 사랑",
-          "openDt": "2026-10-29",
-          "bookingRate": 0.1,
-          "bookingAudience": 287,
-          "cumulativeAudience": 3869
-        },
-        {
-          "rank": 70,
-          "movieNm": "눈 둘 데가 없네",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.1,
-          "bookingAudience": 240,
-          "cumulativeAudience": 6043
-        },
-        {
-          "rank": 71,
-          "movieNm": "프레데터: 죽음의 땅",
-          "openDt": "2025-11-05",
-          "bookingRate": 0.1,
-          "bookingAudience": 233,
-          "cumulativeAudience": 422481
-        },
-        {
-          "rank": 72,
-          "movieNm": "밀양",
-          "openDt": "2007-05-23",
-          "bookingRate": 0.1,
-          "bookingAudience": 224,
-          "cumulativeAudience": 1605589
-        },
-        {
-          "rank": 74,
-          "movieNm": "에디 앨리스: 테이크",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.1,
-          "bookingAudience": 222,
-          "cumulativeAudience": 1046
-        },
-        {
-          "rank": 77,
-          "movieNm": "가족여행",
-          "openDt": "2026-09-30",
-          "bookingRate": 0.1,
-          "bookingAudience": 200,
-          "cumulativeAudience": 7781
-        },
-        {
-          "rank": 82,
-          "movieNm": "청년 조용기: 신을 저주하던 청년, 시대를 긋는 종이 되다",
-          "openDt": "2026-09-11",
-          "bookingRate": 0.1,
-          "bookingAudience": 171,
-          "cumulativeAudience": 30648
-        },
-        {
-          "rank": 84,
-          "movieNm": "프로젝트 헤일메리",
-          "openDt": "2026-03-18",
-          "bookingRate": 0.1,
-          "bookingAudience": 162,
-          "cumulativeAudience": 2915019
-        },
-        {
-          "rank": 91,
-          "movieNm": "극장판 뱅드림! 잇츠 마이고!!!!! 전편: 봄의 양지, 방황하는 고양이",
-          "openDt": "2025-04-24",
-          "bookingRate": 0.0,
-          "bookingAudience": 144,
-          "cumulativeAudience": 8345
-        },
-        {
-          "rank": 94,
-          "movieNm": "초록물고기",
-          "openDt": "1997-02-07",
-          "bookingRate": 0.0,
-          "bookingAudience": 138,
-          "cumulativeAudience": 378
-        },
-        {
-          "rank": 99,
-          "movieNm": "극장판 뱅드림! 잇츠 마이고!!!!! 후편: 노래하자, 우리가 될 수 있는 노래 & 필름 라이브",
-          "openDt": "2025-06-19",
-          "bookingRate": 0.0,
-          "bookingAudience": 130,
-          "cumulativeAudience": 9433
-        },
-        {
-          "rank": 100,
-          "movieNm": "왕과 사는 남자",
-          "openDt": "2026-02-04",
-          "bookingRate": 0.0,
-          "bookingAudience": 129,
-          "cumulativeAudience": 16933665
-        },
-        {
-          "rank": 103,
-          "movieNm": "씽씽",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 122,
-          "cumulativeAudience": 3578
-        },
-        {
-          "rank": 107,
-          "movieNm": "짝패",
-          "openDt": "2006-05-25",
-          "bookingRate": 0.0,
-          "bookingAudience": 115,
-          "cumulativeAudience": 1021377
-        },
-        {
-          "rank": 110,
-          "movieNm": "부에노스 아이레스여 안녕",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 112,
-          "cumulativeAudience": 2538
-        },
-        {
-          "rank": 111,
-          "movieNm": "헤븐 노우즈 왓",
-          "openDt": "2026-10-14",
-          "bookingRate": 0.0,
-          "bookingAudience": 110,
-          "cumulativeAudience": 2800
-        },
-        {
-          "rank": 112,
-          "movieNm": "매쉬빌",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.0,
-          "bookingAudience": 109,
-          "cumulativeAudience": 942
-        },
-        {
-          "rank": 113,
-          "movieNm": "스크루지: 크리스마스 캐럴",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 107,
-          "cumulativeAudience": 124
-        },
-        {
-          "rank": 114,
-          "movieNm": "킬링타임",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 105,
-          "cumulativeAudience": 28148
-        },
-        {
-          "rank": 117,
-          "movieNm": "브루넬로: 우아한 선구자",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.0,
-          "bookingAudience": 101,
-          "cumulativeAudience": 4529
-        },
-        {
-          "rank": 120,
-          "movieNm": "다윗",
-          "openDt": "2026-07-10",
-          "bookingRate": 0.0,
-          "bookingAudience": 96,
-          "cumulativeAudience": 319616
-        },
-        {
-          "rank": 121,
-          "movieNm": "옵세션",
-          "openDt": "2026-09-02",
-          "bookingRate": 0.0,
-          "bookingAudience": 89,
-          "cumulativeAudience": 975095
-        },
-        {
-          "rank": 122,
-          "movieNm": "장님 버드나무와 잠자는 여자",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.0,
-          "bookingAudience": 87,
-          "cumulativeAudience": 1219
-        },
-        {
-          "rank": 126,
-          "movieNm": "드골: 저항의 시작",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 81,
-          "cumulativeAudience": 452
-        },
-        {
-          "rank": 131,
-          "movieNm": "극장판 래브라도: 망고축제를 지켜라",
-          "openDt": "2026-10-03",
-          "bookingRate": 0.0,
-          "bookingAudience": 74,
-          "cumulativeAudience": 41903
-        },
-        {
-          "rank": 133,
-          "movieNm": "콘크리트 녹색섬",
-          "openDt": "2026-08-19",
-          "bookingRate": 0.0,
-          "bookingAudience": 72,
-          "cumulativeAudience": 4536
-        },
-        {
-          "rank": 135,
-          "movieNm": "스파이더맨: 브랜드 뉴 데이",
-          "openDt": "2026-07-29",
-          "bookingRate": 0.0,
-          "bookingAudience": 66,
-          "cumulativeAudience": 9056349
-        },
-        {
-          "rank": 135,
-          "movieNm": "어떻게 해야 했을까?",
-          "openDt": "2026-07-29",
-          "bookingRate": 0.0,
-          "bookingAudience": 66,
-          "cumulativeAudience": 109887
-        },
-        {
-          "rank": 141,
-          "movieNm": "후광",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 62,
-          "cumulativeAudience": 351
-        },
-        {
-          "rank": 143,
-          "movieNm": "극장전",
-          "openDt": "2005-05-26",
-          "bookingRate": 0.0,
-          "bookingAudience": 61,
-          "cumulativeAudience": 39699
-        },
-        {
-          "rank": 146,
-          "movieNm": "굿타임",
-          "openDt": "2018-01-04",
-          "bookingRate": 0.0,
-          "bookingAudience": 57,
-          "cumulativeAudience": 3489
-        },
-        {
-          "rank": 147,
-          "movieNm": "구제역에서 살아 돌아온 돼지",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 56,
-          "cumulativeAudience": 1782
-        },
-        {
-          "rank": 151,
-          "movieNm": "인생세탁소",
-          "openDt": "2026-11-04",
-          "bookingRate": 0.0,
-          "bookingAudience": 55,
-          "cumulativeAudience": 722
-        },
-        {
-          "rank": 153,
-          "movieNm": "인턴",
-          "openDt": "2026-09-16",
-          "bookingRate": 0.0,
-          "bookingAudience": 51,
-          "cumulativeAudience": 915957
-        },
-        {
-          "rank": 155,
-          "movieNm": "완벽한 초대",
-          "openDt": "2026-12-02",
-          "bookingRate": 0.0,
-          "bookingAudience": 50,
-          "cumulativeAudience": 89
-        },
-        {
-          "rank": 157,
-          "movieNm": "어머니의 가계부",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.0,
-          "bookingAudience": 48,
-          "cumulativeAudience": 333
-        },
-        {
-          "rank": 159,
-          "movieNm": "당신자신과 당신의 것",
-          "openDt": "2016-11-10",
-          "bookingRate": 0.0,
-          "bookingAudience": 46,
-          "cumulativeAudience": 18237
-        },
-        {
-          "rank": 160,
-          "movieNm": "삼춘, 어디 감수광?",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 45,
-          "cumulativeAudience": 898
-        },
-        {
-          "rank": 162,
-          "movieNm": "나미비아의 사막",
-          "openDt": "2025-05-07",
-          "bookingRate": 0.0,
-          "bookingAudience": 43,
-          "cumulativeAudience": 5740
-        },
-        {
-          "rank": 164,
-          "movieNm": "마이클",
-          "openDt": "2026-05-13",
-          "bookingRate": 0.0,
-          "bookingAudience": 42,
-          "cumulativeAudience": 1629650
-        },
-        {
-          "rank": 170,
-          "movieNm": "스틸레이",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 40,
-          "cumulativeAudience": 5355
-        },
-        {
-          "rank": 172,
-          "movieNm": "잠들 수 없는 집",
-          "openDt": "2026-11-04",
-          "bookingRate": 0.0,
-          "bookingAudience": 38,
-          "cumulativeAudience": 233
-        },
-        {
-          "rank": 172,
-          "movieNm": "찜",
-          "openDt": "1998-05-16",
-          "bookingRate": 0.0,
-          "bookingAudience": 38,
-          "cumulativeAudience": 6
-        },
-        {
-          "rank": 172,
-          "movieNm": "주먹을 꽉 쥐고",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 38,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 178,
-          "movieNm": "토리노의 말",
-          "openDt": "2012-02-23",
-          "bookingRate": 0.0,
-          "bookingAudience": 34,
-          "cumulativeAudience": 6688
-        },
-        {
-          "rank": 181,
-          "movieNm": "퍼플 스왈로우",
-          "openDt": "2026-10-14",
-          "bookingRate": 0.0,
-          "bookingAudience": 33,
-          "cumulativeAudience": 972
-        },
-        {
-          "rank": 184,
-          "movieNm": "100 미터.",
-          "openDt": "2025-10-08",
-          "bookingRate": 0.0,
-          "bookingAudience": 32,
-          "cumulativeAudience": 39557
-        },
-        {
-          "rank": 184,
-          "movieNm": "체인지",
-          "openDt": "1997-01-18",
-          "bookingRate": 0.0,
-          "bookingAudience": 32,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 191,
-          "movieNm": "어벤져스: 엔드게임 앙코르",
-          "openDt": "2026-09-23",
-          "bookingRate": 0.0,
-          "bookingAudience": 30,
-          "cumulativeAudience": 178732
-        },
-        {
-          "rank": 191,
-          "movieNm": "파리스 그린이 밝는 날에",
-          "openDt": "2026-10-14",
-          "bookingRate": 0.0,
-          "bookingAudience": 30,
-          "cumulativeAudience": 5101
-        },
-        {
-          "rank": 191,
-          "movieNm": "메릴 스트립 프로젝트",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.0,
-          "bookingAudience": 30,
-          "cumulativeAudience": 1141
-        },
-        {
-          "rank": 198,
-          "movieNm": "로스트 도터",
-          "openDt": "2022-07-14",
-          "bookingRate": 0.0,
-          "bookingAudience": 28,
-          "cumulativeAudience": 13008
-        },
-        {
-          "rank": 199,
-          "movieNm": "더 드라마",
-          "openDt": "2026-09-09",
-          "bookingRate": 0.0,
-          "bookingAudience": 27,
-          "cumulativeAudience": 91440
-        },
-        {
-          "rank": 202,
-          "movieNm": "더 벙커: 종말의 날",
-          "openDt": "2026-11-04",
-          "bookingRate": 0.0,
-          "bookingAudience": 25,
-          "cumulativeAudience": 186
-        },
-        {
-          "rank": 203,
-          "movieNm": "바다 탐험대 옥토넛 어보브 앤 비욘드 : 두근두근 대자연 어드벤처",
-          "openDt": "2026-09-23",
-          "bookingRate": 0.0,
-          "bookingAudience": 24,
-          "cumulativeAudience": 25150
-        },
-        {
-          "rank": 205,
-          "movieNm": "나의 사적인 예술가",
-          "openDt": "2026-09-23",
-          "bookingRate": 0.0,
-          "bookingAudience": 23,
-          "cumulativeAudience": 10982
-        },
-        {
-          "rank": 205,
-          "movieNm": "거짓말: 4K 무삭제 완전판",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 23,
-          "cumulativeAudience": 126
-        },
-        {
-          "rank": 208,
-          "movieNm": "파르테노페",
-          "openDt": "2025-09-24",
-          "bookingRate": 0.0,
-          "bookingAudience": 22,
-          "cumulativeAudience": 8968
-        },
-        {
-          "rank": 208,
-          "movieNm": "철들 무렵",
-          "openDt": "2026-09-16",
-          "bookingRate": 0.0,
-          "bookingAudience": 22,
-          "cumulativeAudience": 12549
-        },
-        {
-          "rank": 214,
-          "movieNm": "토니 타키타니",
-          "openDt": "2005-09-22",
-          "bookingRate": 0.0,
-          "bookingAudience": 21,
-          "cumulativeAudience": 12233
-        },
-        {
-          "rank": 214,
-          "movieNm": "포르토",
-          "openDt": "2018-01-31",
-          "bookingRate": 0.0,
-          "bookingAudience": 21,
-          "cumulativeAudience": 6628
-        },
-        {
-          "rank": 218,
-          "movieNm": "빈집의 연인들",
-          "openDt": "2026-08-12",
-          "bookingRate": 0.0,
-          "bookingAudience": 20,
-          "cumulativeAudience": 2620
-        },
-        {
-          "rank": 220,
-          "movieNm": "피닉스",
-          "openDt": "2021-07-22",
-          "bookingRate": 0.0,
-          "bookingAudience": 19,
-          "cumulativeAudience": 15570
-        },
-        {
-          "rank": 224,
-          "movieNm": "나쁜계집애: 달려라 하니",
-          "openDt": "2025-10-07",
-          "bookingRate": 0.0,
-          "bookingAudience": 18,
-          "cumulativeAudience": 71625
-        },
-        {
-          "rank": 224,
-          "movieNm": "7데이즈 7피플",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.0,
-          "bookingAudience": 18,
-          "cumulativeAudience": 2101
-        },
-        {
-          "rank": 226,
-          "movieNm": "레지던트 이블: 0번째 밤",
-          "openDt": "2026-09-17",
-          "bookingRate": 0.0,
-          "bookingAudience": 17,
-          "cumulativeAudience": 222893
-        },
-        {
-          "rank": 228,
-          "movieNm": "차오",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 16,
-          "cumulativeAudience": 1960
-        },
-        {
-          "rank": 228,
-          "movieNm": "담요를 입은 사람",
-          "openDt": "2026-09-09",
-          "bookingRate": 0.0,
-          "bookingAudience": 16,
-          "cumulativeAudience": 4924
-        },
-        {
-          "rank": 228,
-          "movieNm": "꿈꾸던 모험",
-          "openDt": "2026-09-23",
-          "bookingRate": 0.0,
-          "bookingAudience": 16,
-          "cumulativeAudience": 2533
-        },
-        {
-          "rank": 235,
-          "movieNm": "셀린느와 줄리 배 타러 가다",
-          "openDt": "2026-09-30",
-          "bookingRate": 0.0,
-          "bookingAudience": 13,
-          "cumulativeAudience": 3303
-        },
-        {
-          "rank": 235,
-          "movieNm": "극장판 폴 프린세스!!",
-          "openDt": "2024-07-03",
-          "bookingRate": 0.0,
-          "bookingAudience": 13,
-          "cumulativeAudience": 1886
-        },
-        {
-          "rank": 235,
-          "movieNm": "버닝",
-          "openDt": "2018-05-17",
-          "bookingRate": 0.0,
-          "bookingAudience": 13,
-          "cumulativeAudience": 531932
-        },
-        {
-          "rank": 235,
-          "movieNm": "사랑을 카피하다",
-          "openDt": "2011-05-05",
-          "bookingRate": 0.0,
-          "bookingAudience": 13,
-          "cumulativeAudience": 18949
-        },
-        {
-          "rank": 242,
-          "movieNm": "베러티",
-          "openDt": "2026-10-22",
-          "bookingRate": 0.0,
-          "bookingAudience": 12,
-          "cumulativeAudience": 35333
-        },
-        {
-          "rank": 242,
-          "movieNm": "착지연습",
-          "openDt": "2026-09-10",
-          "bookingRate": 0.0,
-          "bookingAudience": 12,
-          "cumulativeAudience": 1091
-        },
-        {
-          "rank": 249,
-          "movieNm": "프레지던트박 정희",
-          "openDt": "2026-10-29",
-          "bookingRate": 0.0,
-          "bookingAudience": 9,
-          "cumulativeAudience": 654
-        },
-        {
-          "rank": 249,
-          "movieNm": "메밀꽃, 운수 좋은 날, 그리고 봄봄",
-          "openDt": "2014-08-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 9,
-          "cumulativeAudience": 37266
-        },
-        {
-          "rank": 252,
-          "movieNm": "베리 베리 스트레인지 러브",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 8,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 252,
-          "movieNm": "디지몬 어드벤처 : 운명적 만남 & 우리들의 워 게임!",
-          "openDt": "2026-09-16",
-          "bookingRate": 0.0,
-          "bookingAudience": 8,
-          "cumulativeAudience": 33144
-        },
-        {
-          "rank": 252,
-          "movieNm": "쇠사슬을 끊어라",
-          "openDt": "1971-11-25",
-          "bookingRate": 0.0,
-          "bookingAudience": 8,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 256,
-          "movieNm": "퍼펙트슛",
-          "openDt": "2026-09-09",
-          "bookingRate": 0.0,
-          "bookingAudience": 7,
-          "cumulativeAudience": 4035
-        },
-        {
-          "rank": 261,
-          "movieNm": "캐리어를 끄는 소녀",
-          "openDt": "2026-09-02",
-          "bookingRate": 0.0,
-          "bookingAudience": 6,
-          "cumulativeAudience": 5589
-        },
-        {
-          "rank": 261,
-          "movieNm": "카라간다: 1994 워페어",
-          "openDt": "2026-11-13",
-          "bookingRate": 0.0,
-          "bookingAudience": 6,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 270,
-          "movieNm": "부활남: 더 레드",
-          "openDt": "2026-09-30",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 334890
-        },
-        {
-          "rank": 270,
-          "movieNm": "미션 임파서블: 파이널 레코닝",
-          "openDt": "2025-05-17",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 3392561
-        },
-        {
-          "rank": 270,
-          "movieNm": "천국의 전쟁",
-          "openDt": "2012-04-12",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 251
-        },
-        {
-          "rank": 270,
-          "movieNm": "97 혜자, 표류기",
-          "openDt": "2026-09-09",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 1586
-        },
-        {
-          "rank": 270,
-          "movieNm": "로봇 드림",
-          "openDt": "2024-03-13",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 71347
-        },
-        {
-          "rank": 270,
-          "movieNm": "아름다운 청년 전태일",
-          "openDt": "1995-11-18",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 21
-        },
-        {
-          "rank": 270,
-          "movieNm": "홀리보이",
-          "openDt": "2026-10-07",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 1996
-        },
-        {
-          "rank": 270,
-          "movieNm": "저스트 플레이 데드",
-          "openDt": "2026-11-18",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 270,
-          "movieNm": "살인나비를 쫓는 여자",
-          "openDt": "1979-12-08",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 395
-        },
-        {
-          "rank": 280,
-          "movieNm": "웨일폴: 고래에 먹힌 남자",
-          "openDt": "2026-10-14",
-          "bookingRate": 0.0,
-          "bookingAudience": 4,
-          "cumulativeAudience": 75430
-        },
-        {
-          "rank": 280,
-          "movieNm": "미션 임파서블: 데드 레코닝 PART ONE",
-          "openDt": "2023-07-12",
-          "bookingRate": 0.0,
-          "bookingAudience": 4,
-          "cumulativeAudience": 4022311
-        },
-        {
-          "rank": 280,
-          "movieNm": "강원도의 힘",
-          "openDt": "1998-04-04",
-          "bookingRate": 0.0,
-          "bookingAudience": 4,
-          "cumulativeAudience": 287
-        },
-        {
-          "rank": 280,
-          "movieNm": "비천괴수",
-          "openDt": "1985-01-12",
-          "bookingRate": 0.0,
-          "bookingAudience": 4,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 280,
-          "movieNm": "마티 슈프림",
-          "openDt": "2026-07-01",
-          "bookingRate": 0.0,
-          "bookingAudience": 4,
-          "cumulativeAudience": 135105
-        },
-        {
-          "rank": 288,
-          "movieNm": "코리안 블랙 아이즈",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 3,
-          "cumulativeAudience": 479
-        },
-        {
-          "rank": 288,
-          "movieNm": "미션 임파서블: 폴아웃",
-          "openDt": "2018-07-25",
-          "bookingRate": 0.0,
-          "bookingAudience": 3,
-          "cumulativeAudience": 6589092
-        },
-        {
-          "rank": 288,
-          "movieNm": "내가 누워있을 때",
-          "openDt": "2025-05-28",
-          "bookingRate": 0.0,
-          "bookingAudience": 3,
-          "cumulativeAudience": 1797
-        },
-        {
-          "rank": 292,
-          "movieNm": "무산일기",
-          "openDt": "2011-04-14",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 11272
-        },
-        {
-          "rank": 292,
-          "movieNm": "여자는 남자의 미래다",
-          "openDt": "2004-05-05",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 116667
-        },
-        {
-          "rank": 292,
-          "movieNm": "돼지가 우물에 빠진 날",
-          "openDt": "1996-05-15",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 107
-        },
-        {
-          "rank": 292,
-          "movieNm": "포르테",
-          "openDt": "2026-09-30",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 792
-        },
-        {
-          "rank": 292,
-          "movieNm": "장미의 이름",
-          "openDt": "1989-06-03",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 5861
-        },
-        {
-          "rank": 292,
-          "movieNm": "현재를 위하여",
-          "openDt": "2026-06-17",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 2309
-        },
-        {
-          "rank": 292,
-          "movieNm": "국보",
-          "openDt": "2025-11-19",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 221970
-        },
-        {
-          "rank": 292,
-          "movieNm": "하녀",
-          "openDt": "1960-11-03",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 11447
-        },
-        {
-          "rank": 292,
-          "movieNm": "아가미",
-          "openDt": "2026-09-09",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 21350
-        },
-        {
-          "rank": 306,
-          "movieNm": "보이는 여고생",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 1,
-          "cumulativeAudience": 1370
-        },
-        {
-          "rank": 306,
-          "movieNm": "산양들",
-          "openDt": "2026-07-29",
-          "bookingRate": 0.0,
-          "bookingAudience": 1,
-          "cumulativeAudience": 6799
-        },
-        {
-          "rank": 306,
-          "movieNm": "패터슨",
-          "openDt": "2017-12-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 1,
-          "cumulativeAudience": 70283
-        },
-        {
-          "rank": 306,
-          "movieNm": "반금련",
-          "openDt": "1981-03-13",
-          "bookingRate": 0.0,
-          "bookingAudience": 1,
-          "cumulativeAudience": 1649
-        },
-        {
-          "rank": 306,
-          "movieNm": "흙",
-          "openDt": "1978-03-25",
-          "bookingRate": 0.0,
-          "bookingAudience": 1,
-          "cumulativeAudience": 3
-        },
-        {
-          "rank": 306,
-          "movieNm": "인-아이 인 모션",
-          "openDt": "2026-10-14",
-          "bookingRate": 0.0,
-          "bookingAudience": 1,
-          "cumulativeAudience": 822
-        }
-      ]
-    },
-    {
-      "collectedAtKST": "2026-11-07T06:26:57+09:00",
-      "films": [
-        {
-          "rank": 1,
-          "movieNm": "극장판 치이카와: 인어 섬의 비밀",
-          "openDt": "2026-09-30",
-          "bookingRate": 17.7,
-          "bookingAudience": 53562,
-          "cumulativeAudience": 2658249
-        },
-        {
-          "rank": 2,
-          "movieNm": "최종면접",
-          "openDt": "2026-11-04",
-          "bookingRate": 10.9,
-          "bookingAudience": 33044,
-          "cumulativeAudience": 85070
-        },
-        {
-          "rank": 3,
-          "movieNm": "명탐정 코난: 30호 살인 사건",
-          "openDt": "2026-11-05",
-          "bookingRate": 9.9,
-          "bookingAudience": 30061,
-          "cumulativeAudience": 46368
-        },
-        {
-          "rank": 4,
-          "movieNm": "하트 오브 비스트",
-          "openDt": "2026-10-28",
-          "bookingRate": 6.9,
-          "bookingAudience": 20770,
-          "cumulativeAudience": 309256
-        },
-        {
-          "rank": 5,
-          "movieNm": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
-          "openDt": "2026-11-04",
-          "bookingRate": 5.1,
-          "bookingAudience": 15305,
-          "cumulativeAudience": 24174
-        },
-        {
-          "rank": 6,
-          "movieNm": "폭설",
-          "openDt": "2026-11-18",
-          "bookingRate": 4.3,
-          "bookingAudience": 12959,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 8,
-          "movieNm": "폴2: 데드포인트",
-          "openDt": "2026-11-11",
-          "bookingRate": 3.3,
-          "bookingAudience": 9938,
-          "cumulativeAudience": 541
-        },
-        {
-          "rank": 9,
-          "movieNm": "투어스 브이알 콘서트 : 러쉬로드",
-          "openDt": "2026-03-04",
-          "bookingRate": 3.2,
-          "bookingAudience": 9595,
-          "cumulativeAudience": 40023
-        },
-        {
-          "rank": 10,
-          "movieNm": "모자 쓴 고양이",
-          "openDt": "2026-11-06",
-          "bookingRate": 2.9,
-          "bookingAudience": 8901,
-          "cumulativeAudience": 4365
-        },
-        {
-          "rank": 13,
-          "movieNm": "와일드 호스 나인",
-          "openDt": "2026-11-04",
-          "bookingRate": 1.8,
-          "bookingAudience": 5344,
-          "cumulativeAudience": 10491
-        },
-        {
-          "rank": 14,
-          "movieNm": "수능, 출제의 비밀",
-          "openDt": "2026-10-28",
-          "bookingRate": 1.3,
-          "bookingAudience": 4078,
-          "cumulativeAudience": 95457
-        },
-        {
-          "rank": 15,
-          "movieNm": "오디세이",
-          "openDt": "2026-08-05",
-          "bookingRate": 1.2,
-          "bookingAudience": 3758,
-          "cumulativeAudience": 12343184
-        },
-        {
-          "rank": 16,
-          "movieNm": "극장판 체인소 맨: 레제편",
-          "openDt": "2025-09-24",
-          "bookingRate": 1.1,
-          "bookingAudience": 3403,
-          "cumulativeAudience": 3459241
-        },
-        {
-          "rank": 17,
-          "movieNm": "프레셔",
-          "openDt": "2026-11-11",
-          "bookingRate": 1.1,
-          "bookingAudience": 3283,
-          "cumulativeAudience": 3849
-        },
-        {
-          "rank": 18,
-          "movieNm": "암살자(들)",
-          "openDt": "2026-09-23",
-          "bookingRate": 1.1,
-          "bookingAudience": 3266,
-          "cumulativeAudience": 3467225
-        },
-        {
-          "rank": 19,
-          "movieNm": "룩백",
-          "openDt": "2026-10-08",
-          "bookingRate": 1.0,
-          "bookingAudience": 3155,
-          "cumulativeAudience": 155290
-        },
-        {
-          "rank": 20,
-          "movieNm": "그대, 별처럼",
-          "openDt": "2026-10-28",
-          "bookingRate": 1.0,
-          "bookingAudience": 2891,
-          "cumulativeAudience": 26158
-        },
-        {
-          "rank": 21,
-          "movieNm": "포드 V 페라리",
-          "openDt": "2019-12-04",
-          "bookingRate": 0.8,
-          "bookingAudience": 2540,
-          "cumulativeAudience": 1376107
-        },
-        {
-          "rank": 22,
-          "movieNm": "아더 마미",
-          "openDt": "2026-11-18",
-          "bookingRate": 0.8,
-          "bookingAudience": 2396,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 23,
-          "movieNm": "낮과 밤은 서로에게",
-          "openDt": "2026-11-04",
-          "bookingRate": 0.7,
-          "bookingAudience": 2157,
-          "cumulativeAudience": 8114
-        },
-        {
-          "rank": 25,
-          "movieNm": "숀 더 쉽: 공포의 털보 괴물",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.5,
-          "bookingAudience": 1624,
-          "cumulativeAudience": 8026
-        },
-        {
-          "rank": 26,
-          "movieNm": "욕쟁이 할머니",
-          "openDt": "2026-11-04",
-          "bookingRate": 0.5,
-          "bookingAudience": 1467,
-          "cumulativeAudience": 6408
-        },
-        {
-          "rank": 27,
-          "movieNm": "요루시카 라이브 [도작]",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.5,
-          "bookingAudience": 1417,
-          "cumulativeAudience": 11200
-        },
-        {
-          "rank": 29,
-          "movieNm": "실낙원",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.4,
-          "bookingAudience": 1308,
-          "cumulativeAudience": 157150
-        },
-        {
-          "rank": 30,
-          "movieNm": "전자오락수호대",
-          "openDt": "2026-10-14",
-          "bookingRate": 0.4,
-          "bookingAudience": 1184,
-          "cumulativeAudience": 72248
-        },
-        {
-          "rank": 31,
-          "movieNm": "레위기",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.3,
-          "bookingAudience": 958,
-          "cumulativeAudience": 19718
-        },
-        {
-          "rank": 32,
-          "movieNm": "호루몽",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.3,
-          "bookingAudience": 889,
-          "cumulativeAudience": 1190
-        },
-        {
-          "rank": 33,
-          "movieNm": "처녀 자살 소동",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.3,
-          "bookingAudience": 847,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 34,
-          "movieNm": "흐르는 여정",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.3,
-          "bookingAudience": 826,
-          "cumulativeAudience": 6476
-        },
-        {
-          "rank": 35,
-          "movieNm": "호프",
-          "openDt": "2026-07-15",
-          "bookingRate": 0.3,
-          "bookingAudience": 824,
-          "cumulativeAudience": 4598089
-        },
-        {
-          "rank": 38,
-          "movieNm": "클레이페이스",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.2,
-          "bookingAudience": 731,
-          "cumulativeAudience": 122696
-        },
-        {
-          "rank": 39,
-          "movieNm": "타짜: 벨제붑의 노래",
-          "openDt": "2026-09-23",
-          "bookingRate": 0.2,
-          "bookingAudience": 722,
-          "cumulativeAudience": 2067765
-        },
-        {
-          "rank": 40,
-          "movieNm": "변이",
-          "openDt": "2026-11-04",
-          "bookingRate": 0.2,
-          "bookingAudience": 719,
-          "cumulativeAudience": 3026
-        },
-        {
-          "rank": 41,
-          "movieNm": "헝거게임: 캣칭 파이어",
-          "openDt": "2013-11-21",
-          "bookingRate": 0.2,
-          "bookingAudience": 715,
-          "cumulativeAudience": 1127373
-        },
-        {
-          "rank": 45,
-          "movieNm": "하이라이트: 라이츠 고 온, 어게인 인 시네마",
-          "openDt": "2024-10-16",
-          "bookingRate": 0.2,
-          "bookingAudience": 670,
-          "cumulativeAudience": 22312
-        },
-        {
-          "rank": 46,
-          "movieNm": "헝거게임 50번째 추첨의 날",
-          "openDt": "2026-11-18",
-          "bookingRate": 0.2,
-          "bookingAudience": 650,
-          "cumulativeAudience": 298
-        },
-        {
-          "rank": 47,
-          "movieNm": "헝거게임: 모킹제이",
-          "openDt": "2014-11-20",
-          "bookingRate": 0.2,
-          "bookingAudience": 608,
-          "cumulativeAudience": 854407
-        },
-        {
-          "rank": 48,
-          "movieNm": "헝거게임: 더 파이널",
-          "openDt": "2015-11-18",
-          "bookingRate": 0.2,
-          "bookingAudience": 602,
-          "cumulativeAudience": 806737
-        },
-        {
-          "rank": 49,
-          "movieNm": "엔하이픈 브이알콘서트 : 데스티니",
-          "openDt": "2026-09-18",
-          "bookingRate": 0.2,
-          "bookingAudience": 599,
-          "cumulativeAudience": 24930
-        },
-        {
-          "rank": 51,
-          "movieNm": "극장판 마카앤로니: 기억탐험 대소동!",
-          "openDt": "2026-11-14",
-          "bookingRate": 0.2,
-          "bookingAudience": 565,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 52,
-          "movieNm": "여전히 찬란하게",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.2,
-          "bookingAudience": 552,
-          "cumulativeAudience": 67665
-        },
-        {
-          "rank": 53,
-          "movieNm": "마더 메리",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.2,
-          "bookingAudience": 540,
-          "cumulativeAudience": 298
-        },
-        {
-          "rank": 54,
-          "movieNm": "헝거게임: 판엠의 불꽃",
-          "openDt": "2012-04-05",
-          "bookingRate": 0.2,
-          "bookingAudience": 523,
-          "cumulativeAudience": 608273
-        },
-        {
-          "rank": 55,
-          "movieNm": "이성과 감성",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.2,
-          "bookingAudience": 499,
-          "cumulativeAudience": 11481
-        },
-        {
-          "rank": 56,
-          "movieNm": "극장판 카드캡터 체리 : 봉인된 카드",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.2,
-          "bookingAudience": 486,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 57,
-          "movieNm": "오아시스",
-          "openDt": "2002-08-14",
-          "bookingRate": 0.2,
-          "bookingAudience": 471,
-          "cumulativeAudience": 1297
-        },
-        {
-          "rank": 58,
-          "movieNm": "디거",
-          "openDt": "2026-10-03",
-          "bookingRate": 0.1,
-          "bookingAudience": 439,
-          "cumulativeAudience": 105758
-        },
-        {
-          "rank": 59,
-          "movieNm": "광안 : 세자의 여자",
-          "openDt": "2026-11-18",
-          "bookingRate": 0.1,
-          "bookingAudience": 432,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 60,
-          "movieNm": "침묵의 빛",
-          "openDt": "2026-10-14",
-          "bookingRate": 0.1,
-          "bookingAudience": 408,
-          "cumulativeAudience": 5810
-        },
-        {
-          "rank": 61,
-          "movieNm": "이방인",
-          "openDt": "2026-09-30",
-          "bookingRate": 0.1,
-          "bookingAudience": 382,
-          "cumulativeAudience": 25134
-        },
-        {
-          "rank": 62,
-          "movieNm": "헤이트풀8",
-          "openDt": "2016-01-07",
-          "bookingRate": 0.1,
-          "bookingAudience": 368,
-          "cumulativeAudience": 127436
-        },
-        {
-          "rank": 65,
-          "movieNm": "키메라",
-          "openDt": "2024-04-03",
-          "bookingRate": 0.1,
-          "bookingAudience": 294,
-          "cumulativeAudience": 14954
-        },
-        {
-          "rank": 67,
-          "movieNm": "마린 알솝",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.1,
-          "bookingAudience": 292,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 68,
-          "movieNm": "부활 그 사랑",
-          "openDt": "2026-10-29",
-          "bookingRate": 0.1,
-          "bookingAudience": 287,
-          "cumulativeAudience": 3869
-        },
-        {
-          "rank": 70,
-          "movieNm": "밀양",
-          "openDt": "2007-05-23",
-          "bookingRate": 0.1,
-          "bookingAudience": 243,
-          "cumulativeAudience": 1605589
-        },
-        {
-          "rank": 71,
-          "movieNm": "눈 둘 데가 없네",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.1,
-          "bookingAudience": 237,
-          "cumulativeAudience": 6043
-        },
-        {
-          "rank": 72,
-          "movieNm": "프레데터: 죽음의 땅",
-          "openDt": "2025-11-05",
-          "bookingRate": 0.1,
-          "bookingAudience": 234,
-          "cumulativeAudience": 422481
-        },
-        {
-          "rank": 73,
-          "movieNm": "에디 앨리스: 테이크",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.1,
-          "bookingAudience": 228,
-          "cumulativeAudience": 1046
-        },
-        {
-          "rank": 77,
-          "movieNm": "가족여행",
-          "openDt": "2026-09-30",
-          "bookingRate": 0.1,
-          "bookingAudience": 200,
-          "cumulativeAudience": 7781
-        },
-        {
-          "rank": 82,
-          "movieNm": "청년 조용기: 신을 저주하던 청년, 시대를 긋는 종이 되다",
-          "openDt": "2026-09-11",
-          "bookingRate": 0.1,
-          "bookingAudience": 171,
-          "cumulativeAudience": 30648
-        },
-        {
-          "rank": 84,
-          "movieNm": "프로젝트 헤일메리",
-          "openDt": "2026-03-18",
-          "bookingRate": 0.1,
-          "bookingAudience": 164,
-          "cumulativeAudience": 2915019
-        },
-        {
-          "rank": 87,
-          "movieNm": "초록물고기",
-          "openDt": "1997-02-07",
-          "bookingRate": 0.1,
-          "bookingAudience": 152,
-          "cumulativeAudience": 378
-        },
-        {
-          "rank": 92,
-          "movieNm": "극장판 뱅드림! 잇츠 마이고!!!!! 전편: 봄의 양지, 방황하는 고양이",
-          "openDt": "2025-04-24",
-          "bookingRate": 0.0,
-          "bookingAudience": 144,
-          "cumulativeAudience": 8345
-        },
-        {
-          "rank": 96,
-          "movieNm": "스크루지: 크리스마스 캐럴",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 136,
-          "cumulativeAudience": 124
-        },
-        {
-          "rank": 100,
-          "movieNm": "극장판 뱅드림! 잇츠 마이고!!!!! 후편: 노래하자, 우리가 될 수 있는 노래 & 필름 라이브",
-          "openDt": "2025-06-19",
-          "bookingRate": 0.0,
-          "bookingAudience": 131,
-          "cumulativeAudience": 9433
-        },
-        {
-          "rank": 101,
-          "movieNm": "왕과 사는 남자",
-          "openDt": "2026-02-04",
-          "bookingRate": 0.0,
-          "bookingAudience": 129,
-          "cumulativeAudience": 16933665
-        },
-        {
-          "rank": 104,
-          "movieNm": "씽씽",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 124,
-          "cumulativeAudience": 3578
-        },
-        {
-          "rank": 105,
-          "movieNm": "짝패",
-          "openDt": "2006-05-25",
-          "bookingRate": 0.0,
-          "bookingAudience": 119,
-          "cumulativeAudience": 1021377
-        },
-        {
-          "rank": 111,
-          "movieNm": "부에노스 아이레스여 안녕",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 111,
-          "cumulativeAudience": 2538
-        },
-        {
-          "rank": 111,
-          "movieNm": "헤븐 노우즈 왓",
-          "openDt": "2026-10-14",
-          "bookingRate": 0.0,
-          "bookingAudience": 111,
-          "cumulativeAudience": 2800
-        },
-        {
-          "rank": 113,
-          "movieNm": "매쉬빌",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.0,
-          "bookingAudience": 109,
-          "cumulativeAudience": 942
-        },
-        {
-          "rank": 114,
-          "movieNm": "킬링타임",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 106,
-          "cumulativeAudience": 28148
-        },
-        {
-          "rank": 117,
-          "movieNm": "브루넬로: 우아한 선구자",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.0,
-          "bookingAudience": 101,
-          "cumulativeAudience": 4529
-        },
-        {
-          "rank": 119,
-          "movieNm": "옵세션",
-          "openDt": "2026-09-02",
-          "bookingRate": 0.0,
-          "bookingAudience": 97,
-          "cumulativeAudience": 975095
-        },
-        {
-          "rank": 122,
-          "movieNm": "다윗",
-          "openDt": "2026-07-10",
-          "bookingRate": 0.0,
-          "bookingAudience": 96,
-          "cumulativeAudience": 319616
-        },
-        {
-          "rank": 123,
-          "movieNm": "장님 버드나무와 잠자는 여자",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.0,
-          "bookingAudience": 88,
-          "cumulativeAudience": 1219
-        },
-        {
-          "rank": 125,
-          "movieNm": "드골: 저항의 시작",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 86,
-          "cumulativeAudience": 452
-        },
-        {
-          "rank": 131,
-          "movieNm": "극장판 래브라도: 망고축제를 지켜라",
-          "openDt": "2026-10-03",
-          "bookingRate": 0.0,
-          "bookingAudience": 74,
-          "cumulativeAudience": 41903
-        },
-        {
-          "rank": 133,
-          "movieNm": "콘크리트 녹색섬",
-          "openDt": "2026-08-19",
-          "bookingRate": 0.0,
-          "bookingAudience": 72,
-          "cumulativeAudience": 4536
-        },
-        {
-          "rank": 134,
-          "movieNm": "스파이더맨: 브랜드 뉴 데이",
-          "openDt": "2026-07-29",
-          "bookingRate": 0.0,
-          "bookingAudience": 69,
-          "cumulativeAudience": 9056349
-        },
-        {
-          "rank": 136,
-          "movieNm": "어떻게 해야 했을까?",
-          "openDt": "2026-07-29",
-          "bookingRate": 0.0,
-          "bookingAudience": 66,
-          "cumulativeAudience": 109887
-        },
-        {
-          "rank": 142,
-          "movieNm": "후광",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 62,
-          "cumulativeAudience": 351
-        },
-        {
-          "rank": 143,
-          "movieNm": "극장전",
-          "openDt": "2005-05-26",
-          "bookingRate": 0.0,
-          "bookingAudience": 61,
-          "cumulativeAudience": 39699
-        },
-        {
-          "rank": 146,
-          "movieNm": "구제역에서 살아 돌아온 돼지",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 57,
-          "cumulativeAudience": 1782
-        },
-        {
-          "rank": 146,
-          "movieNm": "굿타임",
-          "openDt": "2018-01-04",
-          "bookingRate": 0.0,
-          "bookingAudience": 57,
-          "cumulativeAudience": 3489
-        },
-        {
-          "rank": 149,
-          "movieNm": "인생세탁소",
-          "openDt": "2026-11-04",
-          "bookingRate": 0.0,
-          "bookingAudience": 56,
-          "cumulativeAudience": 722
-        },
-        {
-          "rank": 152,
-          "movieNm": "완벽한 초대",
-          "openDt": "2026-12-02",
-          "bookingRate": 0.0,
-          "bookingAudience": 54,
-          "cumulativeAudience": 89
-        },
-        {
-          "rank": 154,
-          "movieNm": "인턴",
-          "openDt": "2026-09-16",
-          "bookingRate": 0.0,
-          "bookingAudience": 51,
-          "cumulativeAudience": 915957
-        },
-        {
-          "rank": 157,
-          "movieNm": "어머니의 가계부",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.0,
-          "bookingAudience": 47,
-          "cumulativeAudience": 333
-        },
-        {
-          "rank": 159,
-          "movieNm": "당신자신과 당신의 것",
-          "openDt": "2016-11-10",
-          "bookingRate": 0.0,
-          "bookingAudience": 46,
-          "cumulativeAudience": 18237
-        },
-        {
-          "rank": 160,
-          "movieNm": "삼춘, 어디 감수광?",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 45,
-          "cumulativeAudience": 898
-        },
-        {
-          "rank": 162,
-          "movieNm": "마이클",
-          "openDt": "2026-05-13",
-          "bookingRate": 0.0,
-          "bookingAudience": 43,
-          "cumulativeAudience": 1629650
-        },
-        {
-          "rank": 169,
-          "movieNm": "스틸레이",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 40,
-          "cumulativeAudience": 5355
-        },
-        {
-          "rank": 169,
-          "movieNm": "나미비아의 사막",
-          "openDt": "2025-05-07",
-          "bookingRate": 0.0,
-          "bookingAudience": 40,
-          "cumulativeAudience": 5740
-        },
-        {
-          "rank": 172,
-          "movieNm": "주먹을 꽉 쥐고",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 39,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 174,
-          "movieNm": "잠들 수 없는 집",
-          "openDt": "2026-11-04",
-          "bookingRate": 0.0,
-          "bookingAudience": 38,
-          "cumulativeAudience": 233
-        },
-        {
-          "rank": 174,
-          "movieNm": "찜",
-          "openDt": "1998-05-16",
-          "bookingRate": 0.0,
-          "bookingAudience": 38,
-          "cumulativeAudience": 6
-        },
-        {
-          "rank": 178,
-          "movieNm": "토리노의 말",
-          "openDt": "2012-02-23",
-          "bookingRate": 0.0,
-          "bookingAudience": 34,
-          "cumulativeAudience": 6688
-        },
-        {
-          "rank": 181,
-          "movieNm": "퍼플 스왈로우",
-          "openDt": "2026-10-14",
-          "bookingRate": 0.0,
-          "bookingAudience": 33,
-          "cumulativeAudience": 972
-        },
-        {
-          "rank": 184,
-          "movieNm": "100 미터.",
-          "openDt": "2025-10-08",
-          "bookingRate": 0.0,
-          "bookingAudience": 32,
-          "cumulativeAudience": 39557
-        },
-        {
-          "rank": 184,
-          "movieNm": "체인지",
-          "openDt": "1997-01-18",
-          "bookingRate": 0.0,
-          "bookingAudience": 32,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 189,
-          "movieNm": "파리스 그린이 밝는 날에",
-          "openDt": "2026-10-14",
-          "bookingRate": 0.0,
-          "bookingAudience": 31,
-          "cumulativeAudience": 5101
-        },
-        {
-          "rank": 192,
-          "movieNm": "메릴 스트립 프로젝트",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.0,
-          "bookingAudience": 29,
-          "cumulativeAudience": 1141
-        },
-        {
-          "rank": 197,
-          "movieNm": "어벤져스: 엔드게임 앙코르",
-          "openDt": "2026-09-23",
-          "bookingRate": 0.0,
-          "bookingAudience": 28,
-          "cumulativeAudience": 178732
-        },
-        {
-          "rank": 197,
-          "movieNm": "로스트 도터",
-          "openDt": "2022-07-14",
-          "bookingRate": 0.0,
-          "bookingAudience": 28,
-          "cumulativeAudience": 13008
-        },
-        {
-          "rank": 200,
-          "movieNm": "더 드라마",
-          "openDt": "2026-09-09",
-          "bookingRate": 0.0,
-          "bookingAudience": 27,
-          "cumulativeAudience": 91440
-        },
-        {
-          "rank": 202,
-          "movieNm": "더 벙커: 종말의 날",
-          "openDt": "2026-11-04",
-          "bookingRate": 0.0,
-          "bookingAudience": 25,
-          "cumulativeAudience": 186
-        },
-        {
-          "rank": 204,
-          "movieNm": "바다 탐험대 옥토넛 어보브 앤 비욘드 : 두근두근 대자연 어드벤처",
-          "openDt": "2026-09-23",
-          "bookingRate": 0.0,
-          "bookingAudience": 24,
-          "cumulativeAudience": 25150
-        },
-        {
-          "rank": 206,
-          "movieNm": "나의 사적인 예술가",
-          "openDt": "2026-09-23",
-          "bookingRate": 0.0,
-          "bookingAudience": 23,
-          "cumulativeAudience": 10982
-        },
-        {
-          "rank": 206,
-          "movieNm": "거짓말: 4K 무삭제 완전판",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 23,
-          "cumulativeAudience": 126
-        },
-        {
-          "rank": 209,
-          "movieNm": "파르테노페",
-          "openDt": "2025-09-24",
-          "bookingRate": 0.0,
-          "bookingAudience": 22,
-          "cumulativeAudience": 8968
-        },
-        {
-          "rank": 209,
-          "movieNm": "철들 무렵",
-          "openDt": "2026-09-16",
-          "bookingRate": 0.0,
-          "bookingAudience": 22,
-          "cumulativeAudience": 12549
-        },
-        {
-          "rank": 215,
-          "movieNm": "토니 타키타니",
-          "openDt": "2005-09-22",
-          "bookingRate": 0.0,
-          "bookingAudience": 21,
-          "cumulativeAudience": 12233
-        },
-        {
-          "rank": 215,
-          "movieNm": "포르토",
-          "openDt": "2018-01-31",
-          "bookingRate": 0.0,
-          "bookingAudience": 21,
-          "cumulativeAudience": 6628
-        },
-        {
-          "rank": 218,
-          "movieNm": "7데이즈 7피플",
-          "openDt": "2026-10-28",
-          "bookingRate": 0.0,
-          "bookingAudience": 20,
-          "cumulativeAudience": 2101
-        },
-        {
-          "rank": 218,
-          "movieNm": "빈집의 연인들",
-          "openDt": "2026-08-12",
-          "bookingRate": 0.0,
-          "bookingAudience": 20,
-          "cumulativeAudience": 2620
-        },
-        {
-          "rank": 221,
-          "movieNm": "피닉스",
-          "openDt": "2021-07-22",
-          "bookingRate": 0.0,
-          "bookingAudience": 19,
-          "cumulativeAudience": 15570
-        },
-        {
-          "rank": 225,
-          "movieNm": "나쁜계집애: 달려라 하니",
-          "openDt": "2025-10-07",
-          "bookingRate": 0.0,
-          "bookingAudience": 18,
-          "cumulativeAudience": 71625
-        },
-        {
-          "rank": 226,
-          "movieNm": "레지던트 이블: 0번째 밤",
-          "openDt": "2026-09-17",
-          "bookingRate": 0.0,
-          "bookingAudience": 17,
-          "cumulativeAudience": 222893
-        },
-        {
-          "rank": 226,
-          "movieNm": "차오",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 17,
-          "cumulativeAudience": 1960
-        },
-        {
-          "rank": 226,
-          "movieNm": "꿈꾸던 모험",
-          "openDt": "2026-09-23",
-          "bookingRate": 0.0,
-          "bookingAudience": 17,
-          "cumulativeAudience": 2533
-        },
-        {
-          "rank": 230,
-          "movieNm": "담요를 입은 사람",
-          "openDt": "2026-09-09",
-          "bookingRate": 0.0,
-          "bookingAudience": 16,
-          "cumulativeAudience": 4924
-        },
-        {
-          "rank": 232,
-          "movieNm": "돼지가 우물에 빠진 날",
-          "openDt": "1996-05-15",
-          "bookingRate": 0.0,
-          "bookingAudience": 15,
-          "cumulativeAudience": 107
-        },
-        {
-          "rank": 234,
-          "movieNm": "셀린느와 줄리 배 타러 가다",
-          "openDt": "2026-09-30",
-          "bookingRate": 0.0,
-          "bookingAudience": 14,
-          "cumulativeAudience": 3303
-        },
-        {
-          "rank": 237,
-          "movieNm": "극장판 폴 프린세스!!",
-          "openDt": "2024-07-03",
-          "bookingRate": 0.0,
-          "bookingAudience": 13,
-          "cumulativeAudience": 1886
-        },
-        {
-          "rank": 237,
-          "movieNm": "버닝",
-          "openDt": "2018-05-17",
-          "bookingRate": 0.0,
-          "bookingAudience": 13,
-          "cumulativeAudience": 531932
-        },
-        {
-          "rank": 243,
-          "movieNm": "베러티",
-          "openDt": "2026-10-22",
-          "bookingRate": 0.0,
-          "bookingAudience": 12,
-          "cumulativeAudience": 35333
-        },
-        {
-          "rank": 243,
-          "movieNm": "착지연습",
-          "openDt": "2026-09-10",
-          "bookingRate": 0.0,
-          "bookingAudience": 12,
-          "cumulativeAudience": 1091
-        },
-        {
-          "rank": 243,
-          "movieNm": "사랑을 카피하다",
-          "openDt": "2011-05-05",
-          "bookingRate": 0.0,
-          "bookingAudience": 12,
-          "cumulativeAudience": 18949
-        },
-        {
-          "rank": 247,
-          "movieNm": "강원도의 힘",
-          "openDt": "1998-04-04",
-          "bookingRate": 0.0,
-          "bookingAudience": 11,
-          "cumulativeAudience": 287
-        },
-        {
-          "rank": 251,
-          "movieNm": "프레지던트박 정희",
-          "openDt": "2026-10-29",
-          "bookingRate": 0.0,
-          "bookingAudience": 9,
-          "cumulativeAudience": 654
-        },
-        {
-          "rank": 251,
-          "movieNm": "베리 베리 스트레인지 러브",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 9,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 251,
-          "movieNm": "메밀꽃, 운수 좋은 날, 그리고 봄봄",
-          "openDt": "2014-08-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 9,
-          "cumulativeAudience": 37266
-        },
-        {
-          "rank": 254,
-          "movieNm": "여자는 남자의 미래다",
-          "openDt": "2004-05-05",
-          "bookingRate": 0.0,
-          "bookingAudience": 8,
-          "cumulativeAudience": 116667
-        },
-        {
-          "rank": 254,
-          "movieNm": "쇠사슬을 끊어라",
-          "openDt": "1971-11-25",
-          "bookingRate": 0.0,
-          "bookingAudience": 8,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 258,
-          "movieNm": "퍼펙트슛",
-          "openDt": "2026-09-09",
-          "bookingRate": 0.0,
-          "bookingAudience": 7,
-          "cumulativeAudience": 4035
-        },
-        {
-          "rank": 262,
-          "movieNm": "캐리어를 끄는 소녀",
-          "openDt": "2026-09-02",
-          "bookingRate": 0.0,
-          "bookingAudience": 6,
-          "cumulativeAudience": 5589
-        },
-        {
-          "rank": 262,
-          "movieNm": "홀리보이",
-          "openDt": "2026-10-07",
-          "bookingRate": 0.0,
-          "bookingAudience": 6,
-          "cumulativeAudience": 1996
-        },
-        {
-          "rank": 262,
-          "movieNm": "카라간다: 1994 워페어",
-          "openDt": "2026-11-13",
-          "bookingRate": 0.0,
-          "bookingAudience": 6,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 262,
-          "movieNm": "살인나비를 쫓는 여자",
-          "openDt": "1979-12-08",
-          "bookingRate": 0.0,
-          "bookingAudience": 6,
-          "cumulativeAudience": 395
-        },
-        {
-          "rank": 274,
-          "movieNm": "부활남: 더 레드",
-          "openDt": "2026-09-30",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 334890
-        },
-        {
-          "rank": 274,
-          "movieNm": "미션 임파서블: 파이널 레코닝",
-          "openDt": "2025-05-17",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 3392561
-        },
-        {
-          "rank": 274,
-          "movieNm": "천국의 전쟁",
-          "openDt": "2012-04-12",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 251
-        },
-        {
-          "rank": 274,
-          "movieNm": "로봇 드림",
-          "openDt": "2024-03-13",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 71347
-        },
-        {
-          "rank": 274,
-          "movieNm": "97 혜자, 표류기",
-          "openDt": "2026-09-09",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 1586
-        },
-        {
-          "rank": 274,
-          "movieNm": "아름다운 청년 전태일",
-          "openDt": "1995-11-18",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 21
-        },
-        {
-          "rank": 274,
-          "movieNm": "저스트 플레이 데드",
-          "openDt": "2026-11-18",
-          "bookingRate": 0.0,
-          "bookingAudience": 5,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 284,
-          "movieNm": "웨일폴: 고래에 먹힌 남자",
-          "openDt": "2026-10-14",
-          "bookingRate": 0.0,
-          "bookingAudience": 4,
-          "cumulativeAudience": 75430
-        },
-        {
-          "rank": 284,
-          "movieNm": "미션 임파서블: 데드 레코닝 PART ONE",
-          "openDt": "2023-07-12",
-          "bookingRate": 0.0,
-          "bookingAudience": 4,
-          "cumulativeAudience": 4022311
-        },
-        {
-          "rank": 284,
-          "movieNm": "비천괴수",
-          "openDt": "1985-01-12",
-          "bookingRate": 0.0,
-          "bookingAudience": 4,
-          "cumulativeAudience": 0
-        },
-        {
-          "rank": 284,
-          "movieNm": "마티 슈프림",
-          "openDt": "2026-07-01",
-          "bookingRate": 0.0,
-          "bookingAudience": 4,
-          "cumulativeAudience": 135105
-        },
-        {
-          "rank": 292,
-          "movieNm": "코리안 블랙 아이즈",
-          "openDt": "2026-11-11",
-          "bookingRate": 0.0,
-          "bookingAudience": 3,
-          "cumulativeAudience": 479
-        },
-        {
-          "rank": 292,
-          "movieNm": "미션 임파서블: 폴아웃",
-          "openDt": "2018-07-25",
-          "bookingRate": 0.0,
-          "bookingAudience": 3,
-          "cumulativeAudience": 6589092
-        },
-        {
-          "rank": 295,
-          "movieNm": "무산일기",
-          "openDt": "2011-04-14",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 11272
-        },
-        {
-          "rank": 295,
-          "movieNm": "내가 누워있을 때",
-          "openDt": "2025-05-28",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 1797
-        },
-        {
-          "rank": 295,
-          "movieNm": "장미의 이름",
-          "openDt": "1989-06-03",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 5861
-        },
-        {
-          "rank": 295,
-          "movieNm": "포르테",
-          "openDt": "2026-09-30",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 792
-        },
-        {
-          "rank": 295,
-          "movieNm": "현재를 위하여",
-          "openDt": "2026-06-17",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 2309
-        },
-        {
-          "rank": 295,
-          "movieNm": "국보",
-          "openDt": "2025-11-19",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 221970
-        },
-        {
-          "rank": 295,
-          "movieNm": "아가미",
-          "openDt": "2026-09-09",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 21350
-        },
-        {
-          "rank": 295,
-          "movieNm": "하녀",
-          "openDt": "1960-11-03",
-          "bookingRate": 0.0,
-          "bookingAudience": 2,
-          "cumulativeAudience": 11447
-        },
-        {
-          "rank": 309,
-          "movieNm": "보이는 여고생",
-          "openDt": "2026-10-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 1,
-          "cumulativeAudience": 1370
-        },
-        {
-          "rank": 309,
-          "movieNm": "패터슨",
-          "openDt": "2017-12-21",
-          "bookingRate": 0.0,
-          "bookingAudience": 1,
-          "cumulativeAudience": 70283
-        },
-        {
-          "rank": 309,
-          "movieNm": "술타나의 꿈",
-          "openDt": "2026-04-01",
-          "bookingRate": 0.0,
-          "bookingAudience": 1,
-          "cumulativeAudience": 1136
-        },
-        {
-          "rank": 309,
-          "movieNm": "산양들",
-          "openDt": "2026-07-29",
-          "bookingRate": 0.0,
-          "bookingAudience": 1,
-          "cumulativeAudience": 6799
-        },
-        {
-          "rank": 309,
-          "movieNm": "디지몬 어드벤처 : 운명적 만남 & 우리들의 워 게임!",
-          "openDt": "2026-09-16",
-          "bookingRate": 0.0,
-          "bookingAudience": 1,
-          "cumulativeAudience": 33144
-        },
-        {
-          "rank": 309,
-          "movieNm": "흙",
-          "openDt": "1978-03-25",
-          "bookingRate": 0.0,
-          "bookingAudience": 1,
-          "cumulativeAudience": 3
-        },
-        {
-          "rank": 309,
-          "movieNm": "반금련",
-          "openDt": "1981-03-13",
-          "bookingRate": 0.0,
-          "bookingAudience": 1,
-          "cumulativeAudience": 1649
-        },
-        {
-          "rank": 309,
-          "movieNm": "인-아이 인 모션",
-          "openDt": "2026-10-14",
-          "bookingRate": 0.0,
-          "bookingAudience": 1,
-          "cumulativeAudience": 822
-        }
-      ]
-    },
-    {
       "collectedAtKST": "2026-11-07T10:49:54+09:00",
       "films": [
         {
@@ -55772,6 +53066,1299 @@
           "bookingRate": 0.0,
           "bookingAudience": 1,
           "cumulativeAudience": 12930
+        }
+      ]
+    },
+    {
+      "collectedAtKST": "2026-11-21T10:24:22+09:00",
+      "films": [
+        {
+          "rank": 1,
+          "movieNm": "폭설",
+          "openDt": "2026-11-18",
+          "bookingRate": 20.4,
+          "bookingAudience": 58374,
+          "cumulativeAudience": 180939
+        },
+        {
+          "rank": 2,
+          "movieNm": "임영웅ㅣ아임 히어로 더 스타디움 2",
+          "openDt": "2026-11-18",
+          "bookingRate": 8.6,
+          "bookingAudience": 24656,
+          "cumulativeAudience": 37941
+        },
+        {
+          "rank": 3,
+          "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+          "openDt": "2026-09-30",
+          "bookingRate": 8.1,
+          "bookingAudience": 23302,
+          "cumulativeAudience": 2988610
+        },
+        {
+          "rank": 4,
+          "movieNm": "헝거게임 50번째 추첨의 날",
+          "openDt": "2026-11-18",
+          "bookingRate": 6.1,
+          "bookingAudience": 17562,
+          "cumulativeAudience": 47369
+        },
+        {
+          "rank": 5,
+          "movieNm": "헥스: 마녀왕국",
+          "openDt": "2026-11-25",
+          "bookingRate": 5.2,
+          "bookingAudience": 14749,
+          "cumulativeAudience": 0
+        },
+        {
+          "rank": 6,
+          "movieNm": "슬픈 열대",
+          "openDt": "2026-11-25",
+          "bookingRate": 5.1,
+          "bookingAudience": 14499,
+          "cumulativeAudience": 1493
+        },
+        {
+          "rank": 7,
+          "movieNm": "인간 초거대 알고리즘: 더 무비",
+          "openDt": "2026-11-25",
+          "bookingRate": 3.4,
+          "bookingAudience": 9669,
+          "cumulativeAudience": 159
+        },
+        {
+          "rank": 8,
+          "movieNm": "폴2: 데드포인트",
+          "openDt": "2026-11-11",
+          "bookingRate": 3.3,
+          "bookingAudience": 9557,
+          "cumulativeAudience": 200001
+        },
+        {
+          "rank": 9,
+          "movieNm": "미트 페어런츠 4",
+          "openDt": "2026-11-25",
+          "bookingRate": 3.1,
+          "bookingAudience": 8951,
+          "cumulativeAudience": 525
+        },
+        {
+          "rank": 11,
+          "movieNm": "최종면접",
+          "openDt": "2026-11-04",
+          "bookingRate": 2.0,
+          "bookingAudience": 5824,
+          "cumulativeAudience": 312892
+        },
+        {
+          "rank": 12,
+          "movieNm": "완벽한 집",
+          "openDt": "2026-11-25",
+          "bookingRate": 1.4,
+          "bookingAudience": 4125,
+          "cumulativeAudience": 1245
+        },
+        {
+          "rank": 13,
+          "movieNm": "극장판 마카앤로니: 기억탐험 대소동!",
+          "openDt": "2026-11-14",
+          "bookingRate": 1.4,
+          "bookingAudience": 3895,
+          "cumulativeAudience": 27012
+        },
+        {
+          "rank": 14,
+          "movieNm": "명탐정 코난: 30호 살인 사건",
+          "openDt": "2026-11-05",
+          "bookingRate": 1.2,
+          "bookingAudience": 3456,
+          "cumulativeAudience": 188446
+        },
+        {
+          "rank": 15,
+          "movieNm": "호루몽",
+          "openDt": "2026-11-11",
+          "bookingRate": 1.2,
+          "bookingAudience": 3411,
+          "cumulativeAudience": 15665
+        },
+        {
+          "rank": 16,
+          "movieNm": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
+          "openDt": "2026-11-04",
+          "bookingRate": 1.1,
+          "bookingAudience": 3198,
+          "cumulativeAudience": 76376
+        },
+        {
+          "rank": 17,
+          "movieNm": "투어스 브이알 콘서트 : 러쉬로드",
+          "openDt": "2026-03-04",
+          "bookingRate": 1.1,
+          "bookingAudience": 3120,
+          "cumulativeAudience": 46627
+        },
+        {
+          "rank": 18,
+          "movieNm": "아름다운 초저녁달",
+          "openDt": "2026-11-18",
+          "bookingRate": 1.1,
+          "bookingAudience": 3113,
+          "cumulativeAudience": 9928
+        },
+        {
+          "rank": 19,
+          "movieNm": "고인아파트",
+          "openDt": "2026-11-25",
+          "bookingRate": 1.1,
+          "bookingAudience": 3085,
+          "cumulativeAudience": 452
+        },
+        {
+          "rank": 20,
+          "movieNm": "프로젝트 헤일메리",
+          "openDt": "2026-03-18",
+          "bookingRate": 1.0,
+          "bookingAudience": 2970,
+          "cumulativeAudience": 2915667
+        },
+        {
+          "rank": 21,
+          "movieNm": "룩백",
+          "openDt": "2026-10-08",
+          "bookingRate": 0.8,
+          "bookingAudience": 2280,
+          "cumulativeAudience": 169840
+        },
+        {
+          "rank": 22,
+          "movieNm": "러브 와이파이 궁",
+          "openDt": "2026-12-02",
+          "bookingRate": 0.8,
+          "bookingAudience": 2251,
+          "cumulativeAudience": 0
+        },
+        {
+          "rank": 23,
+          "movieNm": "와일드 호스 나인",
+          "openDt": "2026-11-04",
+          "bookingRate": 0.8,
+          "bookingAudience": 2159,
+          "cumulativeAudience": 46063
+        },
+        {
+          "rank": 24,
+          "movieNm": "암살자(들)",
+          "openDt": "2026-09-23",
+          "bookingRate": 0.7,
+          "bookingAudience": 2021,
+          "cumulativeAudience": 3490434
+        },
+        {
+          "rank": 28,
+          "movieNm": "여전히 찬란하게",
+          "openDt": "2026-10-21",
+          "bookingRate": 0.5,
+          "bookingAudience": 1497,
+          "cumulativeAudience": 79921
+        },
+        {
+          "rank": 29,
+          "movieNm": "하트 오브 비스트",
+          "openDt": "2026-10-28",
+          "bookingRate": 0.5,
+          "bookingAudience": 1484,
+          "cumulativeAudience": 467768
+        },
+        {
+          "rank": 30,
+          "movieNm": "모자 쓴 고양이",
+          "openDt": "2026-11-06",
+          "bookingRate": 0.5,
+          "bookingAudience": 1449,
+          "cumulativeAudience": 59873
+        },
+        {
+          "rank": 31,
+          "movieNm": "영화 뱅드림! 아베 무지카 프리마 오로라",
+          "openDt": "2026-11-19",
+          "bookingRate": 0.5,
+          "bookingAudience": 1412,
+          "cumulativeAudience": 3722
+        },
+        {
+          "rank": 32,
+          "movieNm": "옆에서 숨만 쉬어도 좋아",
+          "openDt": "2026-11-18",
+          "bookingRate": 0.4,
+          "bookingAudience": 1243,
+          "cumulativeAudience": 1619
+        },
+        {
+          "rank": 33,
+          "movieNm": "스크루지: 크리스마스 캐럴",
+          "openDt": "2026-11-11",
+          "bookingRate": 0.4,
+          "bookingAudience": 1216,
+          "cumulativeAudience": 25852
+        },
+        {
+          "rank": 34,
+          "movieNm": "청년 조용기: 신을 저주하던 청년, 시대를 긋는 종이 되다",
+          "openDt": "2026-09-11",
+          "bookingRate": 0.4,
+          "bookingAudience": 1089,
+          "cumulativeAudience": 31013
+        },
+        {
+          "rank": 36,
+          "movieNm": "실낙원",
+          "openDt": "2026-10-21",
+          "bookingRate": 0.3,
+          "bookingAudience": 852,
+          "cumulativeAudience": 161013
+        },
+        {
+          "rank": 38,
+          "movieNm": "서울의 밤",
+          "openDt": "2026-12-03",
+          "bookingRate": 0.3,
+          "bookingAudience": 729,
+          "cumulativeAudience": 106
+        },
+        {
+          "rank": 39,
+          "movieNm": "극장판 카드캡터 체리 : 봉인된 카드",
+          "openDt": "2026-11-11",
+          "bookingRate": 0.3,
+          "bookingAudience": 717,
+          "cumulativeAudience": 5293
+        },
+        {
+          "rank": 41,
+          "movieNm": "눈 내리는 여름, 너에게",
+          "openDt": "2026-11-25",
+          "bookingRate": 0.2,
+          "bookingAudience": 691,
+          "cumulativeAudience": 432
+        },
+        {
+          "rank": 42,
+          "movieNm": "포드 V 페라리",
+          "openDt": "2019-12-04",
+          "bookingRate": 0.2,
+          "bookingAudience": 646,
+          "cumulativeAudience": 1384131
+        },
+        {
+          "rank": 43,
+          "movieNm": "오디세이",
+          "openDt": "2026-08-05",
+          "bookingRate": 0.2,
+          "bookingAudience": 641,
+          "cumulativeAudience": 12364491
+        },
+        {
+          "rank": 44,
+          "movieNm": "내일의 민재",
+          "openDt": "2026-12-02",
+          "bookingRate": 0.2,
+          "bookingAudience": 640,
+          "cumulativeAudience": 58
+        },
+        {
+          "rank": 50,
+          "movieNm": "아더 마미",
+          "openDt": "2026-11-18",
+          "bookingRate": 0.2,
+          "bookingAudience": 486,
+          "cumulativeAudience": 5521
+        },
+        {
+          "rank": 52,
+          "movieNm": "극장판 짱구는 못말려: 기기괴괴! 나의 요괴 바캉스",
+          "openDt": "2026-12-03",
+          "bookingRate": 0.2,
+          "bookingAudience": 458,
+          "cumulativeAudience": 0
+        },
+        {
+          "rank": 56,
+          "movieNm": "흐르는 여정",
+          "openDt": "2026-10-28",
+          "bookingRate": 0.2,
+          "bookingAudience": 439,
+          "cumulativeAudience": 8890
+        },
+        {
+          "rank": 57,
+          "movieNm": "프레셔",
+          "openDt": "2026-11-11",
+          "bookingRate": 0.1,
+          "bookingAudience": 406,
+          "cumulativeAudience": 24558
+        },
+        {
+          "rank": 58,
+          "movieNm": "레이오버 호텔",
+          "openDt": "2026-11-25",
+          "bookingRate": 0.1,
+          "bookingAudience": 377,
+          "cumulativeAudience": 772
+        },
+        {
+          "rank": 59,
+          "movieNm": "처녀 자살 소동",
+          "openDt": "2026-11-11",
+          "bookingRate": 0.1,
+          "bookingAudience": 362,
+          "cumulativeAudience": 1752
+        },
+        {
+          "rank": 60,
+          "movieNm": "타짜: 벨제붑의 노래",
+          "openDt": "2026-09-23",
+          "bookingRate": 0.1,
+          "bookingAudience": 357,
+          "cumulativeAudience": 2080753
+        },
+        {
+          "rank": 65,
+          "movieNm": "드골: 저항의 시작",
+          "openDt": "2026-11-11",
+          "bookingRate": 0.1,
+          "bookingAudience": 298,
+          "cumulativeAudience": 8638
+        },
+        {
+          "rank": 69,
+          "movieNm": "마더 메리",
+          "openDt": "2026-11-11",
+          "bookingRate": 0.1,
+          "bookingAudience": 267,
+          "cumulativeAudience": 5400
+        },
+        {
+          "rank": 71,
+          "movieNm": "삼춘, 어디 감수광?",
+          "openDt": "2026-11-11",
+          "bookingRate": 0.1,
+          "bookingAudience": 266,
+          "cumulativeAudience": 2904
+        },
+        {
+          "rank": 72,
+          "movieNm": "아기상어 크리스마스 스페셜: 산타 선발 대회",
+          "openDt": "2026-12-05",
+          "bookingRate": 0.1,
+          "bookingAudience": 264,
+          "cumulativeAudience": 0
+        },
+        {
+          "rank": 81,
+          "movieNm": "다윗",
+          "openDt": "2026-07-10",
+          "bookingRate": 0.1,
+          "bookingAudience": 237,
+          "cumulativeAudience": 319803
+        },
+        {
+          "rank": 82,
+          "movieNm": "헤어질 결심",
+          "openDt": "2022-06-29",
+          "bookingRate": 0.1,
+          "bookingAudience": 231,
+          "cumulativeAudience": 1910584
+        },
+        {
+          "rank": 85,
+          "movieNm": "라파엘",
+          "openDt": "2026-11-25",
+          "bookingRate": 0.1,
+          "bookingAudience": 221,
+          "cumulativeAudience": 641
+        },
+        {
+          "rank": 97,
+          "movieNm": "어떻게 해야 했을까?",
+          "openDt": "2026-07-29",
+          "bookingRate": 0.1,
+          "bookingAudience": 198,
+          "cumulativeAudience": 110519
+        },
+        {
+          "rank": 117,
+          "movieNm": "에디 앨리스: 테이크",
+          "openDt": "2026-10-28",
+          "bookingRate": 0.1,
+          "bookingAudience": 160,
+          "cumulativeAudience": 1737
+        },
+        {
+          "rank": 119,
+          "movieNm": "낮과 밤은 서로에게",
+          "openDt": "2026-11-04",
+          "bookingRate": 0.1,
+          "bookingAudience": 159,
+          "cumulativeAudience": 14070
+        },
+        {
+          "rank": 121,
+          "movieNm": "이방인",
+          "openDt": "2026-09-30",
+          "bookingRate": 0.1,
+          "bookingAudience": 156,
+          "cumulativeAudience": 26130
+        },
+        {
+          "rank": 121,
+          "movieNm": "뉘른베르크",
+          "openDt": "2026-12-02",
+          "bookingRate": 0.1,
+          "bookingAudience": 156,
+          "cumulativeAudience": 0
+        },
+        {
+          "rank": 123,
+          "movieNm": "거짓말: 4K 무삭제 완전판",
+          "openDt": "2026-11-11",
+          "bookingRate": 0.1,
+          "bookingAudience": 153,
+          "cumulativeAudience": 1586
+        },
+        {
+          "rank": 130,
+          "movieNm": "펭구와 친구들 : 얼음꽁꽁 어드벤처",
+          "openDt": "2026-11-25",
+          "bookingRate": 0.0,
+          "bookingAudience": 132,
+          "cumulativeAudience": 0
+        },
+        {
+          "rank": 134,
+          "movieNm": "레위기",
+          "openDt": "2026-10-21",
+          "bookingRate": 0.0,
+          "bookingAudience": 126,
+          "cumulativeAudience": 22051
+        },
+        {
+          "rank": 136,
+          "movieNm": "청어",
+          "openDt": "2026-12-09",
+          "bookingRate": 0.0,
+          "bookingAudience": 124,
+          "cumulativeAudience": 0
+        },
+        {
+          "rank": 141,
+          "movieNm": "디거",
+          "openDt": "2026-10-03",
+          "bookingRate": 0.0,
+          "bookingAudience": 117,
+          "cumulativeAudience": 107850
+        },
+        {
+          "rank": 143,
+          "movieNm": "마른 잎",
+          "openDt": "2026-11-25",
+          "bookingRate": 0.0,
+          "bookingAudience": 108,
+          "cumulativeAudience": 126
+        },
+        {
+          "rank": 149,
+          "movieNm": "그대, 별처럼",
+          "openDt": "2026-10-28",
+          "bookingRate": 0.0,
+          "bookingAudience": 106,
+          "cumulativeAudience": 36562
+        },
+        {
+          "rank": 150,
+          "movieNm": "그로테스크",
+          "openDt": "2026-11-26",
+          "bookingRate": 0.0,
+          "bookingAudience": 101,
+          "cumulativeAudience": 0
+        },
+        {
+          "rank": 152,
+          "movieNm": "눈 둘 데가 없네",
+          "openDt": "2026-10-21",
+          "bookingRate": 0.0,
+          "bookingAudience": 99,
+          "cumulativeAudience": 7319
+        },
+        {
+          "rank": 160,
+          "movieNm": "침묵의 빛",
+          "openDt": "2026-10-14",
+          "bookingRate": 0.0,
+          "bookingAudience": 85,
+          "cumulativeAudience": 6615
+        },
+        {
+          "rank": 163,
+          "movieNm": "대결",
+          "openDt": "1971-01-20",
+          "bookingRate": 0.0,
+          "bookingAudience": 83,
+          "cumulativeAudience": 811
+        },
+        {
+          "rank": 163,
+          "movieNm": "극장전",
+          "openDt": "2005-05-26",
+          "bookingRate": 0.0,
+          "bookingAudience": 83,
+          "cumulativeAudience": 39699
+        },
+        {
+          "rank": 170,
+          "movieNm": "마티아스와 막심",
+          "openDt": "2020-07-23",
+          "bookingRate": 0.0,
+          "bookingAudience": 77,
+          "cumulativeAudience": 12816
+        },
+        {
+          "rank": 175,
+          "movieNm": "극장판 체인소 맨: 레제편",
+          "openDt": "2025-09-24",
+          "bookingRate": 0.0,
+          "bookingAudience": 71,
+          "cumulativeAudience": 3473122
+        },
+        {
+          "rank": 184,
+          "movieNm": "명탐정 코난: 하이웨이의 타천사",
+          "openDt": "2026-08-12",
+          "bookingRate": 0.0,
+          "bookingAudience": 64,
+          "cumulativeAudience": 434941
+        },
+        {
+          "rank": 186,
+          "movieNm": "당신자신과 당신의 것",
+          "openDt": "2016-11-10",
+          "bookingRate": 0.0,
+          "bookingAudience": 60,
+          "cumulativeAudience": 18237
+        },
+        {
+          "rank": 186,
+          "movieNm": "환희의 얼굴",
+          "openDt": "2026-09-09",
+          "bookingRate": 0.0,
+          "bookingAudience": 60,
+          "cumulativeAudience": 1589
+        },
+        {
+          "rank": 188,
+          "movieNm": "나미비아의 사막",
+          "openDt": "2025-05-07",
+          "bookingRate": 0.0,
+          "bookingAudience": 59,
+          "cumulativeAudience": 5842
+        },
+        {
+          "rank": 190,
+          "movieNm": "정뱅이",
+          "openDt": "2026-06-24",
+          "bookingRate": 0.0,
+          "bookingAudience": 58,
+          "cumulativeAudience": 5019
+        },
+        {
+          "rank": 190,
+          "movieNm": "와일드 씽",
+          "openDt": "2026-06-03",
+          "bookingRate": 0.0,
+          "bookingAudience": 58,
+          "cumulativeAudience": 1346598
+        },
+        {
+          "rank": 192,
+          "movieNm": "완벽한 초대",
+          "openDt": "2026-12-02",
+          "bookingRate": 0.0,
+          "bookingAudience": 56,
+          "cumulativeAudience": 285
+        },
+        {
+          "rank": 198,
+          "movieNm": "드골2: 자유의 시대",
+          "openDt": "2026-11-25",
+          "bookingRate": 0.0,
+          "bookingAudience": 52,
+          "cumulativeAudience": 160
+        },
+        {
+          "rank": 198,
+          "movieNm": "마린 알솝",
+          "openDt": "2026-11-11",
+          "bookingRate": 0.0,
+          "bookingAudience": 52,
+          "cumulativeAudience": 1062
+        },
+        {
+          "rank": 201,
+          "movieNm": "유레카",
+          "openDt": "2026-12-02",
+          "bookingRate": 0.0,
+          "bookingAudience": 49,
+          "cumulativeAudience": 324
+        },
+        {
+          "rank": 208,
+          "movieNm": "욕쟁이 할머니",
+          "openDt": "2026-11-04",
+          "bookingRate": 0.0,
+          "bookingAudience": 46,
+          "cumulativeAudience": 10685
+        },
+        {
+          "rank": 211,
+          "movieNm": "전자오락수호대",
+          "openDt": "2026-10-14",
+          "bookingRate": 0.0,
+          "bookingAudience": 45,
+          "cumulativeAudience": 75798
+        },
+        {
+          "rank": 213,
+          "movieNm": "후광",
+          "openDt": "2026-11-11",
+          "bookingRate": 0.0,
+          "bookingAudience": 40,
+          "cumulativeAudience": 993
+        },
+        {
+          "rank": 214,
+          "movieNm": "이성과 감성",
+          "openDt": "2026-10-28",
+          "bookingRate": 0.0,
+          "bookingAudience": 38,
+          "cumulativeAudience": 12976
+        },
+        {
+          "rank": 216,
+          "movieNm": "심야근무",
+          "openDt": "2026-11-19",
+          "bookingRate": 0.0,
+          "bookingAudience": 37,
+          "cumulativeAudience": 278
+        },
+        {
+          "rank": 220,
+          "movieNm": "극장판 래브라도: 망고축제를 지켜라",
+          "openDt": "2026-10-03",
+          "bookingRate": 0.0,
+          "bookingAudience": 36,
+          "cumulativeAudience": 42548
+        },
+        {
+          "rank": 221,
+          "movieNm": "열혈남아",
+          "openDt": "1989-10-14",
+          "bookingRate": 0.0,
+          "bookingAudience": 35,
+          "cumulativeAudience": 3121
+        },
+        {
+          "rank": 222,
+          "movieNm": "안개속의 풍경",
+          "openDt": "1996-09-21",
+          "bookingRate": 0.0,
+          "bookingAudience": 34,
+          "cumulativeAudience": 2477
+        },
+        {
+          "rank": 224,
+          "movieNm": "카드캡터 체리 극장판",
+          "openDt": "2026-05-28",
+          "bookingRate": 0.0,
+          "bookingAudience": 31,
+          "cumulativeAudience": 20932
+        },
+        {
+          "rank": 224,
+          "movieNm": "7데이즈 7피플",
+          "openDt": "2026-10-28",
+          "bookingRate": 0.0,
+          "bookingAudience": 31,
+          "cumulativeAudience": 2167
+        },
+        {
+          "rank": 224,
+          "movieNm": "살목지",
+          "openDt": "2026-04-08",
+          "bookingRate": 0.0,
+          "bookingAudience": 31,
+          "cumulativeAudience": 3241545
+        },
+        {
+          "rank": 229,
+          "movieNm": "클레이페이스",
+          "openDt": "2026-10-21",
+          "bookingRate": 0.0,
+          "bookingAudience": 28,
+          "cumulativeAudience": 126758
+        },
+        {
+          "rank": 229,
+          "movieNm": "헤븐 노우즈 왓",
+          "openDt": "2026-10-14",
+          "bookingRate": 0.0,
+          "bookingAudience": 28,
+          "cumulativeAudience": 3120
+        },
+        {
+          "rank": 232,
+          "movieNm": "스틸레이",
+          "openDt": "2026-10-21",
+          "bookingRate": 0.0,
+          "bookingAudience": 26,
+          "cumulativeAudience": 5369
+        },
+        {
+          "rank": 232,
+          "movieNm": "영원과 하루",
+          "openDt": "2004-11-17",
+          "bookingRate": 0.0,
+          "bookingAudience": 26,
+          "cumulativeAudience": 8254
+        },
+        {
+          "rank": 236,
+          "movieNm": "나쁜계집애: 달려라 하니",
+          "openDt": "2025-10-07",
+          "bookingRate": 0.0,
+          "bookingAudience": 24,
+          "cumulativeAudience": 71625
+        },
+        {
+          "rank": 236,
+          "movieNm": "공무도하(公無渡河)",
+          "openDt": "2026-11-25",
+          "bookingRate": 0.0,
+          "bookingAudience": 24,
+          "cumulativeAudience": 147
+        },
+        {
+          "rank": 238,
+          "movieNm": "율리시즈의 시선",
+          "openDt": "1996-10-19",
+          "bookingRate": 0.0,
+          "bookingAudience": 23,
+          "cumulativeAudience": 304
+        },
+        {
+          "rank": 240,
+          "movieNm": "매쉬빌",
+          "openDt": "2026-10-28",
+          "bookingRate": 0.0,
+          "bookingAudience": 22,
+          "cumulativeAudience": 1262
+        },
+        {
+          "rank": 240,
+          "movieNm": "포르테",
+          "openDt": "2026-09-30",
+          "bookingRate": 0.0,
+          "bookingAudience": 22,
+          "cumulativeAudience": 955
+        },
+        {
+          "rank": 245,
+          "movieNm": "머지않아, 이별입니다",
+          "openDt": "2026-12-02",
+          "bookingRate": 0.0,
+          "bookingAudience": 21,
+          "cumulativeAudience": 142
+        },
+        {
+          "rank": 245,
+          "movieNm": "랜드 오브 울프: 죽음의 생중계",
+          "openDt": "2026-11-26",
+          "bookingRate": 0.0,
+          "bookingAudience": 21,
+          "cumulativeAudience": 0
+        },
+        {
+          "rank": 247,
+          "movieNm": "광안 : 세자의 여자",
+          "openDt": "2026-11-18",
+          "bookingRate": 0.0,
+          "bookingAudience": 20,
+          "cumulativeAudience": 708
+        },
+        {
+          "rank": 247,
+          "movieNm": "카라간다: 1994 워페어",
+          "openDt": "2026-11-13",
+          "bookingRate": 0.0,
+          "bookingAudience": 20,
+          "cumulativeAudience": 98
+        },
+        {
+          "rank": 252,
+          "movieNm": "베리 베리 스트레인지 러브",
+          "openDt": "2026-11-11",
+          "bookingRate": 0.0,
+          "bookingAudience": 18,
+          "cumulativeAudience": 426
+        },
+        {
+          "rank": 252,
+          "movieNm": "변이",
+          "openDt": "2026-11-04",
+          "bookingRate": 0.0,
+          "bookingAudience": 18,
+          "cumulativeAudience": 5631
+        },
+        {
+          "rank": 257,
+          "movieNm": "메밀꽃, 운수 좋은 날, 그리고 봄봄",
+          "openDt": "2014-08-21",
+          "bookingRate": 0.0,
+          "bookingAudience": 16,
+          "cumulativeAudience": 37266
+        },
+        {
+          "rank": 257,
+          "movieNm": "하녀",
+          "openDt": "1960-11-03",
+          "bookingRate": 0.0,
+          "bookingAudience": 16,
+          "cumulativeAudience": 11454
+        },
+        {
+          "rank": 263,
+          "movieNm": "3학년 2학기",
+          "openDt": "2025-09-03",
+          "bookingRate": 0.0,
+          "bookingAudience": 15,
+          "cumulativeAudience": 27982
+        },
+        {
+          "rank": 266,
+          "movieNm": "인생세탁소",
+          "openDt": "2026-11-04",
+          "bookingRate": 0.0,
+          "bookingAudience": 14,
+          "cumulativeAudience": 1194
+        },
+        {
+          "rank": 268,
+          "movieNm": "더 드라마",
+          "openDt": "2026-09-09",
+          "bookingRate": 0.0,
+          "bookingAudience": 13,
+          "cumulativeAudience": 91501
+        },
+        {
+          "rank": 270,
+          "movieNm": "옵세션",
+          "openDt": "2026-09-02",
+          "bookingRate": 0.0,
+          "bookingAudience": 12,
+          "cumulativeAudience": 975936
+        },
+        {
+          "rank": 277,
+          "movieNm": "에스퍼의 빛",
+          "openDt": "2025-11-05",
+          "bookingRate": 0.0,
+          "bookingAudience": 11,
+          "cumulativeAudience": 1968
+        },
+        {
+          "rank": 281,
+          "movieNm": "숀 더 쉽: 공포의 털보 괴물",
+          "openDt": "2026-10-28",
+          "bookingRate": 0.0,
+          "bookingAudience": 10,
+          "cumulativeAudience": 11500
+        },
+        {
+          "rank": 281,
+          "movieNm": "로스트 도터",
+          "openDt": "2022-07-14",
+          "bookingRate": 0.0,
+          "bookingAudience": 10,
+          "cumulativeAudience": 13033
+        },
+        {
+          "rank": 281,
+          "movieNm": "코리안 블랙 아이즈",
+          "openDt": "2026-11-11",
+          "bookingRate": 0.0,
+          "bookingAudience": 10,
+          "cumulativeAudience": 569
+        },
+        {
+          "rank": 281,
+          "movieNm": "사랑을 카피하다",
+          "openDt": "2011-05-05",
+          "bookingRate": 0.0,
+          "bookingAudience": 10,
+          "cumulativeAudience": 18985
+        },
+        {
+          "rank": 281,
+          "movieNm": "센티멘탈 밸류",
+          "openDt": "2026-02-18",
+          "bookingRate": 0.0,
+          "bookingAudience": 10,
+          "cumulativeAudience": 79820
+        },
+        {
+          "rank": 281,
+          "movieNm": "해피엔드",
+          "openDt": "1999-12-11",
+          "bookingRate": 0.0,
+          "bookingAudience": 10,
+          "cumulativeAudience": 479
+        },
+        {
+          "rank": 281,
+          "movieNm": "김복남 살인사건의 전말",
+          "openDt": "2010-09-02",
+          "bookingRate": 0.0,
+          "bookingAudience": 10,
+          "cumulativeAudience": 161722
+        },
+        {
+          "rank": 281,
+          "movieNm": "장님 버드나무와 잠자는 여자",
+          "openDt": "2026-10-28",
+          "bookingRate": 0.0,
+          "bookingAudience": 10,
+          "cumulativeAudience": 1543
+        },
+        {
+          "rank": 281,
+          "movieNm": "부에노스 아이레스여 안녕",
+          "openDt": "2026-10-21",
+          "bookingRate": 0.0,
+          "bookingAudience": 10,
+          "cumulativeAudience": 2798
+        },
+        {
+          "rank": 281,
+          "movieNm": "구제역에서 살아 돌아온 돼지",
+          "openDt": "2026-10-21",
+          "bookingRate": 0.0,
+          "bookingAudience": 10,
+          "cumulativeAudience": 2015
+        },
+        {
+          "rank": 295,
+          "movieNm": "장미의 이름",
+          "openDt": "1989-06-03",
+          "bookingRate": 0.0,
+          "bookingAudience": 9,
+          "cumulativeAudience": 5861
+        },
+        {
+          "rank": 297,
+          "movieNm": "레지던트 이블: 0번째 밤",
+          "openDt": "2026-09-17",
+          "bookingRate": 0.0,
+          "bookingAudience": 8,
+          "cumulativeAudience": 223084
+        },
+        {
+          "rank": 297,
+          "movieNm": "수능, 출제의 비밀",
+          "openDt": "2026-10-28",
+          "bookingRate": 0.0,
+          "bookingAudience": 8,
+          "cumulativeAudience": 112201
+        },
+        {
+          "rank": 307,
+          "movieNm": "어머니의 가계부",
+          "openDt": "2026-10-28",
+          "bookingRate": 0.0,
+          "bookingAudience": 7,
+          "cumulativeAudience": 955
+        },
+        {
+          "rank": 312,
+          "movieNm": "스파이더맨: 브랜드 뉴 데이",
+          "openDt": "2026-07-29",
+          "bookingRate": 0.0,
+          "bookingAudience": 6,
+          "cumulativeAudience": 9057126
+        },
+        {
+          "rank": 312,
+          "movieNm": "프레데터: 죽음의 땅",
+          "openDt": "2025-11-05",
+          "bookingRate": 0.0,
+          "bookingAudience": 6,
+          "cumulativeAudience": 422966
+        },
+        {
+          "rank": 312,
+          "movieNm": "파계",
+          "openDt": "1974-11-09",
+          "bookingRate": 0.0,
+          "bookingAudience": 6,
+          "cumulativeAudience": 6
+        },
+        {
+          "rank": 312,
+          "movieNm": "비키퍼",
+          "openDt": "2004-10-27",
+          "bookingRate": 0.0,
+          "bookingAudience": 6,
+          "cumulativeAudience": 239
+        },
+        {
+          "rank": 319,
+          "movieNm": "아름다운 청년 전태일",
+          "openDt": "1995-11-18",
+          "bookingRate": 0.0,
+          "bookingAudience": 5,
+          "cumulativeAudience": 21
+        },
+        {
+          "rank": 319,
+          "movieNm": "패터슨",
+          "openDt": "2017-12-21",
+          "bookingRate": 0.0,
+          "bookingAudience": 5,
+          "cumulativeAudience": 70305
+        },
+        {
+          "rank": 319,
+          "movieNm": "런치박스",
+          "openDt": "2014-04-10",
+          "bookingRate": 0.0,
+          "bookingAudience": 5,
+          "cumulativeAudience": 14771
+        },
+        {
+          "rank": 319,
+          "movieNm": "살인나비를 쫓는 여자",
+          "openDt": "1979-12-08",
+          "bookingRate": 0.0,
+          "bookingAudience": 5,
+          "cumulativeAudience": 404
+        },
+        {
+          "rank": 319,
+          "movieNm": "부활 그 사랑",
+          "openDt": "2026-10-29",
+          "bookingRate": 0.0,
+          "bookingAudience": 5,
+          "cumulativeAudience": 5058
+        },
+        {
+          "rank": 325,
+          "movieNm": "메릴 스트립 프로젝트",
+          "openDt": "2026-10-28",
+          "bookingRate": 0.0,
+          "bookingAudience": 4,
+          "cumulativeAudience": 1298
+        },
+        {
+          "rank": 325,
+          "movieNm": "비천괴수",
+          "openDt": "1985-01-12",
+          "bookingRate": 0.0,
+          "bookingAudience": 4,
+          "cumulativeAudience": 0
+        },
+        {
+          "rank": 325,
+          "movieNm": "차이나타운",
+          "openDt": "2015-04-29",
+          "bookingRate": 0.0,
+          "bookingAudience": 4,
+          "cumulativeAudience": 1472147
+        },
+        {
+          "rank": 331,
+          "movieNm": "극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대",
+          "openDt": "2023-05-04",
+          "bookingRate": 0.0,
+          "bookingAudience": 3,
+          "cumulativeAudience": 732188
+        },
+        {
+          "rank": 331,
+          "movieNm": "극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교",
+          "openDt": "2022-09-28",
+          "bookingRate": 0.0,
+          "bookingAudience": 3,
+          "cumulativeAudience": 837755
+        },
+        {
+          "rank": 331,
+          "movieNm": "꿈꾸던 모험",
+          "openDt": "2026-09-23",
+          "bookingRate": 0.0,
+          "bookingAudience": 3,
+          "cumulativeAudience": 2603
+        },
+        {
+          "rank": 331,
+          "movieNm": "바다 탐험대 옥토넛 어보브 앤 비욘드 : 두근두근 대자연 어드벤처",
+          "openDt": "2026-09-23",
+          "bookingRate": 0.0,
+          "bookingAudience": 3,
+          "cumulativeAudience": 25434
+        },
+        {
+          "rank": 331,
+          "movieNm": "비바리움",
+          "openDt": "2020-07-16",
+          "bookingRate": 0.0,
+          "bookingAudience": 3,
+          "cumulativeAudience": 23805
+        },
+        {
+          "rank": 331,
+          "movieNm": "러브 달바",
+          "openDt": "2024-08-14",
+          "bookingRate": 0.0,
+          "bookingAudience": 3,
+          "cumulativeAudience": 1187
+        },
+        {
+          "rank": 340,
+          "movieNm": "피닉스",
+          "openDt": "2021-07-22",
+          "bookingRate": 0.0,
+          "bookingAudience": 2,
+          "cumulativeAudience": 15638
+        },
+        {
+          "rank": 340,
+          "movieNm": "나의 사적인 예술가",
+          "openDt": "2026-09-23",
+          "bookingRate": 0.0,
+          "bookingAudience": 2,
+          "cumulativeAudience": 11151
+        },
+        {
+          "rank": 340,
+          "movieNm": "밀양",
+          "openDt": "2007-05-23",
+          "bookingRate": 0.0,
+          "bookingAudience": 2,
+          "cumulativeAudience": 1608168
+        },
+        {
+          "rank": 340,
+          "movieNm": "킬링타임",
+          "openDt": "2026-10-21",
+          "bookingRate": 0.0,
+          "bookingAudience": 2,
+          "cumulativeAudience": 28400
+        },
+        {
+          "rank": 340,
+          "movieNm": "극장판 짱구는 못말려: 초화려! 작열하는 떡잎마을 댄서즈",
+          "openDt": "2025-12-24",
+          "bookingRate": 0.0,
+          "bookingAudience": 2,
+          "cumulativeAudience": 488704
+        },
+        {
+          "rank": 340,
+          "movieNm": "다음 소희",
+          "openDt": "2023-02-08",
+          "bookingRate": 0.0,
+          "bookingAudience": 2,
+          "cumulativeAudience": 119174
+        },
+        {
+          "rank": 340,
+          "movieNm": "국보",
+          "openDt": "2025-11-19",
+          "bookingRate": 0.0,
+          "bookingAudience": 2,
+          "cumulativeAudience": 221978
+        },
+        {
+          "rank": 340,
+          "movieNm": "수능 창시자",
+          "openDt": "2026-11-25",
+          "bookingRate": 0.0,
+          "bookingAudience": 2,
+          "cumulativeAudience": 32
+        },
+        {
+          "rank": 340,
+          "movieNm": "유레카",
+          "openDt": "2026-05-27",
+          "bookingRate": 0.0,
+          "bookingAudience": 2,
+          "cumulativeAudience": 12930
+        },
+        {
+          "rank": 355,
+          "movieNm": "로봇 드림",
+          "openDt": "2024-03-13",
+          "bookingRate": 0.0,
+          "bookingAudience": 1,
+          "cumulativeAudience": 71358
+        },
+        {
+          "rank": 355,
+          "movieNm": "차오",
+          "openDt": "2026-10-21",
+          "bookingRate": 0.0,
+          "bookingAudience": 1,
+          "cumulativeAudience": 2018
+        },
+        {
+          "rank": 355,
+          "movieNm": "잠",
+          "openDt": "2023-09-06",
+          "bookingRate": 0.0,
+          "bookingAudience": 1,
+          "cumulativeAudience": 1470553
+        },
+        {
+          "rank": 355,
+          "movieNm": "호랑이 소녀",
+          "openDt": "2025-05-07",
+          "bookingRate": 0.0,
+          "bookingAudience": 1,
+          "cumulativeAudience": 409
+        },
+        {
+          "rank": 355,
+          "movieNm": "씽씽",
+          "openDt": "2026-10-21",
+          "bookingRate": 0.0,
+          "bookingAudience": 1,
+          "cumulativeAudience": 3803
+        },
+        {
+          "rank": 355,
+          "movieNm": "이처럼 사소한 것들",
+          "openDt": "2024-12-11",
+          "bookingRate": 0.0,
+          "bookingAudience": 1,
+          "cumulativeAudience": 61418
+        },
+        {
+          "rank": 355,
+          "movieNm": "열정",
+          "openDt": "2026-12-09",
+          "bookingRate": 0.0,
+          "bookingAudience": 1,
+          "cumulativeAudience": 1730
         }
       ]
     }
