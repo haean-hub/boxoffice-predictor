@@ -4852,7 +4852,7 @@
         "rank": 6,
         "openDt": "2016-12-07",
         "audiCnt": 4787,
-        "audiAcc": 3882128,
+        "audiAcc": 3882126,
         "scrnCnt": 397,
         "showCnt": 541
       },
@@ -4964,7 +4964,7 @@
         "rank": 7,
         "openDt": "2016-12-07",
         "audiCnt": 5438,
-        "audiAcc": 3887566,
+        "audiAcc": 3887564,
         "scrnCnt": 411,
         "showCnt": 580
       },
@@ -4998,7 +4998,109 @@
         "scrnCnt": 393,
         "showCnt": 583
       }
+    ],
+    "20261121": [
+      {
+        "movieCd": "20247221",
+        "movieNm": "폭설",
+        "rank": 1,
+        "openDt": "2026-11-18",
+        "audiCnt": 130770,
+        "audiAcc": 311709,
+        "scrnCnt": 1238,
+        "showCnt": 4774
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 2,
+        "openDt": "2026-09-30",
+        "audiCnt": 43003,
+        "audiAcc": 3031613,
+        "scrnCnt": 746,
+        "showCnt": 2061
+      },
+      {
+        "movieCd": "20267121",
+        "movieNm": "헝거게임 50번째 추첨의 날",
+        "rank": 3,
+        "openDt": "2026-11-18",
+        "audiCnt": 24732,
+        "audiAcc": 72101,
+        "scrnCnt": 819,
+        "showCnt": 1845
+      },
+      {
+        "movieCd": "20264957",
+        "movieNm": "폴2: 데드포인트",
+        "rank": 4,
+        "openDt": "2026-11-11",
+        "audiCnt": 22382,
+        "audiAcc": 222383,
+        "scrnCnt": 744,
+        "showCnt": 1735
+      },
+      {
+        "movieCd": "20268264",
+        "movieNm": "임영웅ㅣ아임 히어로 더 스타디움 2",
+        "rank": 5,
+        "openDt": "2026-11-18",
+        "audiCnt": 13525,
+        "audiAcc": 51466,
+        "scrnCnt": 154,
+        "showCnt": 497
+      },
+      {
+        "movieCd": "20167904",
+        "movieNm": "라라랜드",
+        "rank": 6,
+        "openDt": "2016-12-07",
+        "audiCnt": 8646,
+        "audiAcc": 3896210,
+        "scrnCnt": 411,
+        "showCnt": 563
+      },
+      {
+        "movieCd": "20267846",
+        "movieNm": "극장판 마카앤로니: 기억탐험 대소동!",
+        "rank": 7,
+        "openDt": "2026-11-14",
+        "audiCnt": 6786,
+        "audiAcc": 33798,
+        "scrnCnt": 199,
+        "showCnt": 369
+      },
+      {
+        "movieCd": "20267697",
+        "movieNm": "명탐정 코난: 30호 살인 사건",
+        "rank": 8,
+        "openDt": "2026-11-05",
+        "audiCnt": 5946,
+        "audiAcc": 194392,
+        "scrnCnt": 208,
+        "showCnt": 318
+      },
+      {
+        "movieCd": "20259894",
+        "movieNm": "최종면접",
+        "rank": 9,
+        "openDt": "2026-11-04",
+        "audiCnt": 5863,
+        "audiAcc": 318755,
+        "scrnCnt": 508,
+        "showCnt": 831
+      },
+      {
+        "movieCd": "20267412",
+        "movieNm": "극장판 마법소녀 마도카☆마기카〈발푸르기스의 회천〉",
+        "rank": 10,
+        "openDt": "2026-11-04",
+        "audiCnt": 4219,
+        "audiAcc": 80595,
+        "scrnCnt": 125,
+        "showCnt": 214
+      }
     ]
   },
-  "lastCollectedKST": "2026-11-21T17:16:19+09:00"
+  "lastCollectedKST": "2026-11-22T16:58:52+09:00"
 }
