@@ -5352,7 +5352,7 @@
         "rank": 5,
         "openDt": "2026-11-18",
         "audiCnt": 3834,
-        "audiAcc": 68892,
+        "audiAcc": 68891,
         "scrnCnt": 144,
         "showCnt": 394
       },
@@ -5433,10 +5433,10 @@
         "movieNm": "극장판 치이카와: 인어 섬의 비밀",
         "rank": 3,
         "openDt": "2026-09-30",
-        "audiCnt": 23140,
-        "audiAcc": 3104389,
+        "audiCnt": 23122,
+        "audiAcc": 3104371,
         "scrnCnt": 500,
-        "showCnt": 828
+        "showCnt": 827
       },
       {
         "movieCd": "20264608",
@@ -5494,7 +5494,7 @@
         "rank": 9,
         "openDt": "2026-11-18",
         "audiCnt": 3842,
-        "audiAcc": 72734,
+        "audiAcc": 72733,
         "scrnCnt": 144,
         "showCnt": 342
       },
@@ -5508,7 +5508,109 @@
         "scrnCnt": 410,
         "showCnt": 604
       }
+    ],
+    "20261126": [
+      {
+        "movieCd": "20247221",
+        "movieNm": "폭설",
+        "rank": 1,
+        "openDt": "2026-11-18",
+        "audiCnt": 34140,
+        "audiAcc": 577754,
+        "scrnCnt": 981,
+        "showCnt": 2909
+      },
+      {
+        "movieCd": "20244970",
+        "movieNm": "슬픈 열대",
+        "rank": 2,
+        "openDt": "2026-11-25",
+        "audiCnt": 21441,
+        "audiAcc": 54953,
+        "scrnCnt": 902,
+        "showCnt": 2700
+      },
+      {
+        "movieCd": "20264608",
+        "movieNm": "헥스: 마녀왕국",
+        "rank": 3,
+        "openDt": "2026-11-25",
+        "audiCnt": 13469,
+        "audiAcc": 36833,
+        "scrnCnt": 729,
+        "showCnt": 1661
+      },
+      {
+        "movieCd": "20267121",
+        "movieNm": "헝거게임 50번째 추첨의 날",
+        "rank": 4,
+        "openDt": "2026-11-18",
+        "audiCnt": 5462,
+        "audiAcc": 120162,
+        "scrnCnt": 465,
+        "showCnt": 656
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 5,
+        "openDt": "2026-09-30",
+        "audiCnt": 5415,
+        "audiAcc": 3109786,
+        "scrnCnt": 450,
+        "showCnt": 722
+      },
+      {
+        "movieCd": "20263271",
+        "movieNm": "미트 페어런츠 4",
+        "rank": 6,
+        "openDt": "2026-11-25",
+        "audiCnt": 5252,
+        "audiAcc": 12098,
+        "scrnCnt": 381,
+        "showCnt": 585
+      },
+      {
+        "movieCd": "20268264",
+        "movieNm": "임영웅ㅣ아임 히어로 더 스타디움 2",
+        "rank": 7,
+        "openDt": "2026-11-18",
+        "audiCnt": 3493,
+        "audiAcc": 76226,
+        "scrnCnt": 143,
+        "showCnt": 311
+      },
+      {
+        "movieCd": "20264957",
+        "movieNm": "폴2: 데드포인트",
+        "rank": 8,
+        "openDt": "2026-11-11",
+        "audiCnt": 2935,
+        "audiAcc": 258298,
+        "scrnCnt": 416,
+        "showCnt": 590
+      },
+      {
+        "movieCd": "20257409",
+        "movieNm": "완벽한 집",
+        "rank": 9,
+        "openDt": "2026-11-25",
+        "audiCnt": 2636,
+        "audiAcc": 8208,
+        "scrnCnt": 276,
+        "showCnt": 447
+      },
+      {
+        "movieCd": "20158492",
+        "movieNm": "진격의 거인: 자유의 날개",
+        "rank": 10,
+        "openDt": "2015-12-10",
+        "audiCnt": 2098,
+        "audiAcc": 14529,
+        "scrnCnt": 157,
+        "showCnt": 237
+      }
     ]
   },
-  "lastCollectedKST": "2026-11-26T18:30:35+09:00"
+  "lastCollectedKST": "2026-11-27T18:39:57+09:00"
 }
