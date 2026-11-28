@@ -5610,7 +5610,109 @@
         "scrnCnt": 157,
         "showCnt": 237
       }
+    ],
+    "20261127": [
+      {
+        "movieCd": "20247221",
+        "movieNm": "폭설",
+        "rank": 1,
+        "openDt": "2026-11-18",
+        "audiCnt": 45925,
+        "audiAcc": 623679,
+        "scrnCnt": 1043,
+        "showCnt": 3263
+      },
+      {
+        "movieCd": "20244970",
+        "movieNm": "슬픈 열대",
+        "rank": 2,
+        "openDt": "2026-11-25",
+        "audiCnt": 20608,
+        "audiAcc": 75561,
+        "scrnCnt": 910,
+        "showCnt": 2811
+      },
+      {
+        "movieCd": "20264608",
+        "movieNm": "헥스: 마녀왕국",
+        "rank": 3,
+        "openDt": "2026-11-25",
+        "audiCnt": 15969,
+        "audiAcc": 52802,
+        "scrnCnt": 767,
+        "showCnt": 1874
+      },
+      {
+        "movieCd": "20267121",
+        "movieNm": "헝거게임 50번째 추첨의 날",
+        "rank": 4,
+        "openDt": "2026-11-18",
+        "audiCnt": 7676,
+        "audiAcc": 127838,
+        "scrnCnt": 496,
+        "showCnt": 709
+      },
+      {
+        "movieCd": "20261807",
+        "movieNm": "극장판 치이카와: 인어 섬의 비밀",
+        "rank": 5,
+        "openDt": "2026-09-30",
+        "audiCnt": 6677,
+        "audiAcc": 3116463,
+        "scrnCnt": 483,
+        "showCnt": 803
+      },
+      {
+        "movieCd": "20263271",
+        "movieNm": "미트 페어런츠 4",
+        "rank": 6,
+        "openDt": "2026-11-25",
+        "audiCnt": 4765,
+        "audiAcc": 16863,
+        "scrnCnt": 392,
+        "showCnt": 588
+      },
+      {
+        "movieCd": "20264957",
+        "movieNm": "폴2: 데드포인트",
+        "rank": 7,
+        "openDt": "2026-11-11",
+        "audiCnt": 3902,
+        "audiAcc": 262200,
+        "scrnCnt": 438,
+        "showCnt": 653
+      },
+      {
+        "movieCd": "20268264",
+        "movieNm": "임영웅ㅣ아임 히어로 더 스타디움 2",
+        "rank": 8,
+        "openDt": "2026-11-18",
+        "audiCnt": 3146,
+        "audiAcc": 79372,
+        "scrnCnt": 144,
+        "showCnt": 305
+      },
+      {
+        "movieCd": "20050082",
+        "movieNm": "이터널 선샤인",
+        "rank": 9,
+        "openDt": "2005-11-10",
+        "audiCnt": 2565,
+        "audiAcc": 606327,
+        "scrnCnt": 98,
+        "showCnt": 172
+      },
+      {
+        "movieCd": "20158492",
+        "movieNm": "진격의 거인: 자유의 날개",
+        "rank": 10,
+        "openDt": "2015-12-10",
+        "audiCnt": 2498,
+        "audiAcc": 17027,
+        "scrnCnt": 149,
+        "showCnt": 243
+      }
     ]
   },
-  "lastCollectedKST": "2026-11-27T18:39:57+09:00"
+  "lastCollectedKST": "2026-11-28T17:54:38+09:00"
 }
